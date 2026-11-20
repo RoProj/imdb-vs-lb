@@ -1,0 +1,501 @@
+list,rank,title,year,country,director_country,countries,imdb_id,rating_10
+IMDb250,1,The Shawshank Redemption,1994,United States,United States,United States,tt0111161,9.3
+IMDb250,2,The Godfather,1972,United States,United States,United States,tt0068646,9.2
+IMDb250,3,The Dark Knight,2008,United States,United Kingdom,United States; United Kingdom,tt0468569,9.1
+IMDb250,4,The Godfather Part II,1974,United States,United States,United States,tt0071562,9
+IMDb250,5,The Lord of the Rings: The Return of the King,2003,New Zealand,New Zealand,New Zealand; United States,tt0167260,9
+IMDb250,6,12 Angry Men,1957,United States,United States,United States,tt0050083,9
+IMDb250,7,Schindler's List,1993,United States,United States,United States,tt0108052,9
+IMDb250,8,The Lord of the Rings: The Fellowship of the Ring,2001,New Zealand,New Zealand,New Zealand; United States,tt0120737,8.9
+IMDb250,9,Pulp Fiction,1994,United States,United States,United States,tt0110912,8.8
+IMDb250,10,The Lord of the Rings: The Two Towers,2002,New Zealand,New Zealand,New Zealand; United States,tt0167261,8.8
+IMDb250,11,"The Good, the Bad and the Ugly",1966,Italy,Italy,Italy; Spain; West Germany; United States,tt0060196,8.8
+IMDb250,12,Forrest Gump,1994,United States,United States,United States,tt0109830,8.8
+IMDb250,13,Inception,2010,United Kingdom,United Kingdom,United Kingdom; United States,tt1375666,8.8
+IMDb250,14,Fight Club,1999,United States,United States,United States; Germany,tt0137523,8.8
+IMDb250,15,Star Wars: Episode V - The Empire Strikes Back,1980,United States,United States,United States,tt0080684,8.7
+IMDb250,16,The Matrix,1999,United States,United States,United States,tt0133093,8.7
+IMDb250,17,Interstellar,2014,United States,United Kingdom,United States; United Kingdom; Canada,tt0816692,8.7
+IMDb250,18,GoodFellas,1990,United States,United States,United States,tt0099685,8.7
+IMDb250,19,One Flew Over the Cuckoo's Nest,1975,United States,Czech Republic,United States,tt0073486,8.6
+IMDb250,20,Seven,1995,United States,United States,United States,tt0114369,8.6
+IMDb250,21,It's a Wonderful Life,1946,United States,Italy,United States,tt0038650,8.6
+IMDb250,22,The Silence of the Lambs,1991,United States,United States,United States,tt0102926,8.6
+IMDb250,23,Saving Private Ryan,1998,United States,United States,United States,tt0120815,8.6
+IMDb250,24,Seven Samurai,1954,Japan,Japan,Japan,tt0047478,8.6
+IMDb250,25,The Green Mile,1999,United States,United States,United States,tt0120689,8.6
+IMDb250,26,City of God,2002,Brazil,Brazil,Brazil,tt0317248,8.6
+IMDb250,27,Life Is Beautiful,1997,Italy,Italy,Italy,tt0118799,8.6
+IMDb250,28,Terminator 2: Judgment Day,1991,United States,Canada,United States; France,tt0103064,8.6
+IMDb250,29,Back to the Future,1985,United States,United States,United States,tt0088763,8.5
+IMDb250,30,Star Wars: Episode IV - A New Hope,1977,United States,United States,United States,tt0076759,8.6
+IMDb250,31,Spirited Away,2001,Japan,Japan,Japan; United States,tt0245429,8.6
+IMDb250,32,Gladiator,2000,United Kingdom,United Kingdom,United Kingdom; Malta; Morocco; United States,tt0172495,8.5
+IMDb250,33,The Pianist,2002,France,France,France; Poland; Germany; United Kingdom; United States,tt0253474,8.5
+IMDb250,34,Kill Bill: The Whole Bloody Affair,2004,United States,United States,United States,tt6019206,8.7
+IMDb250,35,Parasite,2019,South Korea,South Korea,South Korea,tt6751668,8.5
+IMDb250,36,Grave of the Fireflies,1988,Japan,Japan,Japan,tt0095327,8.5
+IMDb250,37,Harakiri,1962,Japan,Japan,Japan,tt0056058,8.6
+IMDb250,38,The Lion King,1994,United States,United States,United States,tt0110357,8.5
+IMDb250,39,Psycho,1960,United States,United Kingdom,United States,tt0054215,8.5
+IMDb250,40,The Departed,2006,United States,United States,United States; Hong Kong,tt0407887,8.5
+IMDb250,41,Whiplash,2014,United States,United States,United States,tt2582802,8.5
+IMDb250,42,The Prestige,2006,United Kingdom,United Kingdom,United Kingdom; United States,tt0482571,8.5
+IMDb250,43,American History X,1998,United States,United Kingdom,United States,tt0120586,8.5
+IMDb250,44,Spider-Man: Across the Spider-Verse,2023,United States,Portugal,United States,tt9362722,8.5
+IMDb250,45,Cinema Paradiso,1988,Italy,Italy,Italy; France,tt0095765,8.5
+IMDb250,46,Leon,1994,France,France,France; United States,tt0110413,8.5
+IMDb250,47,Casablanca,1942,United States,Hungary,United States,tt0034583,8.5
+IMDb250,48,Untouchable,2011,France,France,France,tt1675434,8.5
+IMDb250,49,The Usual Suspects,1995,United States,United States,United States; Germany,tt0114814,8.5
+IMDb250,50,Django Unchained,2012,United States,United States,United States,tt1853728,8.5
+IMDb250,51,Alien,1979,United Kingdom,United Kingdom,United Kingdom; United States,tt0078748,8.4
+IMDb250,52,Rear Window,1954,United States,United Kingdom,United States,tt0047396,8.4
+IMDb250,53,Modern Times,1936,United States,United Kingdom,United States,tt0027977,8.5
+IMDb250,54,Once Upon a Time in the West,1968,Italy,Italy,Italy; United States,tt0064116,8.5
+IMDb250,55,WALL·E,2008,United States,United States,United States; Japan,tt0910970,8.4
+IMDb250,56,City Lights,1931,United States,United Kingdom,United States,tt0021749,8.5
+IMDb250,57,Apocalypse Now,1979,United States,United States,United States,tt0078788,8.4
+IMDb250,58,Avengers: Infinity War,2018,United States,United States,United States; Norway,tt4154756,8.4
+IMDb250,59,Memento,2000,United States,United Kingdom,United States,tt0209144,8.4
+IMDb250,60,Dune: Part Two,2024,United States,Canada,United States; Canada; United Arab Emirates; Hungary; Italy; New Zealand; Jordan,tt15239678,8.4
+IMDb250,61,Raiders of the Lost Ark,1981,United States,United States,United States,tt0082971,8.4
+IMDb250,62,Spider-Man: Into the Spider-Verse,2018,United States,United States,United States,tt4633694,8.4
+IMDb250,63,The Lives of Others,2006,Germany,Germany,Germany; France,tt0405094,8.4
+IMDb250,64,Sunset Boulevard,1950,United States,Austria,United States,tt0043014,8.4
+IMDb250,65,Witness for the Prosecution,1957,United States,Austria,United States,tt0051201,8.4
+IMDb250,66,Paths of Glory,1957,United States,United States,United States,tt0050825,8.4
+IMDb250,67,Inglourious Basterds,2009,United States,United States,United States; Germany,tt0361748,8.4
+IMDb250,68,The Shining,1980,United Kingdom,United States,United Kingdom; United States,tt0081505,8.4
+IMDb250,69,The Great Dictator,1940,United States,United Kingdom,United States,tt0032553,8.4
+IMDb250,70,The Odyssey,2026,United Kingdom,United Kingdom,United Kingdom; United States; Canada; New Zealand; Iceland,tt33764258,8.4
+IMDb250,71,Aliens,1986,United Kingdom,Canada,United Kingdom; United States,tt0090605,8.4
+IMDb250,72,High and Low,1963,Japan,Japan,Japan,tt0057565,8.4
+IMDb250,73,12th Fail,2023,India,India,India,tt23849204,8.7
+IMDb250,74,Avengers: Endgame,2019,United States,United States,United States,tt4154796,8.4
+IMDb250,75,Good Will Hunting,1997,United States,United States,United States,tt0119217,8.4
+IMDb250,76,Coco,2017,United States,United States,United States; Mexico; Japan,tt2380307,8.4
+IMDb250,77,Toy Story,1995,United States,United States,United States,tt0114709,8.3
+IMDb250,78,The Dark Knight Rises,2012,United Kingdom,United Kingdom,United Kingdom; United States,tt1345836,8.4
+IMDb250,79,Amadeus,1984,United States,Czech Republic,United States; France,tt0086879,8.4
+IMDb250,80,Your Name.,2016,Japan,Japan,Japan,tt5311514,8.4
+IMDb250,81,3 Idiots,2009,India,India,India,tt1187043,8.4
+IMDb250,82,Braveheart,1995,United States,United States,United States,tt0112573,8.3
+IMDb250,83,Das Boot,1981,Germany,Germany,West Germany,tt0082096,8.3
+IMDb250,84,Princess Mononoke,1997,Japan,Japan,Japan,tt0119698,8.3
+IMDb250,85,Oldboy,2003,South Korea,South Korea,South Korea,tt0364569,8.3
+IMDb250,86,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,United Kingdom,United States,United Kingdom,tt0057012,8.3
+IMDb250,87,Attack on Titan: The Last Attack,2024,Japan,,Japan,tt33175825,8.9
+IMDb250,88,American Beauty,1999,United States,United Kingdom,United States,tt0169547,8.3
+IMDb250,89,Wildwood,2026,United States,United States,United States; United Kingdom; Canada,tt2056785,8.6
+IMDb250,90,Capernaum,2018,Lebanon,Lebanon,Lebanon; United States; France; Cyprus; Qatar; United Kingdom,tt8267604,8.4
+IMDb250,91,Singin' in the Rain,1952,United States,United States,United States,tt0045152,8.3
+IMDb250,92,Once Upon a Time in America,1984,Italy,Italy,Italy; United States,tt0087843,8.3
+IMDb250,93,Joker,2019,United States,United States,United States; Canada; Australia,tt7286456,8.3
+IMDb250,94,Toy Story 3,2010,United States,United States,United States; Japan; India; United Kingdom; Australia,tt0435761,8.3
+IMDb250,95,Star Wars: Episode VI - Return of the Jedi,1983,United States,United Kingdom,United States,tt0086190,8.3
+IMDb250,96,Come and See,1985,Russia,Russia,Soviet Union,tt0091251,8.3
+IMDb250,97,Requiem for a Dream,2000,United States,United States,United States,tt0180093,8.3
+IMDb250,98,Incendies,2010,Canada,Canada,Canada; France,tt1255953,8.3
+IMDb250,99,Ikiru,1952,Japan,Japan,Japan,tt0044741,8.3
+IMDb250,100,The Hunt,2012,Denmark,Kingdom of Denmark,Denmark; Sweden; Belgium; France,tt2106476,8.3
+IMDb250,101,Eternal Sunshine of the Spotless Mind,2004,United States,France,United States,tt0338013,8.3
+IMDb250,102,The Apartment,1960,United States,Austria,United States,tt0053604,8.3
+IMDb250,103,Lawrence of Arabia,1962,United Kingdom,United Kingdom,United Kingdom,tt0056172,8.3
+IMDb250,104,Heat,1995,United States,United States,United States,tt0113277,8.3
+IMDb250,105,Scarface,1983,United States,United States,United States,tt0086250,8.3
+IMDb250,106,Up,2009,United States,United States,United States; Japan,tt1049413,8.3
+IMDb250,107,Reservoir Dogs,1992,United States,United States,United States,tt0105236,8.2
+IMDb250,108,2001: A Space Odyssey,1968,United Kingdom,United States,United Kingdom; United States,tt0062622,8.3
+IMDb250,109,Double Indemnity,1944,United States,Austria,United States,tt0036775,8.3
+IMDb250,110,Like Stars on Earth,2007,India,India,India,tt0986264,8.3
+IMDb250,111,North by Northwest,1959,United States,United Kingdom,United States,tt0053125,8.2
+IMDb250,112,Full Metal Jacket,1987,United Kingdom,United States,United Kingdom; United States,tt0093058,8.2
+IMDb250,113,A Separation,2011,Iran,Iran,Iran; France; Australia,tt1832382,8.3
+IMDb250,114,I Swear,2025,United Kingdom,United Kingdom,United Kingdom; Ireland,tt31514146,8.3
+IMDb250,115,Die Hard,1988,United States,United States,United States,tt0095016,8.2
+IMDb250,116,M,1931,Germany,Austria,Germany,tt0022100,8.3
+IMDb250,117,Indiana Jones and the Last Crusade,1989,United States,United States,United States; United Kingdom; Spain; Italy; Jordan,tt0097576,8.2
+IMDb250,118,To Kill a Mockingbird,1962,United States,United States,United States,tt0056592,8.2
+IMDb250,119,Amélie,2001,France,France,France; Germany,tt0211915,8.2
+IMDb250,120,Citizen Kane,1941,United States,United States,United States,tt0033467,8.2
+IMDb250,121,Vertigo,1958,United States,United Kingdom,United States,tt0052357,8.2
+IMDb250,122,The Sting,1973,United States,United States,United States,tt0070735,8.2
+IMDb250,123,The Truman Show,1998,United States,Australia,United States,tt0120382,8.2
+IMDb250,124,The Wolf of Wall Street,2013,United States,United States,United States,tt0993846,8.2
+IMDb250,125,A Clockwork Orange,1971,United Kingdom,United States,United Kingdom; United States,tt0066921,8.2
+IMDb250,126,Metropolis,1927,Germany,Austria,Germany,tt0017136,8.2
+IMDb250,127,1917,2019,United Kingdom,United Kingdom,United Kingdom; India; Spain; South Korea; United States,tt8579674,8.2
+IMDb250,128,Snatch,2000,United Kingdom,United Kingdom,United Kingdom; United States,tt0208092,8.2
+IMDb250,129,Shutter Island,2010,Canada,United States,Canada; United States,tt1130884,8.2
+IMDb250,130,Downfall,2004,Germany,Germany,Germany; Austria; Italy,tt0363163,8.2
+IMDb250,131,L.A. Confidential,1997,United States,United States,United States,tt0119488,8.2
+IMDb250,132,Green Book,2018,China,United States,China; South Korea; United States,tt6966692,8.2
+IMDb250,133,Dangal,2016,India,India,India; United States,tt5074352,8.3
+IMDb250,134,Bicycle Thieves,1948,Italy,Italy,Italy,tt0040522,8.2
+IMDb250,135,Judgment at Nuremberg,1961,United States,United States,United States,tt0055031,8.3
+IMDb250,136,Jurassic Park,1993,United States,United States,United States,tt0107290,8.2
+IMDb250,137,Batman Begins,2005,United States,United Kingdom,United States; United Kingdom,tt0372784,8.2
+IMDb250,138,Woman of the Dunes,1964,Japan,Japan,Japan,tt0058625,8.4
+IMDb250,139,Oppenheimer,2023,United States,United Kingdom,United States; United Kingdom,tt15398776,8.2
+IMDb250,140,For a Few Dollars More,1965,Italy,Italy,Italy; Spain; West Germany,tt0059578,8.2
+IMDb250,141,There Will Be Blood,2007,United States,United States,United States,tt0469494,8.2
+IMDb250,142,Hamilton,2020,United States,United States,United States,tt8503618,8.3
+IMDb250,143,Some Like It Hot,1959,United States,Austria,United States,tt0053291,8.2
+IMDb250,144,Taxi Driver,1976,United States,United States,United States,tt0075314,8.2
+IMDb250,145,The Father,2020,United Kingdom,France,United Kingdom; France; United States,tt10272386,8.2
+IMDb250,146,The Sixth Sense,1999,United States,India,United States,tt0167404,8.2
+IMDb250,147,All About Eve,1950,United States,United States,United States,tt0042192,8.2
+IMDb250,148,The Kid,1921,United States,United Kingdom,United States,tt0012349,8.2
+IMDb250,149,Ran,1985,Japan,Japan,Japan; France,tt0089881,8.2
+IMDb250,150,The Thing,1982,United States,United States,United States,tt0084787,8.2
+IMDb250,151,Casino,1995,United States,United States,United States; France,tt0112641,8.2
+IMDb250,152,No Country for Old Men,2007,United States,United States,United States,tt0477348,8.2
+IMDb250,153,Prisoners,2013,United States,Canada,United States,tt1392214,8.2
+IMDb250,154,Top Gun: Maverick,2022,United States,United States,United States,tt1745960,8.2
+IMDb250,155,Kill Bill: Vol. 1,2003,United States,United States,United States,tt0266697,8.2
+IMDb250,156,Pan's Labyrinth,2006,Mexico,Mexico,Mexico; Spain,tt0457430,8.2
+IMDb250,157,Unforgiven,1992,United States,United States,United States,tt0105695,8.2
+IMDb250,158,A Beautiful Mind,2001,United States,United States,United States,tt0268978,8.2
+IMDb250,159,Howl's Moving Castle,2004,Japan,Japan,Japan; United States,tt0347149,8.2
+IMDb250,160,The Treasure of the Sierra Madre,1948,United States,United States,United States,tt0040897,8.2
+IMDb250,161,Finding Nemo,2003,United States,United States,United States; Japan,tt0266543,8.2
+IMDb250,162,Klaus,2019,Spain,Spain,Spain; United Kingdom; United States; Austria; Canada; France,tt4729430,8.2
+IMDb250,163,Project Hail Mary,2026,United States,United States,United States,tt12042730,8.2
+IMDb250,164,Yojimbo,1961,Japan,Japan,Japan,tt0055630,8.2
+IMDb250,165,The Elephant Man,1980,United States,United States,United States; United Kingdom,tt0080678,8.2
+IMDb250,166,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,Japan,Japan,Japan; United States,tt32820897,8.3
+IMDb250,167,The Great Escape,1963,United States,United States,United States,tt0057115,8.2
+IMDb250,168,Monty Python and the Holy Grail,1975,United Kingdom,United States,United Kingdom,tt0071853,8.1
+IMDb250,169,Dial M for Murder,1954,United States,United Kingdom,United States,tt0046912,8.1
+IMDb250,170,The Secret in Their Eyes,2009,Argentina,Argentina,Argentina; Spain,tt1305806,8.2
+IMDb250,171,Gone with the Wind,1939,United States,United States,United States,tt0031381,8.2
+IMDb250,172,"Lock, Stock and Two Smoking Barrels",1998,United Kingdom,United Kingdom,United Kingdom; United States,tt0120735,8.1
+IMDb250,173,Catch Me If You Can,2002,United States,United States,United States; Canada,tt0264464,8.1
+IMDb250,174,Chinatown,1974,United States,France,United States,tt0071315,8.1
+IMDb250,175,V for Vendetta,2005,United States,Australia,United States; Germany,tt0434409,8.1
+IMDb250,176,Dead Poets Society,1989,United States,Australia,United States,tt0097165,8.1
+IMDb250,177,Inside Out,2015,United States,United States,United States; Japan,tt2096673,8.1
+IMDb250,178,Harry Potter and the Deathly Hallows: Part 2,2011,United Kingdom,United Kingdom,United Kingdom; United States,tt1201607,8.1
+IMDb250,179,Trainspotting,1996,United Kingdom,United Kingdom,United Kingdom,tt0117951,8.1
+IMDb250,180,The Best of Youth,2003,Italy,Italy,Italy,tt0346336,8.4
+IMDb250,181,"Three Billboards Outside Ebbing, Missouri",2017,United Kingdom,United Kingdom,United Kingdom; United States,tt5027774,8.1
+IMDb250,182,The Bridge on the River Kwai,1957,United Kingdom,United Kingdom,United Kingdom; United States,tt0050212,8.1
+IMDb250,183,Rashomon,1950,Japan,Japan,Japan,tt0042876,8.1
+IMDb250,184,Barry Lyndon,1975,United Kingdom,United States,United Kingdom; United States,tt0072684,8.1
+IMDb250,185,Ben-Hur,1959,United States,Switzerland,United States,tt0052618,8.1
+IMDb250,186,The Wild Robot,2024,United States,United States,United States; Japan,tt29623480,8.1
+IMDb250,187,Hacksaw Ridge,2016,United States,United States,United States,tt2119532,8.1
+IMDb250,188,Warrior,2011,United States,United States,United States,tt1291584,8.1
+IMDb250,189,Ratatouille,2007,United States,United States,United States; France; Japan,tt0382932,8.1
+IMDb250,190,Mad Max: Fury Road,2015,Australia,Australia,Australia; United States,tt1392190,8.1
+IMDb250,191,Million Dollar Baby,2004,United States,United States,United States,tt0405159,8.1
+IMDb250,192,Children of Heaven,1997,Iran,Iran,Iran,tt0118849,8.2
+IMDb250,193,Fargo,1996,United Kingdom,United States,United Kingdom; United States,tt0116282,8.1
+IMDb250,194,My Neighbour Totoro,1988,Japan,Japan,Japan,tt0096283,8.1
+IMDb250,195,Gran Torino,2008,United States,United States,United States; Germany,tt1205489,8.1
+IMDb250,196,12 Years a Slave,2013,United Kingdom,United Kingdom,United Kingdom; United States,tt2024544,8.1
+IMDb250,197,How to Train Your Dragon,2010,United States,Canada,United States,tt0892769,8.1
+IMDb250,198,Raging Bull,1980,United States,United States,United States,tt0081398,8.1
+IMDb250,199,Memories of Murder,2003,South Korea,South Korea,South Korea,tt0353969,8.1
+IMDb250,200,The Grand Budapest Hotel,2014,United States,United States,United States; Germany,tt2278388,8.1
+IMDb250,201,"Monsters, Inc.",2001,United States,United States,United States; Japan,tt0198781,8.1
+IMDb250,202,Before Sunrise,1995,United States,United States,United States; Austria,tt0112471,8.1
+IMDb250,203,Blade Runner,1982,United States,United Kingdom,United States; United Kingdom; Hong Kong,tt0083658,8.1
+IMDb250,204,Gone Girl,2014,United States,United States,United States,tt2267998,8.1
+IMDb250,205,Le Mans '66,2019,United States,United States,United States,tt1950186,8.1
+IMDb250,206,Jaws,1975,United States,United States,United States,tt0073195,8.1
+IMDb250,207,Chainsaw Man - The Movie: Reze Arc,2025,Japan,Japan,Japan,tt30472557,8.3
+IMDb250,208,In the Name of the Father,1993,Ireland,Ireland,Ireland; United Kingdom; United States,tt0107207,8.1
+IMDb250,209,Spider-Man: No Way Home,2021,United States,United States,United States,tt10872600,8.1
+IMDb250,210,Wild Tales,2014,Argentina,Argentina,Argentina; Spain; France; United Kingdom,tt3011894,8.1
+IMDb250,211,A Silent Voice: The Movie,2016,Japan,Japan,Japan,tt5323662,8.2
+IMDb250,212,The Gold Rush,1925,United States,United Kingdom,United States,tt0015864,8.1
+IMDb250,213,Mary and Max,2009,Australia,Australia,Australia,tt0978762,8.1
+IMDb250,214,Sherlock Jr.,1924,United States,United States,United States,tt0015324,8.1
+IMDb250,215,Pirates of the Caribbean: The Curse of the Black Pearl,2003,United States,United States,United States,tt0325980,8.1
+IMDb250,216,Rocky,1976,United States,United States,United States,tt0075148,8.1
+IMDb250,217,Logan,2017,United States,United States,United States,tt3315342,8.1
+IMDb250,218,The Deer Hunter,1978,United States,United States,United States; United Kingdom,tt0077416,8.1
+IMDb250,219,The Wages of Fear,1953,France,France,France; Italy,tt0046268,8.1
+IMDb250,220,The General,1926,United States,United States,United States,tt0017925,8.1
+IMDb250,221,Mr. Smith Goes to Washington,1939,United States,Italy,United States,tt0031679,8.1
+IMDb250,222,Maharaja,2024,India,,India,tt26548265,8.3
+IMDb250,223,Tokyo Story,1953,Japan,Japan,Japan,tt0046438,8.1
+IMDb250,224,Jai Bhim,2021,India,,India; United States,tt15097216,8.6
+IMDb250,225,The Sound of Music,1965,United States,United States,United States,tt0059742,8.1
+IMDb250,226,La haine,1995,France,France,France,tt0113247,8.1
+IMDb250,227,Spotlight,2015,United States,United States,United States,tt1895587,8.1
+IMDb250,228,The Terminator,1984,United Kingdom,Canada,United Kingdom; United States,tt0088247,8.1
+IMDb250,229,The Best Years of Our Lives,1946,United States,Switzerland,United States,tt0036868,8.1
+IMDb250,230,Wild Strawberries,1957,Sweden,Sweden,Sweden,tt0050986,8.1
+IMDb250,231,On the Waterfront,1954,United States,Greece,United States,tt0047296,8.1
+IMDb250,232,The Third Man,1949,United Kingdom,United Kingdom,United Kingdom; United States,tt0041959,8.1
+IMDb250,233,The Incredibles,2004,United States,United States,United States,tt0317705,8
+IMDb250,234,The Big Lebowski,1998,United Kingdom,United States,United Kingdom; United States,tt0118715,8.1
+IMDb250,235,Hachi: A Dog's Tale,2009,United Kingdom,Sweden,United Kingdom; United States,tt1028532,8.1
+IMDb250,236,Before Sunset,2004,United States,United States,United States,tt0381681,8.1
+IMDb250,237,The Iron Giant,1999,United States,United States,United States; Czech Republic; United Kingdom,tt0129167,8.1
+IMDb250,238,The Exorcist,1973,United States,United States,United States,tt0070047,8.1
+IMDb250,239,Room,2015,Ireland,Ireland,Ireland; Canada; United Kingdom; United States,tt3170832,8.1
+IMDb250,240,Hotel Rwanda,2004,United States,United Kingdom,United States; United Kingdom; South Africa; Italy,tt0395169,8.1
+IMDb250,241,Platoon,1986,United States,United States,United States; United Kingdom,tt0091763,8
+IMDb250,242,The Seventh Seal,1957,Sweden,Sweden,Sweden,tt0050976,8.1
+IMDb250,243,Rush,2013,United Kingdom,United States,United Kingdom; United States,tt1979320,8.1
+IMDb250,244,The Battle of Algiers,1966,Italy,Italy,Italy; Algeria,tt0058946,8.1
+IMDb250,245,Stand by Me,1986,United States,United States,United States,tt0092005,8.1
+IMDb250,246,The Wizard of Oz,1939,United States,United States,United States,tt0032138,8.1
+IMDb250,247,My Father and My Son,2005,Turkey,Turkey,Turkey,tt0476735,8.2
+IMDb250,248,Drishyam,2015,India,India,India,tt4430212,8.2
+IMDb250,249,The Passion of Joan of Arc,1928,France,Kingdom of Denmark,France,tt0019254,8.1
+IMDb250,250,Gangs of Wasseypur,2012,India,India,India; France,tt1954470,8.2
+LB250,1,Harakiri,1962,Japan,Japan,Japan,tt0056058,9.36
+LB250,2,The Human Condition III: A Soldier's Prayer,1961,Japan,Japan,Japan,tt0055233,9.32
+LB250,3,12 Angry Men,1957,United States,United States,United States,tt0050083,9.26
+LB250,4,Come and See,1985,Russia,Russia,Soviet Union,tt0091251,9.22
+LB250,5,High and Low,1963,Japan,Japan,Japan,tt0057565,9.22
+LB250,6,Seven Samurai,1954,Japan,Japan,Japan,tt0047478,9.20
+LB250,7,The Shawshank Redemption,1994,United States,United States,United States,tt0111161,9.20
+LB250,8,The Godfather Part II,1974,United States,United States,United States,tt0071562,9.18
+LB250,9,The Human Condition I: No Greater Love,1959,Japan,Japan,Japan,tt0053114,9.16
+LB250,10,City of God,2002,Brazil,Brazil,Brazil,tt0317248,9.16
+LB250,11,The Lord of the Rings: The Return of the King,2003,New Zealand,New Zealand,New Zealand; United States,tt0167260,9.12
+LB250,12,Schindler's List,1993,United States,United States,United States,tt0108052,9.10
+LB250,13,Yi Yi,2000,Taiwan,Taiwan,Taiwan; China; Japan,tt0244316,9.06
+LB250,14,Cinema Paradiso,1988,Italy,Italy,Italy; France,tt0095765,9.04
+LB250,15,Ikiru,1952,Japan,Japan,Japan,tt0044741,9.04
+LB250,16,"The Good, the Bad and the Ugly",1966,Italy,Italy,Italy; Spain; West Germany; United States,tt0060196,9.02
+LB250,17,Parasite,2019,South Korea,South Korea,South Korea,tt6751668,9.02
+LB250,18,The Godfather,1972,United States,United States,United States,tt0068646,9.02
+LB250,19,Ran,1985,Japan,Japan,Japan; France,tt0089881,9.02
+LB250,20,La Haine,1995,France,France,France,tt0113247,9.00
+LB250,21,Le Trou,1960,France,France,France; Italy,tt0054407,9.00
+LB250,22,Autumn Sonata,1978,Germany,Sweden,West Germany; United Kingdom; Sweden,tt0077711,9.00
+LB250,23,The Dark Knight,2008,United States,United Kingdom,United States; United Kingdom,tt0468569,9.00
+LB250,24,The Human Condition II: Road to Eternity,1959,Japan,Japan,Japan,tt0053115,8.98
+LB250,25,A Brighter Summer Day,1991,Taiwan,Taiwan,Taiwan,tt0101985,8.98
+LB250,26,Grave of the Fireflies,1988,Japan,Japan,Japan,tt0095327,8.96
+LB250,27,Neon Genesis Evangelion: The End of Evangelion,1997,Japan,Japan,Japan,tt0169858,8.96
+LB250,28,The Battle of Algiers,1966,Italy,Italy,Italy; Algeria,tt0058946,8.96
+LB250,29,I Am Cuba,1964,Cuba,Russia,Cuba; Soviet Union,tt0058604,8.94
+LB250,30,The Cranes Are Flying,1957,Russia,Russia,Soviet Union,tt0050634,8.92
+LB250,31,GoodFellas,1990,United States,United States,United States,tt0099685,8.92
+LB250,32,Interstellar,2014,United States,United Kingdom,United States; United Kingdom; Canada,tt0816692,8.92
+LB250,33,There Will Be Blood,2007,United States,United States,United States,tt0469494,8.92
+LB250,34,La Bola Negra,2026,Spain,Spain,Spain; France,tt35511966,8.92
+LB250,35,Incendies,2010,Canada,Canada,Canada; France,tt1255953,8.92
+LB250,36,Woman in the Dunes,1964,Japan,Japan,Japan,tt0058625,8.90
+LB250,37,It's a Wonderful Life,1946,United States,Italy,United States,tt0038650,8.90
+LB250,38,Paths of Glory,1957,United States,United States,United States,tt0050825,8.90
+LB250,39,The Lord of the Rings: The Two Towers,2002,New Zealand,New Zealand,New Zealand; United States,tt0167261,8.88
+LB250,40,Andrei Rublev,1966,Russia,Russia,Soviet Union,tt0060107,8.88
+LB250,41,Sunset Boulevard,1950,United States,Austria,United States,tt0043014,8.88
+LB250,42,The Ascent,1977,Russia,Russia,Soviet Union,tt0075404,8.86
+LB250,43,Apocalypse Now,1979,United States,United States,United States,tt0078788,8.86
+LB250,44,Spirited Away,2001,Japan,Japan,Japan; United States,tt0245429,8.86
+LB250,45,The Apartment,1960,United States,Austria,United States,tt0053604,8.86
+LB250,46,Portrait of a Lady on Fire,2019,France,France,France,tt8613070,8.86
+LB250,47,Tokyo Story,1953,Japan,Japan,Japan,tt0046438,8.86
+LB250,48,Whiplash,2014,United States,United States,United States,tt2582802,8.84
+LB250,49,Memories of Murder,2003,South Korea,South Korea,South Korea,tt0353969,8.84
+LB250,50,Lawrence of Arabia,1962,United Kingdom,United Kingdom,United Kingdom,tt0056172,8.84
+LB250,51,Swing Girls,2004,Japan,Japan,Japan,tt0435434,8.84
+LB250,52,Life Is Beautiful,1997,Italy,Italy,Italy,tt0118799,8.84
+LB250,53,Witness for the Prosecution,1957,United States,Austria,United States,tt0051201,8.84
+LB250,54,The Passion of Joan of Arc,1928,France,Kingdom of Denmark,France,tt0019254,8.84
+LB250,55,Nobody Knows,2004,Japan,Japan,Japan,tt0408664,8.84
+LB250,56,Mishima: A Life in Four Chapters,1985,Japan,United States,Japan; United States,tt0089603,8.84
+LB250,57,Barry Lyndon,1975,United Kingdom,United States,United Kingdom; United States,tt0072684,8.84
+LB250,58,The Voice of Hind Rajab,2025,Tunisia,Tunisia,Tunisia; France; Palestine; United Kingdom; Saudi Arabia; United States; Italy; Cyprus,tt36943034,8.82
+LB250,59,Farewell My Concubine,1993,China,China,China; Hong Kong; South Korea,tt0106332,8.82
+LB250,60,The Red Shoes,1948,United Kingdom,United Kingdom,United Kingdom,tt0040725,8.82
+LB250,61,The Pianist,2002,France,France,France; Poland; Germany; United Kingdom; United States,tt0253474,8.82
+LB250,62,The Empire Strikes Back,1980,United States,United States,United States,tt0080684,8.80
+LB250,63,Sansho the Bailiff,1954,Japan,Japan,Japan,tt0047445,8.80
+LB250,64,Close-Up,1990,Iran,Iran,Iran,tt0100234,8.80
+LB250,65,Club Kid,2026,United States,United States,United States,tt38058097,8.84
+LB250,66,Spider-Man: Across the Spider-Verse,2023,United States,Portugal,United States,tt9362722,8.80
+LB250,67,A Woman Under the Influence,1974,United States,United States,United States,tt0072417,8.80
+LB250,68,A Separation,2011,Iran,Iran,Iran; France; Australia,tt1832382,8.80
+LB250,69,Fanny and Alexander,1982,Sweden,Sweden,Sweden; France; West Germany,tt0083922,8.80
+LB250,70,Princess Mononoke,1997,Japan,Japan,Japan,tt0119698,8.80
+LB250,71,Do the Right Thing,1989,United States,United States,United States,tt0097216,8.78
+LB250,72,Love Exposure,2008,Japan,Japan,Japan,tt1128075,8.78
+LB250,73,Spider-Man: Into the Spider-Verse,2018,United States,United States,United States,tt4633694,8.78
+LB250,74,Wildwood,2026,United States,United States,United States; United Kingdom; Canada,tt2056785,8.78
+LB250,75,The Lord of the Rings: The Fellowship of the Ring,2001,New Zealand,New Zealand,New Zealand; United States,tt0120737,8.78
+LB250,76,Good Will Hunting,1997,United States,United States,United States,tt0119217,8.78
+LB250,77,The Handmaiden,2016,South Korea,South Korea,South Korea,tt4016934,8.78
+LB250,78,Once Upon a Time in the West,1968,Italy,Italy,Italy; United States,tt0064116,8.78
+LB250,79,Nights of Cabiria,1957,Italy,Italy,Italy; France,tt0050783,8.78
+LB250,80,Paper Moon,1973,United States,United States,United States,tt0070510,8.78
+LB250,81,An Elephant Sitting Still,2018,China,China,China,tt8020896,8.78
+LB250,82,Se7en,1995,United States,United States,United States,tt0114369,8.78
+LB250,83,Stalker,1979,Russia,Russia,Soviet Union,tt0079944,8.78
+LB250,84,Red Beard,1965,Japan,Japan,Japan,tt0058888,8.76
+LB250,85,Z,1969,France,Greece,France; Algeria,tt0065234,8.76
+LB250,86,Apur Sansar,1959,India,India,India,tt0052572,8.76
+LB250,87,Dune: Part Two,2024,United States,Canada,United States; Canada; United Arab Emirates; Hungary; Italy; New Zealand; Jordan,tt15239678,8.74
+LB250,88,Judgment at Nuremberg,1961,United States,United States,United States,tt0055031,8.74
+LB250,89,Amadeus,1984,United States,Czech Republic,United States; France,tt0086879,8.74
+LB250,90,Perfect Blue,1997,Japan,Japan,Japan,tt0156887,8.74
+LB250,91,One Flew Over the Cuckoo's Nest,1975,United States,Czech Republic,United States,tt0073486,8.74
+LB250,92,How to Make Millions Before Grandma Dies,2024,Thailand,Thailand,Thailand,tt31392609,8.74
+LB250,93,In the Mood for Love,2000,Hong Kong,Hong Kong,Hong Kong; France,tt0118694,8.74
+LB250,94,Persona,1966,Sweden,Sweden,Sweden,tt0060827,8.74
+LB250,95,The Wages of Fear,1953,France,France,France; Italy,tt0046268,8.74
+LB250,96,Inglourious Basterds,2009,United States,United States,United States; Germany,tt0361748,8.74
+LB250,97,Where Is the Friend's House?,1987,Iran,Iran,Iran,tt0093342,8.72
+LB250,98,All About Eve,1950,United States,United States,United States,tt0042192,8.72
+LB250,99,Scenes from a Marriage,1974,Sweden,Sweden,Sweden,tt6725014,8.72
+LB250,100,Howl's Moving Castle,2004,Japan,Japan,Japan; United States,tt0347149,8.72
+LB250,101,Rear Window,1954,United States,United Kingdom,United States,tt0047396,8.72
+LB250,102,Satantango,1994,Hungary,Hungary,Hungary; Germany; Switzerland,tt0111341,8.72
+LB250,103,Oldboy,2003,South Korea,South Korea,South Korea,tt0364569,8.72
+LB250,104,Chainsaw Man – The Movie: Reze Arc,2025,Japan,Japan,Japan,tt30472557,8.72
+LB250,105,Dead Poets Society,1989,United States,Australia,United States,tt0097165,8.72
+LB250,106,"Paris, Texas",1984,Germany,Germany,West Germany; France; United Kingdom; United States,tt0087884,8.72
+LB250,107,Twin Peaks: Fire Walk with Me,1992,France,United States,France; United States,tt0105665,8.72
+LB250,108,Central Station,1998,Brazil,Brazil,Brazil; France; United States,tt0140888,8.72
+LB250,109,It's Such a Beautiful Day,2012,United States,United States,United States,tt2396224,8.72
+LB250,110,Sherlock Jr.,1924,United States,United States,United States,tt0015324,8.72
+LB250,111,Monster,2023,Japan,Japan,Japan,tt23736044,8.70
+LB250,112,The Departed,2006,United States,United States,United States; Hong Kong,tt0407887,8.70
+LB250,113,Singin' in the Rain,1952,United States,United States,United States,tt0045152,8.70
+LB250,114,The Thing,1982,United States,United States,United States,tt0084787,8.70
+LB250,115,Army of Shadows,1969,France,France,France; Italy,tt0064040,8.70
+LB250,116,Raise the Red Lantern,1991,China,China,China; Hong Kong,tt0101640,8.70
+LB250,117,Django Unchained,2012,United States,United States,United States,tt1853728,8.70
+LB250,118,Prisoners,2013,United States,Canada,United States,tt1392214,8.70
+LB250,119,Eternity and a Day,1998,France,Greece,France; Italy; Greece; Germany,tt0156794,8.68
+LB250,120,A Man Escaped,1956,France,France,France,tt0049902,8.68
+LB250,121,All That Jazz,1979,United States,United States,United States,tt0078754,8.68
+LB250,122,Still Walking,2008,Japan,Japan,Japan,tt1087578,8.68
+LB250,123,The Silence of the Lambs,1991,United States,United States,United States,tt0102926,8.68
+LB250,124,A Special Day,1977,Italy,Italy,Italy; Canada,tt0076085,8.68
+LB250,125,I'm Still Here,2024,Brazil,Brazil,Brazil; France,tt14961016,8.68
+LB250,126,Puella Magi Madoka Magica the Movie Part III: Rebellion,2013,Japan,Japan,Japan,tt2457282,8.68
+LB250,127,The Odyssey,2026,United Kingdom,United Kingdom,United Kingdom; United States; Canada; New Zealand; Iceland,tt33764258,8.68
+LB250,128,Das Boot,1981,Germany,Germany,West Germany,tt0082096,8.66
+LB250,129,Three Colours: Red,1994,France,Poland,France; Switzerland; Poland,tt0111495,8.66
+LB250,130,To Be or Not to Be,1942,United States,Germany,United States,tt0035446,8.66
+LB250,131,Ordet,1955,Denmark,Kingdom of Denmark,Denmark,tt0048452,8.66
+LB250,132,The Young Girls of Rochefort,1967,France,France,France,tt0062873,8.66
+LB250,133,Heat,1995,United States,United States,United States,tt0113277,8.66
+LB250,134,The Great Dictator,1940,United States,United Kingdom,United States,tt0032553,8.66
+LB250,135,Perfect Days,2023,Japan,Germany,Japan; Germany,tt27503384,8.64
+LB250,136,The Celebration,1998,Denmark,Kingdom of Denmark,Denmark; Sweden,tt0154420,8.64
+LB250,137,The Elephant Man,1980,United States,United States,United States; United Kingdom,tt0080678,8.64
+LB250,138,Late Spring,1949,Japan,Japan,Japan,tt0041154,8.64
+LB250,139,Taste of Cherry,1997,Iran,Iran,Iran; France,tt0120265,8.64
+LB250,140,Rocco and His Brothers,1960,Italy,Italy,Italy; France,tt0054248,8.64
+LB250,141,Mommy,2014,Canada,Canada,Canada,tt3612616,8.64
+LB250,142,Pather Panchali,1955,India,India,India,tt0048473,8.64
+LB250,143,Wild Strawberries,1957,Sweden,Sweden,Sweden,tt0050986,8.64
+LB250,144,Funeral Parade of Roses,1969,Japan,Japan,Japan,tt0064068,8.64
+LB250,145,Brief Encounter,1945,United Kingdom,United Kingdom,United Kingdom,tt0037558,8.64
+LB250,146,Shoplifters,2018,Japan,Japan,Japan,tt8075192,8.62
+LB250,147,The Seventh Seal,1957,Sweden,Sweden,Sweden,tt0050976,8.62
+LB250,148,Project Hail Mary,2026,United States,United States,United States,tt12042730,8.62
+LB250,149,Landscape in the Mist,1988,Greece,Greece,Greece; France; Italy,tt0096288,8.62
+LB250,150,The Prestige,2006,United Kingdom,United Kingdom,United Kingdom; United States,tt0482571,8.62
+LB250,151,Dog Day Afternoon,1975,United States,United States,United States,tt0072890,8.62
+LB250,152,City Lights,1931,United States,United Kingdom,United States,tt0021749,8.62
+LB250,153,Before Sunset,2004,United States,United States,United States,tt0381681,8.62
+LB250,154,The Green Mile,1999,United States,United States,United States,tt0120689,8.62
+LB250,155,Mirror,1975,Russia,Russia,Soviet Union,tt0072443,8.62
+LB250,156,Psycho,1960,United States,United Kingdom,United States,tt0054215,8.62
+LB250,157,Wings of Desire,1987,Germany,Germany,West Germany; France,tt0093191,8.60
+LB250,158,Chinatown,1974,United States,France,United States,tt0071315,8.60
+LB250,159,No Country for Old Men,2007,United States,United States,United States,tt0477348,8.60
+LB250,160,Underground,1995,Serbia,Serbia,Yugoslavia; France; Germany; Bulgaria; Czech Republic; Hungary,tt0114787,8.60
+LB250,161,Fail Safe,1964,United States,United States,United States,tt0058083,8.60
+LB250,162,Children of Men,2006,United States,Mexico,United States; United Kingdom; Japan,tt0206634,8.60
+LB250,163,Sing Sing,2023,United States,United States,United States,tt28479262,8.60
+LB250,164,Yojimbo,1961,Japan,Japan,Japan,tt0055630,8.60
+LB250,165,The Father,2020,United Kingdom,France,United Kingdom; France; United States,tt10272386,8.60
+LB250,166,Song of the Sea,2014,Ireland,Ireland,Ireland; Denmark; Belgium; France; Luxembourg,tt1865505,8.60
+LB250,167,Malcolm X,1992,United States,United States,United States; Japan,tt0104797,8.60
+LB250,168,Fantastic Mr. Fox,2009,United States,United States,United States; United Kingdom,tt0432283,8.60
+LB250,169,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,United Kingdom,United States,United Kingdom,tt0057012,8.60
+LB250,170,Tampopo,1985,Japan,Japan,Japan,tt0092048,8.60
+LB250,171,The Treasure of the Sierra Madre,1948,United States,United States,United States,tt0040897,8.60
+LB250,172,The Cremator,1969,Czech Republic,Czech Republic,Czechoslovakia,tt0063633,8.60
+LB250,173,Evangelion: 3.0+1.0 Thrice Upon a Time,2021,Japan,Japan,Japan,tt2458948,8.60
+LB250,174,Terminator 2: Judgment Day,1991,United States,Canada,United States; France,tt0103064,8.60
+LB250,175,"Life, and Nothing More…",1992,Iran,Iran,Iran,tt0105888,8.58
+LB250,176,Samurai Rebellion,1967,Japan,Japan,Japan,tt0061847,8.58
+LB250,177,Dersu Uzala,1975,Russia,Japan,Soviet Union; Japan,tt0071411,8.58
+LB250,178,Werckmeister Harmonies,2000,Hungary,Hungary,Hungary; Italy; Germany; France,tt0249241,8.58
+LB250,179,Before Sunrise,1995,United States,United States,United States; Austria,tt0112471,8.58
+LB250,180,The Lives of Others,2006,Germany,Germany,Germany; France,tt0405094,8.58
+LB250,181,The 400 Blows,1959,France,France,France,tt0053198,8.58
+LB250,182,The Iron Giant,1999,United States,United States,United States; Czech Republic; United Kingdom,tt0129167,8.58
+LB250,183,Secrets & Lies,1996,United Kingdom,United Kingdom,United Kingdom; France,tt0117589,8.58
+LB250,184,The Hunt,2012,Denmark,Kingdom of Denmark,Denmark; Sweden; Belgium; France,tt2106476,8.58
+LB250,185,The Fall,2006,United States,India,United States; South Africa; India,tt0460791,8.58
+LB250,186,Look Back,2024,Japan,Japan,Japan; United States,tt31711040,8.56
+LB250,187,Some Like It Hot,1959,United States,Austria,United States,tt0053291,8.56
+LB250,188,M,1931,Germany,Austria,Germany,tt0022100,8.56
+LB250,189,Ritual,2000,Japan,Japan,Japan,tt0269856,8.56
+LB250,190,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,2003,Japan,Japan,Japan; France; Philippines,tt0368667,8.56
+LB250,191,Opening Night,1977,United States,United States,United States,tt0079672,8.56
+LB250,192,Casablanca,1942,United States,Hungary,United States,tt0034583,8.56
+LB250,193,Cure,1997,Japan,Japan,Japan,tt0123948,8.56
+LB250,194,Children of Paradise,1945,France,France,France,tt0037674,8.56
+LB250,195,The Man Who Shot Liberty Valance,1962,United States,United States,United States,tt0056217,8.56
+LB250,196,Bicycle Thieves,1948,Italy,Italy,Italy,tt0040522,8.56
+LB250,197,Kizumonogatari Part 3: Reiketsu,2017,Japan,Japan,Japan,tt5084198,8.56
+LB250,198,The Devils,1971,United Kingdom,United Kingdom,United Kingdom,tt0066993,8.56
+LB250,199,Ace in the Hole,1951,United States,Austria,United States,tt0043338,8.54
+LB250,200,The Sacrifice,1986,Sweden,Russia,Sweden; France; United Kingdom,tt0091670,8.54
+LB250,201,Akira,1988,Japan,Japan,Japan,tt0094625,8.54
+LB250,202,Sorcerer,1977,United States,United States,United States; Mexico,tt0076740,8.54
+LB250,203,We All Loved Each Other So Much,1974,Italy,Italy,Italy,tt0075793,8.54
+LB250,204,Fight Club,1999,United States,United States,United States; Germany,tt0137523,8.54
+LB250,205,Mary and Max,2009,Australia,Australia,Australia,tt0978762,8.54
+LB250,206,Chungking Express,1994,Hong Kong,Hong Kong,Hong Kong,tt0109424,8.54
+LB250,207,Who's Afraid of Virginia Woolf?,1966,United States,United States,United States,tt0061184,8.54
+LB250,208,Kamikaze Girls,2004,Japan,Japan,Japan,tt0416220,8.54
+LB250,209,A Matter of Life and Death,1946,United Kingdom,United Kingdom,United Kingdom,tt0038733,8.54
+LB250,210,The Holdovers,2023,United States,United States,United States,tt14849194,8.52
+LB250,211,The Tale of The Princess Kaguya,2013,Japan,Japan,Japan,tt2576852,8.52
+LB250,212,Tokyo Godfathers,2003,Japan,Japan,Japan,tt0388473,8.52
+LB250,213,Saving Private Ryan,1998,United States,United States,United States,tt0120815,8.52
+LB250,214,I Swear,2025,United Kingdom,United Kingdom,United Kingdom; Ireland,tt31514146,8.52
+LB250,215,La Notte,1961,Italy,Italy,Italy; France,tt0054130,8.52
+LB250,216,Network,1976,United States,United States,United States,tt0074958,8.52
+LB250,217,Throne of Blood,1957,Japan,Japan,Japan,tt0050613,8.52
+LB250,218,Rififi,1955,France,United States,France,tt0048021,8.52
+LB250,219,Aparajito,1956,India,India,India,tt0048956,8.52
+LB250,220,The Sound of Music,1965,United States,United States,United States,tt0059742,8.52
+LB250,221,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,Belgium,Belgium,Belgium; France,tt0073198,8.52
+LB250,222,Better Days,2019,China,China,China; Hong Kong; United Kingdom,tt9586294,8.52
+LB250,223,Double Indemnity,1944,United States,Austria,United States,tt0036775,8.52
+LB250,224,Mulholland Drive,2001,France,United States,France; United States,tt0166924,8.52
+LB250,225,Nostalgia,1983,Italy,Russia,Italy; Soviet Union,tt0086022,8.52
+LB250,226,The First Slam Dunk,2022,Japan,Japan,Japan,tt15242330,8.50
+LB250,227,8½,1963,Italy,Italy,Italy; France,tt0056801,8.50
+LB250,228,La Dolce Vita,1960,Italy,Italy,Italy; France,tt0053779,8.50
+LB250,229,"4 Months, 3 Weeks and 2 Days",2007,Romania,Romania,Romania; Netherlands,tt1032846,8.50
+LB250,230,The Night of the Hunter,1955,United States,United Kingdom,United States,tt0048424,8.50
+LB250,231,Wolfwalkers,2020,Ireland,Ireland,Ireland; Luxembourg; France; China; United States,tt5198068,8.50
+LB250,232,For a Few Dollars More,1965,Italy,Italy,Italy; Spain; West Germany,tt0059578,8.50
+LB250,233,A Moment of Innocence,1996,Iran,Iran,Iran; France,tt0117214,8.50
+LB250,234,WALL·E,2008,United States,United States,United States; Japan,tt0910970,8.50
+LB250,235,Il Sorpasso,1962,Italy,Italy,Italy,tt0056512,8.50
+LB250,236,Ugetsu,1953,Japan,Japan,Japan,tt0046478,8.50
+LB250,237,The Best Years of Our Lives,1946,United States,Switzerland,United States,tt0036868,8.50
+LB250,238,The Face of Another,1966,Japan,Japan,Japan,tt0061065,8.50
+LB250,239,The Secret in Their Eyes,2009,Argentina,Argentina,Argentina; Spain,tt1305806,8.50
+LB250,240,Anatomy of a Murder,1959,United States,Austria,United States,tt0052561,8.50
+LB250,241,Vada Chennai,2018,India,India,India,tt5959980,8.48
+LB250,242,The Bridge on the River Kwai,1957,United Kingdom,United Kingdom,United Kingdom; United States,tt0050212,8.50
+LB250,243,Meiyazhagan,2024,India,,India,tt26758372,8.50
+LB250,244,"Quo Vadis, Aida?",2020,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina; Austria; Romania; Netherlands; Germany; Poland; France; Turkey; Norway; Croatia; Sweden; Montenegro; Italy; United States; Serbia,tt8633462,8.48
+LB250,245,Marcel the Shell with Shoes On,2021,United States,United States,United States,tt15339456,8.48
+LB250,246,Alien,1979,United Kingdom,United Kingdom,United Kingdom; United States,tt0078748,8.48
+LB250,247,Umberto D.,1952,Italy,Italy,Italy,tt0045274,8.48
+LB250,248,Inception,2010,United Kingdom,United Kingdom,United Kingdom; United States,tt1375666,8.48
+LB250,249,Dreams,1990,Japan,Japan,Japan; United States,tt0100998,8.48
+LB250,250,Macario,1960,Mexico,Mexico,Mexico,tt0054042,8.48

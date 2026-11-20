@@ -1,0 +1,501 @@
+list,rank,imdb_id,title,year,decade,directors,genres,country,countries,primary_language,is_silent,imdb_rank,lb_rank250,lb_rank500,imdb_rating,imdb_votes,lb_rating,lb_rating_10,lb_count,director_country,runtime_min,directors_wd,directors_women,directors_men,has_woman_director,director_genders,gender_check
+IMDb250,1,tt0111161,The Shawshank Redemption,1994,1990s,Frank Darabont,Drama,United States,United States,English,0,1,7,7,9.3,3264267,4.6,9.20,3245747,United States,142,1,0,1,0,male,ok
+IMDb250,2,tt0068646,The Godfather,1972,1970s,Francis Ford Coppola,Crime; Drama,United States,United States,English,0,2,18,18,9.2,2272100,4.51,9.02,3042763,United States,175,1,0,1,0,male,ok
+IMDb250,3,tt0468569,The Dark Knight,2008,2000s,Christopher Nolan,Crime; Thriller,United States,United States; United Kingdom,English,0,3,23,23,9.1,3250100,4.5,9.00,5015692,United Kingdom,152,1,0,1,0,male,ok
+IMDb250,4,tt0071562,The Godfather Part II,1974,1970s,Francis Ford Coppola,Crime; Drama,United States,United States,English,0,4,8,8,9,1523795,4.59,9.18,1594315,United States,202,1,0,1,0,male,ok
+IMDb250,5,tt0167260,The Lord of the Rings: The Return of the King,2003,2000s,Peter Jackson,Adventure; Drama; Fantasy,New Zealand,New Zealand; United States,English,0,5,11,11,9,2207622,4.56,9.12,2575956,New Zealand,201,1,0,1,0,male,ok
+IMDb250,6,tt0050083,12 Angry Men,1957,1950s,Sidney Lumet,Crime; Drama,United States,United States,English,0,6,3,3,9,1011857,4.63,9.26,1813018,United States,97,1,0,1,0,male,ok
+IMDb250,7,tt0108052,Schindler's List,1993,1990s,Steven Spielberg,Biography; Drama; History,United States,United States,English,0,7,12,12,9,1613384,4.55,9.10,1568201,United States,195,1,0,1,0,male,ok
+IMDb250,8,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,2000s,Peter Jackson,Adventure; Drama; Fantasy,New Zealand,New Zealand; United States,English,0,8,75,75,8.9,2252032,4.39,8.78,3387172,New Zealand,179,1,0,1,0,male,ok
+IMDb250,9,tt0110912,Pulp Fiction,1994,1990s,Quentin Tarantino,Crime; Drama,United States,United States,English,0,9,,285,8.8,2483166,4.23,8.46,4711071,United States,154,1,0,1,0,male,ok
+IMDb250,10,tt0167261,The Lord of the Rings: The Two Towers,2002,2000s,Peter Jackson,Adventure; Drama; Fantasy,New Zealand,New Zealand; United States,English,0,10,39,39,8.8,1996765,4.44,8.88,2521624,New Zealand,179,1,0,1,0,male,ok
+IMDb250,11,tt0060196,"The Good, the Bad and the Ugly",1966,1960s,Sergio Leone,Adventure; Drama; Western,Italy,Italy; Spain; West Germany; United States,English,0,11,16,16,8.8,906721,4.51,9.02,850285,Italy,161,1,0,1,0,male,ok
+IMDb250,12,tt0109830,Forrest Gump,1994,1990s,Robert Zemeckis,Drama; Romance,United States,United States,English,0,12,,377,8.8,2552882,4.19,8.38,4442930,United States,142,1,0,1,0,male,ok
+IMDb250,13,tt1375666,Inception,2010,2010s,Christopher Nolan,Adventure; Sci-Fi; Thriller,United Kingdom,United Kingdom; United States,English,0,13,248,248,8.8,2889060,4.24,8.48,4603943,United Kingdom,148,1,0,1,0,male,ok
+IMDb250,14,tt0137523,Fight Club,1999,1990s,David Fincher,Crime; Drama; Thriller,United States,United States; Germany,English,0,14,204,204,8.8,2683139,4.27,8.54,6319770,United States,139,1,0,1,0,male,ok
+IMDb250,15,tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,1980s,Irvin Kershner,Adventure; Fantasy; Sci-Fi,United States,United States,English,0,15,62,62,8.7,1533130,4.4,8.80,2495361,United States,124,1,0,1,0,male,ok
+IMDb250,16,tt0133093,The Matrix,1999,1990s,Lana Wachowski; Lilly Wachowski,Action; Sci-Fi,United States,United States,English,0,16,,391,8.7,2293742,4.18,8.36,3202346,United States,136,2,2,0,1,trans woman; trans woman,ok
+IMDb250,17,tt0816692,Interstellar,2014,2010s,Christopher Nolan,Adventure; Sci-Fi,United States,United States; United Kingdom; Canada,English,0,17,32,32,8.7,2633544,4.46,8.92,6663808,United Kingdom,169,1,0,1,0,male,ok
+IMDb250,18,tt0099685,GoodFellas,1990,1990s,Martin Scorsese,Biography; Crime; Drama,United States,United States,English,0,18,31,31,8.7,1423597,4.46,8.92,2432477,United States,145,1,0,1,0,male,ok
+IMDb250,19,tt0073486,One Flew Over the Cuckoo's Nest,1975,1970s,Miloš Forman,Drama,United States,United States,English,0,19,91,91,8.6,1173791,4.37,8.74,1076141,Czech Republic,135,1,0,1,0,male,ok
+IMDb250,20,tt0114369,Seven,1995,1990s,David Fincher,Crime; Drama; Mystery; Thriller,United States,United States,English,0,20,82,82,8.6,2077133,4.39,8.78,4158604,United States,127,1,0,1,0,male,ok
+IMDb250,21,tt0038650,It's a Wonderful Life,1946,1940s,Frank Capra,Drama; Family; Fantasy; Romance,United States,United States,English,0,21,37,37,8.6,563298,4.45,8.90,807268,Italy,130,1,0,1,0,male,ok
+IMDb250,22,tt0102926,The Silence of the Lambs,1991,1990s,Jonathan Demme,Crime; Drama; Horror; Thriller,United States,United States,English,0,22,123,123,8.6,1766347,4.34,8.68,3543457,United States,119,1,0,1,0,male,ok
+IMDb250,23,tt0120815,Saving Private Ryan,1998,1990s,Steven Spielberg,Drama; War,United States,United States,English,0,23,213,213,8.6,1672812,4.26,8.52,1650252,United States,169,1,0,1,0,male,ok
+IMDb250,24,tt0047478,Seven Samurai,1954,1950s,Akira Kurosawa,Action; Drama,Japan,Japan,Japanese,0,24,6,6,8.6,407866,4.6,9.20,485358,Japan,207,1,0,1,0,male,ok
+IMDb250,25,tt0120689,The Green Mile,1999,1990s,Frank Darabont,Crime; Drama; Fantasy; Mystery,United States,United States,English,0,25,154,154,8.6,1597266,4.31,8.62,1545303,United States,189,1,0,1,0,male,ok
+IMDb250,26,tt0317248,City of God,2002,2000s,Fernando Meirelles; Kátia Lund,Crime; Drama,Brazil,Brazil,Portuguese,0,26,10,10,8.6,887290,4.58,9.16,1349709,Brazil,129,2,1,1,1,male; female,ok
+IMDb250,27,tt0118799,Life Is Beautiful,1997,1990s,Roberto Benigni,Comedy; Drama; Romance; War,Italy,Italy,Italian,0,27,52,52,8.6,827847,4.42,8.84,877200,Italy,116,1,0,1,0,male,ok
+IMDb250,28,tt0103064,Terminator 2: Judgment Day,1991,1990s,James Cameron,Action; Adventure; Sci-Fi,United States,United States; France,English,0,28,174,174,8.6,1310545,4.3,8.60,1130500,Canada,137,1,0,1,0,male,ok
+IMDb250,29,tt0088763,Back to the Future,1985,1980s,Robert Zemeckis,Adventure; Comedy; Sci-Fi,United States,United States,English,0,29,,300,8.5,1487386,4.22,8.44,3048005,United States,116,1,0,1,0,male,ok
+IMDb250,30,tt0076759,Star Wars: Episode IV - A New Hope,1977,1970s,George Lucas,Action; Adventure; Fantasy; Sci-Fi,United States,United States,English,0,30,,439,8.6,1597896,4.16,8.32,2926901,United States,121,1,0,1,0,male,ok
+IMDb250,31,tt0245429,Spirited Away,2001,2000s,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan,Japan; United States,Japanese,0,31,44,44,8.6,993516,4.43,8.86,4144730,Japan,125,1,0,1,0,male,ok
+IMDb250,32,tt0172495,Gladiator,2000,2000s,Ridley Scott,Action; Adventure; Drama,United Kingdom,United Kingdom; Malta; Morocco; United States,English,0,32,,326,8.5,1894606,4.21,8.42,2392984,United Kingdom,155,1,0,1,0,male,ok
+IMDb250,33,tt0253474,The Pianist,2002,2000s,Roman Polanski,Biography; Drama; Music; War,France,France; Poland; Germany; United Kingdom; United States,English,0,33,61,61,8.5,1031778,4.41,8.82,1416957,France,150,1,0,1,0,male,ok
+IMDb250,34,tt6019206,Kill Bill: The Whole Bloody Affair,2004,2000s,Quentin Tarantino,Action; Crime; Thriller,United States,United States,English,0,34,,,8.7,69452,4.54,9.08,336046,United States,254,1,0,1,0,male,ok
+IMDb250,35,tt6751668,Parasite,2019,2010s,Bong Joon Ho,Drama; Thriller,South Korea,South Korea,Korean,0,35,17,17,8.5,1208804,4.51,9.02,6027161,South Korea,133,1,0,1,0,male,ok
+IMDb250,36,tt0095327,Grave of the Fireflies,1988,1980s,Isao Takahata,Animation; Drama; War,Japan,Japan,Japanese,0,36,26,26,8.5,401257,4.48,8.96,1436173,Japan,89,1,0,1,0,male,ok
+IMDb250,37,tt0056058,Harakiri,1962,1960s,Masaki Kobayashi,Drama; Mystery,Japan,Japan,Japanese,0,37,1,1,8.6,95579,4.68,9.36,278705,Japan,135,1,0,1,0,male,ok
+IMDb250,38,tt0110357,The Lion King,1994,1990s,Roger Allers; Rob Minkoff,Animation; Adventure; Drama; Family; Musical,United States,United States,English,0,38,,283,8.5,1285472,4.23,8.46,2329045,United States,89,2,0,2,0,male; male,ok
+IMDb250,39,tt0054215,Psycho,1960,1960s,Alfred Hitchcock,Drama; Horror; Mystery; Thriller,United States,United States,English,0,39,156,156,8.5,799958,4.31,8.62,1517106,United Kingdom,109,1,0,1,0,male,ok
+IMDb250,40,tt0407887,The Departed,2006,2000s,Martin Scorsese,Crime; Drama; Thriller,United States,United States; Hong Kong,English,0,40,112,112,8.5,1590188,4.35,8.70,1816329,United States,151,1,0,1,0,male,ok
+IMDb250,41,tt2582802,Whiplash,2014,2010s,Damien Chazelle,Drama; Music,United States,United States,English,0,41,48,48,8.5,1192603,4.42,8.84,4972132,United States,107,1,0,1,0,male,ok
+IMDb250,42,tt0482571,The Prestige,2006,2000s,Christopher Nolan,Drama; Mystery; Sci-Fi; Thriller,United Kingdom,United Kingdom; United States,English,0,42,150,150,8.5,1640980,4.31,8.62,2306648,United Kingdom,131,1,0,1,0,male,ok
+IMDb250,43,tt0120586,American History X,1998,1990s,Tony Kaye,Crime; Drama,United States,United States,English,0,43,,411,8.5,1292978,4.17,8.34,1029044,United Kingdom,119,1,0,1,0,male,ok
+IMDb250,44,tt9362722,Spider-Man: Across the Spider-Verse,2023,2020s,Joaquim Dos Santos; Kemp Powers; Justin K. Thompson,Animation; Action; Adventure; Family; Fantasy; Sci-Fi,United States,United States,English,0,44,66,66,8.5,562440,4.4,8.80,4243061,Portugal,140,3,0,3,0,male; male; male,ok
+IMDb250,45,tt0095765,Cinema Paradiso,1988,1980s,Giuseppe Tornatore,Drama; Romance,Italy,Italy; France,Italian,0,45,14,14,8.5,322859,4.52,9.04,577934,Italy,155,1,0,1,0,male,ok
+IMDb250,46,tt0110413,Leon,1994,1990s,Luc Besson,Action; Crime; Drama; Thriller,France,France; United States,English,0,46,,,8.5,1373286,4,8.00,1551664,France,111,1,0,1,0,male,ok
+IMDb250,47,tt0034583,Casablanca,1942,1940s,Michael Curtiz,Drama; Romance; War,United States,United States,English,0,47,192,192,8.5,664220,4.28,8.56,906964,Hungary,102,1,0,1,0,male,ok
+IMDb250,48,tt1675434,Untouchable,2011,2010s,Olivier Nakache; Éric Toledano,Comedy; Drama,France,France,French,0,48,,446,8.5,1048845,4.16,8.32,1063772,France,113,2,0,2,0,male; male,ok
+IMDb250,49,tt0114814,The Usual Suspects,1995,1990s,Bryan Singer,Crime; Drama; Mystery; Thriller,United States,United States; Germany,English,0,49,,,8.5,1262294,4.08,8.16,1165295,United States,106,1,0,1,0,male,ok
+IMDb250,50,tt1853728,Django Unchained,2012,2010s,Quentin Tarantino,Drama; Western,United States,United States,English,0,50,117,117,8.5,1926416,4.35,8.70,3608704,United States,165,1,0,1,0,male,ok
+IMDb250,51,tt0078748,Alien,1979,1970s,Ridley Scott,Horror; Sci-Fi,United Kingdom,United Kingdom; United States,English,0,51,246,246,8.4,1083370,4.24,8.48,2083700,United Kingdom,117,1,0,1,0,male,ok
+IMDb250,52,tt0047396,Rear Window,1954,1950s,Alfred Hitchcock,Drama; Mystery; Thriller,United States,United States,English,0,52,101,101,8.4,576863,4.36,8.72,916481,United Kingdom,113,1,0,1,0,male,ok
+IMDb250,53,tt0027977,Modern Times,1936,1930s,Charlie Chaplin,Comedy; Drama; Romance,United States,United States,English,0,53,,252,8.5,289159,4.24,8.48,302187,United Kingdom,87,1,0,1,0,male,ok
+IMDb250,54,tt0064116,Once Upon a Time in the West,1968,1960s,Sergio Leone,Drama; Western,Italy,Italy; United States,English,0,54,78,78,8.5,389408,4.39,8.78,316771,Italy,166,1,0,1,0,male,ok
+IMDb250,55,tt0910970,WALL·E,2008,2000s,Andrew Stanton,Animation; Adventure; Family; Sci-Fi,United States,United States; Japan,English,0,55,234,234,8.4,1349757,4.25,8.50,3029039,United States,98,1,0,1,0,male,ok
+IMDb250,56,tt0021749,City Lights,1931,1930s,Charlie Chaplin,Comedy; Drama; Romance,United States,United States,Silent,1,56,152,152,8.5,219216,4.31,8.62,202325,United Kingdom,87,1,0,1,0,male,ok
+IMDb250,57,tt0078788,Apocalypse Now,1979,1970s,Francis Ford Coppola,Drama; Mystery; War,United States,United States,English,0,57,43,43,8.4,782044,4.43,8.86,1097942,United States,147,1,0,1,0,male,ok
+IMDb250,58,tt4154756,Avengers: Infinity War,2018,2010s,Anthony Russo; Joe Russo,Action; Adventure; Sci-Fi,United States,United States; Norway,English,0,58,,,8.4,1424043,4.1,8.20,4189152,United States,149,2,0,2,0,male; male,ok
+IMDb250,59,tt0209144,Memento,2000,2000s,Christopher Nolan,Mystery; Thriller,United States,United States,English,0,59,,392,8.4,1466942,4.18,8.36,2268916,United Kingdom,113,1,0,1,0,male,ok
+IMDb250,60,tt15239678,Dune: Part Two,2024,2020s,Denis Villeneuve,Action; Adventure; Drama; Sci-Fi,United States,United States; Canada; United Arab Emirates; Hungary; Italy; New Zealand; Jordan,English,0,60,87,87,8.4,805953,4.37,8.74,3787628,Canada,167,1,0,1,0,male,ok
+IMDb250,61,tt0082971,Raiders of the Lost Ark,1981,1980s,Steven Spielberg,Adventure,United States,United States,English,0,61,,458,8.4,1125707,4.16,8.32,1403054,United States,115,1,0,1,0,male,ok
+IMDb250,62,tt4633694,Spider-Man: Into the Spider-Verse,2018,2010s,Bob Persichetti; Peter Ramsey; Rodney Rothman,Animation; Action; Adventure; Family; Fantasy; Sci-Fi,United States,United States,English,0,62,73,73,8.4,824586,4.39,8.78,5146625,United States,117,3,0,3,0,male; male; male,ok
+IMDb250,63,tt0405094,The Lives of Others,2006,2000s,Florian Henckel von Donnersmarck,Drama; Mystery; Thriller,Germany,Germany; France,German,0,63,180,180,8.4,449026,4.29,8.58,226147,Germany,137,1,0,1,0,male,ok
+IMDb250,64,tt0043014,Sunset Boulevard,1950,1950s,Billy Wilder,Drama; Film-Noir,United States,United States,English,0,64,41,41,8.4,265096,4.44,8.88,395282,Austria,110,1,0,1,0,male,ok
+IMDb250,65,tt0051201,Witness for the Prosecution,1957,1950s,Billy Wilder,Crime; Drama; Mystery; Thriller,United States,United States,English,0,65,53,53,8.4,166025,4.42,8.84,149405,Austria,116,1,0,1,0,male,ok
+IMDb250,66,tt0050825,Paths of Glory,1957,1950s,Stanley Kubrick,Drama; War,United States,United States,English,0,66,38,38,8.4,244088,4.45,8.90,351891,United States,88,1,0,1,0,male,ok
+IMDb250,67,tt0361748,Inglourious Basterds,2009,2000s,Quentin Tarantino,Drama; War,United States,United States; Germany,English,0,67,96,96,8.4,1830093,4.37,8.74,4085860,United States,153,1,0,1,0,male,ok
+IMDb250,68,tt0081505,The Shining,1980,1980s,Stanley Kubrick,Drama; Horror,United Kingdom,United Kingdom; United States,English,0,68,,311,8.4,1253941,4.21,8.42,3573371,United States,144,1,0,1,0,male,ok
+IMDb250,69,tt0032553,The Great Dictator,1940,1940s,Charlie Chaplin,Comedy; Drama; War,United States,United States,English,0,69,134,134,8.4,261405,4.33,8.66,210702,United Kingdom,125,1,0,1,0,male,ok
+IMDb250,70,tt33764258,The Odyssey,2026,2020s,Christopher Nolan,Action; Adventure; Drama; Fantasy,United Kingdom,United Kingdom; United States; Canada; New Zealand; Iceland,English,0,70,127,127,8.4,561771,4.34,8.68,4760194,United Kingdom,173,1,0,1,0,male,ok
+IMDb250,71,tt0090605,Aliens,1986,1980s,James Cameron,Action; Adventure; Horror; Sci-Fi; Thriller,United Kingdom,United Kingdom; United States,English,0,71,,,8.4,852607,4.11,8.22,988611,Canada,137,1,0,1,0,male,ok
+IMDb250,72,tt0057565,High and Low,1963,1960s,Akira Kurosawa,Crime; Drama; Mystery; Thriller,Japan,Japan,Japanese,0,72,5,5,8.4,74503,4.61,9.22,237887,Japan,142,1,0,1,0,male,ok
+IMDb250,73,tt23849204,12th Fail,2023,2020s,Vidhu Vinod Chopra,Biography; Drama,India,India,Hindi,0,73,,456,8.7,179793,4.16,8.32,79961,India,146,1,0,1,0,male,ok
+IMDb250,74,tt4154796,Avengers: Endgame,2019,2010s,Anthony Russo; Joe Russo,Action; Adventure; Sci-Fi,United States,United States,English,0,74,,,8.4,1507759,4.04,8.08,4255588,United States,181,2,0,2,0,male; male,ok
+IMDb250,75,tt0119217,Good Will Hunting,1997,1990s,Gus Van Sant,Drama; Romance,United States,United States,English,0,75,76,76,8.4,1253457,4.39,8.78,3761416,United States,127,1,0,1,0,male,ok
+IMDb250,76,tt2380307,Coco,2017,2010s,Lee Unkrich; Adrian Molina,Animation; Adventure; Drama; Family; Fantasy; Music; Mystery,United States,United States; Mexico; Japan,English,0,76,,,8.4,735084,4.13,8.26,3431180,United States,105,2,0,2,0,male; male,ok
+IMDb250,77,tt0114709,Toy Story,1995,1990s,John Lasseter,Animation; Adventure; Comedy; Family; Fantasy,United States,United States,English,0,77,,,8.3,1206910,4.11,8.22,2834056,United States,81,1,0,1,0,male,ok
+IMDb250,78,tt1345836,The Dark Knight Rises,2012,2010s,Christopher Nolan,Crime; Thriller,United Kingdom,United Kingdom; United States,English,0,78,,,8.4,2038366,3.83,7.66,2350588,United Kingdom,165,1,0,1,0,male,ok
+IMDb250,79,tt0086879,Amadeus,1984,1980s,Miloš Forman,Biography; Drama; Music,United States,United States; France,English,0,79,89,89,8.4,475817,4.37,8.74,611305,Czech Republic,160,1,0,1,0,male,ok
+IMDb250,80,tt5311514,Your Name.,2016,2010s,Makoto Shinkai,Animation; Drama; Fantasy; Romance,Japan,Japan,Japanese,0,80,,255,8.4,410123,4.24,8.48,1750790,Japan,106,1,0,1,0,male,ok
+IMDb250,81,tt1187043,3 Idiots,2009,2000s,Rajkumar Hirani,Comedy; Drama,India,India,Hindi,0,81,,382,8.4,492688,4.19,8.38,253350,India,171,1,0,1,0,male,ok
+IMDb250,82,tt0112573,Braveheart,1995,1990s,Mel Gibson,Drama; War,United States,United States,English,0,82,,,8.3,1176964,3.93,7.86,570221,United States,178,1,0,1,0,male,ok
+IMDb250,83,tt0082096,Das Boot,1981,1980s,Wolfgang Petersen,Drama; War,Germany,West Germany,German,0,83,128,128,8.3,291694,4.33,8.66,126839,Germany,150,1,0,1,0,male,ok
+IMDb250,84,tt0119698,Princess Mononoke,1997,1990s,Hayao Miyazaki,Animation; Adventure; Fantasy,Japan,Japan,Japanese,0,84,70,70,8.3,494429,4.4,8.80,1888583,Japan,134,1,0,1,0,male,ok
+IMDb250,85,tt0364569,Oldboy,2003,2000s,Park Chan-wook,Action; Drama; Mystery; Thriller,South Korea,South Korea,Korean,0,85,103,103,8.3,738496,4.36,8.72,1781278,South Korea,120,1,0,1,0,male,ok
+IMDb250,86,tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1960s,Stanley Kubrick,Comedy; War,United Kingdom,United Kingdom,English,0,86,169,169,8.3,557054,4.3,8.60,687640,United States,95,1,0,1,0,male,ok
+IMDb250,87,tt33175825,Attack on Titan: The Last Attack,2024,2020s,Ryota Aikei; Yūichirō Hayashi; Tokio Igarashi,Animation; Action; Adventure; Drama; Horror,Japan,Japan,Japanese,0,87,,,8.9,40602,4.68,9.36,228678,,145,1,0,1,0,male,count_differs
+IMDb250,88,tt0169547,American Beauty,1999,1990s,Sam Mendes,Drama,United States,United States,English,0,88,,,8.3,1292733,3.94,7.88,1274766,United Kingdom,122,1,0,1,0,male,ok
+IMDb250,89,tt2056785,Wildwood,2026,2020s,Travis Knight,Animation; Adventure; Fantasy,United States,United States; United Kingdom; Canada,English,0,89,74,74,8.6,27433,4.39,8.78,518617,United States,132,1,0,1,0,male,ok
+IMDb250,90,tt8267604,Capernaum,2018,2010s,Nadine Labaki,Drama,Lebanon,Lebanon; United States; France; Cyprus; Qatar; United Kingdom,Arabic,0,90,,251,8.4,128098,4.24,8.48,154518,Lebanon,126,1,1,0,1,female,ok
+IMDb250,91,tt0045152,Singin' in the Rain,1952,1950s,Stanley Donen; Gene Kelly,Comedy; Musical; Romance,United States,United States,English,0,91,113,113,8.3,287284,4.35,8.70,708117,United States,103,2,0,2,0,male; male,ok
+IMDb250,92,tt0087843,Once Upon a Time in America,1984,1980s,Sergio Leone,Crime; Drama,Italy,Italy; United States,English,0,92,,290,8.3,414238,4.22,8.44,342702,Italy,229,1,0,1,0,male,ok
+IMDb250,93,tt7286456,Joker,2019,2010s,Todd Phillips,Drama; Thriller,United States,United States; Canada; Australia,English,0,93,,,8.3,1736837,3.85,7.70,5035091,United States,122,1,0,1,0,male,ok
+IMDb250,94,tt0435761,Toy Story 3,2010,2010s,Lee Unkrich,Animation; Adventure; Comedy; Family; Fantasy,United States,United States; Japan; India; United Kingdom; Australia,English,0,94,,,8.3,996513,4.06,8.12,1973263,United States,103,1,0,1,0,male,ok
+IMDb250,95,tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,1980s,Richard Marquand,Action; Adventure; Fantasy; Sci-Fi,United States,United States,English,0,95,,,8.3,1229578,4.11,8.22,2058278,United Kingdom,132,1,0,1,0,male,ok
+IMDb250,96,tt0091251,Come and See,1985,1980s,Elem Klimov,Drama; Thriller; War,Russia,Soviet Union,Russian,0,96,4,4,8.3,128122,4.61,9.22,521229,Russia,142,1,0,1,0,male,ok
+IMDb250,97,tt0180093,Requiem for a Dream,2000,2000s,Darren Aronofsky,Drama,United States,United States,English,0,97,,,8.3,989844,4.11,8.22,1853662,United States,102,1,0,1,0,male,ok
+IMDb250,98,tt1255953,Incendies,2010,2010s,Denis Villeneuve,Drama; Mystery; War,Canada,Canada; France,French,0,98,35,35,8.3,263127,4.46,8.92,705370,Canada,131,1,0,1,0,male,ok
+IMDb250,99,tt0044741,Ikiru,1952,1950s,Akira Kurosawa,Drama,Japan,Japan,Japanese,0,99,15,15,8.3,104715,4.52,9.04,218714,Japan,143,1,0,1,0,male,ok
+IMDb250,100,tt2106476,The Hunt,2012,2010s,Thomas Vinterberg,Drama,Denmark,Denmark; Sweden; Belgium; France,Danish,0,100,184,184,8.3,422666,4.29,8.58,732574,Kingdom of Denmark,116,1,0,1,0,male,ok
+IMDb250,101,tt0338013,Eternal Sunshine of the Spotless Mind,2004,2000s,Michel Gondry,Drama; Romance; Sci-Fi,United States,United States,English,0,101,,254,8.3,1202562,4.24,8.48,3926665,France,108,1,0,1,0,male,ok
+IMDb250,102,tt0053604,The Apartment,1960,1960s,Billy Wilder,Comedy; Drama; Romance,United States,United States,English,0,102,45,45,8.3,224401,4.43,8.86,422408,Austria,126,1,0,1,0,male,ok
+IMDb250,103,tt0056172,Lawrence of Arabia,1962,1960s,David Lean,Adventure; Biography; Drama; War,United Kingdom,United Kingdom,English,0,103,50,50,8.3,348279,4.42,8.84,433022,United Kingdom,228,1,0,1,0,male,ok
+IMDb250,104,tt0113277,Heat,1995,1990s,Michael Mann,Action; Crime; Drama,United States,United States,English,0,104,133,133,8.3,824438,4.33,8.66,1350190,United States,170,1,0,1,0,male,ok
+IMDb250,105,tt0086250,Scarface,1983,1980s,Brian De Palma,Crime; Drama,United States,United States,English,0,105,,454,8.3,1042361,4.16,8.32,1902499,United States,170,1,0,1,0,male,ok
+IMDb250,106,tt1049413,Up,2009,2000s,Pete Docter; Bob Peterson,Animation; Adventure; Comedy; Drama; Family,United States,United States; Japan,English,0,106,,,8.3,1263359,4.1,8.20,3397621,United States,96,2,0,2,0,male; male,ok
+IMDb250,107,tt0105236,Reservoir Dogs,1992,1990s,Quentin Tarantino,Crime; Drama; Thriller,United States,United States,English,0,107,,,8.2,1187363,4.13,8.26,1766571,United States,99,1,0,1,0,male,ok
+IMDb250,108,tt0062622,2001: A Space Odyssey,1968,1960s,Stanley Kubrick,Adventure; Sci-Fi,United Kingdom,United Kingdom; United States,English,0,108,,284,8.3,797165,4.23,8.46,1652918,United States,149,1,0,1,0,male,ok
+IMDb250,109,tt0036775,Double Indemnity,1944,1940s,Billy Wilder,Crime; Drama; Film-Noir; Mystery; Thriller,United States,United States,English,0,109,223,223,8.3,184155,4.26,8.52,243911,Austria,107,1,0,1,0,male,ok
+IMDb250,110,tt0986264,Like Stars on Earth,2007,2000s,Aamir Khan,Drama; Family,India,India,Hindi,0,110,,,8.3,237801,4.1,8.20,135072,India,162,3,0,3,0,male; male; male,count_differs
+IMDb250,111,tt0053125,North by Northwest,1959,1950s,Alfred Hitchcock,Action; Adventure; Drama; Mystery; Thriller,United States,United States,English,0,111,,352,8.2,373360,4.2,8.40,370789,United Kingdom,137,1,0,1,0,male,ok
+IMDb250,112,tt0093058,Full Metal Jacket,1987,1980s,Stanley Kubrick,Drama; War,United Kingdom,United Kingdom; United States,English,0,112,,362,8.2,864374,4.19,8.38,1219667,United States,117,1,0,1,0,male,ok
+IMDb250,113,tt1832382,A Separation,2011,2010s,Asghar Farhadi,Drama,Iran,Iran; France; Australia,Persian,0,113,68,68,8.3,281708,4.4,8.80,221229,Iran,123,1,0,1,0,male,ok
+IMDb250,114,tt31514146,I Swear,2025,2020s,Kirk Jones,Biography; Drama,United Kingdom,United Kingdom; Ireland,English,0,114,214,214,8.3,74030,4.26,8.52,375620,United Kingdom,121,1,0,1,0,male,ok
+IMDb250,115,tt0095016,Die Hard,1988,1980s,John McTiernan,Action; Thriller,United States,United States,English,0,115,,,8.2,1044664,4.06,8.12,1299482,United States,132,1,0,1,0,male,ok
+IMDb250,116,tt0022100,M,1931,1930s,Fritz Lang,Crime; Mystery; Thriller,Germany,Germany,German,0,116,188,188,8.3,185243,4.28,8.56,236943,Austria,110,1,0,1,0,male,ok
+IMDb250,117,tt0097576,Indiana Jones and the Last Crusade,1989,1980s,Steven Spielberg,Adventure,United States,United States; United Kingdom; Spain; Italy; Jordan,English,0,117,,,8.2,875303,4.12,8.24,905195,United States,127,1,0,1,0,male,ok
+IMDb250,118,tt0056592,To Kill a Mockingbird,1962,1960s,Robert Mulligan,Crime; Drama,United States,United States,English,0,118,,,8.2,354500,4.12,8.24,285777,United States,129,1,0,1,0,male,ok
+IMDb250,119,tt0211915,Amélie,2001,2000s,Jean-Pierre Jeunet,Comedy; Romance,France,France; Germany,French,0,119,,344,8.2,850262,4.2,8.40,1497241,France,122,1,0,1,0,male,ok
+IMDb250,120,tt0033467,Citizen Kane,1941,1940s,Orson Welles,Drama; Mystery,United States,United States,English,0,120,,383,8.2,498565,4.19,8.38,704190,United States,119,1,0,1,0,male,ok
+IMDb250,121,tt0052357,Vertigo,1958,1950s,Alfred Hitchcock,Mystery; Romance; Thriller,United States,United States,English,0,121,,310,8.2,465004,4.21,8.42,892902,United Kingdom,128,1,0,1,0,male,ok
+IMDb250,122,tt0070735,The Sting,1973,1970s,George Roy Hill,Comedy; Crime; Drama,United States,United States,English,0,122,,317,8.2,308189,4.21,8.42,238409,United States,129,1,0,1,0,male,ok
+IMDb250,123,tt0120382,The Truman Show,1998,1990s,Peter Weir,Comedy; Drama,United States,United States,English,0,123,,294,8.2,1418926,4.22,8.44,5528162,Australia,103,1,0,1,0,male,ok
+IMDb250,124,tt0993846,The Wolf of Wall Street,2013,2010s,Martin Scorsese,Biography; Comedy; Crime; Drama,United States,United States,English,0,124,,,8.2,1838528,4,8.00,4510509,United States,180,1,0,1,0,male,ok
+IMDb250,125,tt0066921,A Clockwork Orange,1971,1970s,Stanley Kubrick,Crime; Sci-Fi,United Kingdom,United Kingdom; United States,English,0,125,,,8.2,949702,4.09,8.18,1623663,United States,137,1,0,1,0,male,ok
+IMDb250,126,tt0017136,Metropolis,1927,1920s,Fritz Lang,Drama; Sci-Fi,Germany,Germany,German,0,126,,260,8.2,204088,4.24,8.48,291804,Austria,148,1,0,1,0,male,ok
+IMDb250,127,tt8579674,1917,2019,2010s,Sam Mendes,Drama; War,United Kingdom,United Kingdom; India; Spain; South Korea; United States,English,0,127,,,8.2,792244,4.13,8.26,2048813,United Kingdom,119,1,0,1,0,male,ok
+IMDb250,128,tt0208092,Snatch,2000,2000s,Guy Ritchie,Comedy; Crime,United Kingdom,United Kingdom; United States,English,0,128,,,8.2,990535,4.06,8.12,901611,United Kingdom,103,1,0,1,0,male,ok
+IMDb250,129,tt1130884,Shutter Island,2010,2010s,Martin Scorsese,Mystery; Thriller,Canada,Canada; United States,English,0,129,,330,8.2,1697564,4.21,8.42,3929291,United States,138,1,0,1,0,male,ok
+IMDb250,130,tt0363163,Downfall,2004,2000s,Oliver Hirschbiegel,Biography; Drama; History; War,Germany,Germany; Austria; Italy,German,0,130,,,8.2,405732,4.13,8.26,186979,Germany,155,1,0,1,0,male,ok
+IMDb250,131,tt0119488,L.A. Confidential,1997,1990s,Curtis Hanson,Crime; Drama; Mystery; Thriller,United States,United States,English,0,131,,,8.2,666759,4.1,8.20,455426,United States,138,1,0,1,0,male,ok
+IMDb250,132,tt6966692,Green Book,2018,2010s,Peter Farrelly,Biography; Comedy; Drama; Music,China,China; South Korea; United States,English,0,132,,,8.2,711648,3.91,7.82,1357196,United States,130,1,0,1,0,male,ok
+IMDb250,133,tt5074352,Dangal,2016,2010s,Nitesh Tiwari,Action; Biography; Drama; Sport,India,India; United States,Hindi,0,133,,,8.3,250254,3.95,7.90,111262,India,161,1,0,1,0,male,ok
+IMDb250,134,tt0040522,Bicycle Thieves,1948,1940s,Vittorio De Sica,Drama,Italy,Italy,Italian,0,134,196,196,8.2,194244,4.28,8.56,300830,Italy,89,1,0,1,0,male,ok
+IMDb250,135,tt0055031,Judgment at Nuremberg,1961,1960s,Stanley Kramer,Drama; History; War,United States,United States,English,0,135,88,88,8.3,99094,4.37,8.74,56545,United States,191,1,0,1,0,male,ok
+IMDb250,136,tt0107290,Jurassic Park,1993,1990s,Steven Spielberg,Adventure; Sci-Fi,United States,United States,English,0,136,,,8.2,1206415,4.13,8.26,2533411,United States,127,1,0,1,0,male,ok
+IMDb250,137,tt0372784,Batman Begins,2005,2000s,Christopher Nolan,Crime,United States,United States; United Kingdom,English,0,137,,,8.2,1754179,3.85,7.70,2463485,United Kingdom,140,1,0,1,0,male,ok
+IMDb250,138,tt0058625,Woman of the Dunes,1964,1960s,Hiroshi Teshigahara,Drama; Thriller,Japan,Japan,Japanese,0,138,36,36,8.4,27134,4.45,8.90,75644,Japan,147,1,0,1,0,male,ok
+IMDb250,139,tt15398776,Oppenheimer,2023,2020s,Christopher Nolan,Biography; Drama; History,United States,United States; United Kingdom,English,0,139,,466,8.2,1112123,4.15,8.30,4763090,United Kingdom,181,1,0,1,0,male,ok
+IMDb250,140,tt0059578,For a Few Dollars More,1965,1960s,Sergio Leone,Drama; Western,Italy,Italy; Spain; West Germany,English,0,140,232,232,8.2,305546,4.25,8.50,300145,Italy,132,1,0,1,0,male,ok
+IMDb250,141,tt0469494,There Will Be Blood,2007,2000s,Paul Thomas Anderson,Drama,United States,United States,English,0,141,33,33,8.2,723890,4.46,8.92,1455685,United States,158,1,0,1,0,male,ok
+IMDb250,142,tt8503618,Hamilton,2020,2020s,Thomas Kail,Biography; Drama; History; Musical,United States,United States,English,0,142,,,8.3,144179,4.3,8.60,783045,United States,160,1,0,1,0,male,ok
+IMDb250,143,tt0053291,Some Like It Hot,1959,1950s,Billy Wilder,Comedy; Music; Romance,United States,United States,English,0,143,187,187,8.2,308786,4.28,8.56,433902,Austria,123,1,0,1,0,male,ok
+IMDb250,144,tt0075314,Taxi Driver,1976,1970s,Martin Scorsese,Crime; Drama,United States,United States,English,0,144,,,8.2,1048584,4.1,8.20,2640476,United States,114,1,0,1,0,male,ok
+IMDb250,145,tt10272386,The Father,2020,2020s,Florian Zeller,Drama; Mystery,United Kingdom,United Kingdom; France; United States,English,0,145,165,165,8.2,252067,4.3,8.60,460589,France,97,1,0,1,0,male,ok
+IMDb250,146,tt0167404,The Sixth Sense,1999,1990s,M. Night Shyamalan,Drama; Mystery; Thriller,United States,United States,English,0,146,,,8.2,1177506,4.12,8.24,1744587,India,107,1,0,1,0,male,ok
+IMDb250,147,tt0042192,All About Eve,1950,1950s,Joseph L. Mankiewicz,Drama,United States,United States,English,0,147,98,98,8.2,151211,4.36,8.72,158459,United States,139,1,0,1,0,male,ok
+IMDb250,148,tt0012349,The Kid,1921,1920s,Charlie Chaplin,Comedy; Drama; Family,United States,United States,Silent,1,148,,367,8.2,147825,4.19,8.38,148687,United Kingdom,68,1,0,1,0,male,ok
+IMDb250,149,tt0089881,Ran,1985,1980s,Akira Kurosawa,Action; Drama; War,Japan,Japan; France,Japanese,0,149,19,19,8.2,155989,4.51,9.02,302123,Japan,160,1,0,1,0,male,ok
+IMDb250,150,tt0084787,The Thing,1982,1980s,John Carpenter,Horror; Mystery; Sci-Fi,United States,United States,English,0,150,114,114,8.2,542632,4.35,8.70,1535057,United States,109,1,0,1,0,male,ok
+IMDb250,151,tt0112641,Casino,1995,1990s,Martin Scorsese,Crime; Drama,United States,United States; France,English,0,151,,289,8.2,631754,4.22,8.44,853099,United States,179,1,0,1,0,male,ok
+IMDb250,152,tt0477348,No Country for Old Men,2007,2000s,Ethan Coen; Joel Coen,Crime; Drama; Thriller,United States,United States,English,0,152,159,159,8.2,1222400,4.3,8.60,2491510,United States,122,2,0,2,0,male; male,ok
+IMDb250,153,tt1392214,Prisoners,2013,2010s,Denis Villeneuve,Crime; Drama; Mystery; Thriller,United States,United States,English,0,153,118,118,8.2,968571,4.35,8.70,2588185,Canada,153,1,0,1,0,male,ok
+IMDb250,154,tt1745960,Top Gun: Maverick,2022,2020s,Joseph Kosinski,Action; Drama,United States,United States,English,0,154,,,8.2,913243,3.98,7.96,2469563,United States,131,1,0,1,0,male,ok
+IMDb250,155,tt0266697,Kill Bill: Vol. 1,2003,2000s,Quentin Tarantino,Action; Crime; Thriller,United States,United States,English,0,155,,293,8.2,1332529,4.22,8.44,3697175,United States,111,1,0,1,0,male,ok
+IMDb250,156,tt0457430,Pan's Labyrinth,2006,2000s,Guillermo del Toro,Drama; Fantasy; War,Mexico,Mexico; Spain,Spanish,0,156,,462,8.2,757166,4.15,8.30,1128867,Mexico,118,1,0,1,0,male,ok
+IMDb250,157,tt0105695,Unforgiven,1992,1990s,Clint Eastwood,Drama; Western,United States,United States,English,0,157,,312,8.2,474994,4.21,8.42,349905,United States,130,1,0,1,0,male,ok
+IMDb250,158,tt0268978,A Beautiful Mind,2001,2000s,Ron Howard,Biography; Drama; Mystery,United States,United States,English,0,158,,,8.2,1068541,3.89,7.78,696339,United States,136,1,0,1,0,male,ok
+IMDb250,159,tt0347149,Howl's Moving Castle,2004,2000s,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan,Japan; United States,Japanese,0,159,100,100,8.2,525724,4.36,8.72,2820316,Japan,119,1,0,1,0,male,ok
+IMDb250,160,tt0040897,The Treasure of the Sierra Madre,1948,1940s,John Huston,Adventure; Drama; Western,United States,United States,English,0,160,171,171,8.2,143336,4.3,8.60,96671,United States,126,1,0,1,0,male,ok
+IMDb250,161,tt0266543,Finding Nemo,2003,2000s,Andrew Stanton; Lee Unkrich,Animation; Adventure; Comedy; Family,United States,United States; Japan,English,0,161,,,8.2,1231565,4.02,8.04,2682070,United States,100,2,0,2,0,male; male,ok
+IMDb250,162,tt4729430,Klaus,2019,2010s,Sergio Pablos; Carlos Martínez López,Animation; Adventure; Comedy; Family; Fantasy,Spain,Spain; United Kingdom; United States; Austria; Canada; France,English,0,162,,360,8.2,244969,4.19,8.38,724600,Spain,97,1,0,1,0,male,count_differs
+IMDb250,163,tt12042730,Project Hail Mary,2026,2020s,Phil Lord; Christopher Miller,Adventure; Comedy; Sci-Fi,United States,United States,English,0,163,148,148,8.2,600974,4.31,8.62,4769104,United States,156,2,0,2,0,male; male,ok
+IMDb250,164,tt0055630,Yojimbo,1961,1960s,Akira Kurosawa,Action; Drama; Thriller,Japan,Japan,Japanese,0,164,164,164,8.2,145469,4.3,8.60,202059,Japan,110,1,0,1,0,male,ok
+IMDb250,165,tt0080678,The Elephant Man,1980,1980s,David Lynch,Biography; Drama,United States,United States; United Kingdom,English,0,165,137,137,8.2,286292,4.32,8.64,507745,United States,124,1,0,1,0,male,ok
+IMDb250,166,tt32820897,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,2020s,Hikaru Kondô; Haruo Sotozaki,Animation; Action; Adventure; Fantasy; Horror; Thriller,Japan,Japan; United States,Japanese,0,166,,,8.3,90302,4.07,8.14,562661,Japan,156,1,0,1,0,male,count_differs
+IMDb250,167,tt0057115,The Great Escape,1963,1960s,John Sturges,Adventure; Drama; Thriller; War,United States,United States,English,0,167,,421,8.2,281563,4.17,8.34,172148,United States,173,1,0,1,0,male,ok
+IMDb250,168,tt0071853,Monty Python and the Holy Grail,1975,1970s,Terry Gilliam; Terry Jones,Adventure; Comedy; Fantasy,United Kingdom,United Kingdom,English,0,168,,474,8.1,610206,4.15,8.30,755767,United States,91,2,0,2,0,male; male,ok
+IMDb250,169,tt0046912,Dial M for Murder,1954,1950s,Alfred Hitchcock,Crime; Drama; Mystery; Thriller,United States,United States,English,0,169,,443,8.1,208212,4.16,8.32,230037,United Kingdom,105,1,0,1,0,male,ok
+IMDb250,170,tt1305806,The Secret in Their Eyes,2009,2000s,Juan José Campanella,Drama; Mystery; Romance; Thriller,Argentina,Argentina; Spain,Spanish,0,170,239,239,8.2,246913,4.25,8.50,229457,Argentina,130,1,0,1,0,male,ok
+IMDb250,171,tt0031381,Gone with the Wind,1939,1930s,Victor Fleming,Drama; Romance; War,United States,United States,English,0,171,,,8.2,360331,3.86,7.72,287280,United States,238,3,0,3,0,male; male; male,count_differs
+IMDb250,172,tt0120735,"Lock, Stock and Two Smoking Barrels",1998,1990s,Guy Ritchie,Comedy; Crime,United Kingdom,United Kingdom; United States,English,0,172,,,8.1,656941,4.03,8.06,330455,United Kingdom,105,1,0,1,0,male,ok
+IMDb250,173,tt0264464,Catch Me If You Can,2002,2000s,Steven Spielberg,Biography; Crime; Drama,United States,United States; Canada,English,0,173,,,8.1,1274209,4.06,8.12,2778915,United States,141,1,0,1,0,male,ok
+IMDb250,174,tt0071315,Chinatown,1974,1970s,Roman Polanski,Drama; Mystery; Thriller,United States,United States,English,0,174,158,158,8.1,382148,4.3,8.60,537254,France,130,1,0,1,0,male,ok
+IMDb250,175,tt0434409,V for Vendetta,2005,2000s,James McTeigue,Action; Drama; Sci-Fi; Thriller,United States,United States; Germany,English,0,175,,,8.1,1261799,3.91,7.82,1061480,Australia,132,1,0,1,0,male,ok
+IMDb250,176,tt0097165,Dead Poets Society,1989,1980s,Peter Weir,Comedy; Drama,United States,United States,English,0,176,105,105,8.1,676140,4.36,8.72,4197508,Australia,129,1,0,1,0,male,ok
+IMDb250,177,tt2096673,Inside Out,2015,2010s,Pete Docter; Ronnie Del Carmen,Animation; Adventure; Comedy; Drama; Family; Fantasy,United States,United States; Japan,English,0,177,,,8.1,938908,3.82,7.64,3537148,United States,95,2,0,2,0,male; male,ok
+IMDb250,178,tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,2010s,David Yates,Adventure; Family; Fantasy; Mystery,United Kingdom,United Kingdom; United States,English,0,178,,,8.1,1069598,4.04,8.08,2488644,United Kingdom,130,1,0,1,0,male,ok
+IMDb250,179,tt0117951,Trainspotting,1996,1990s,Danny Boyle,Crime; Drama,United Kingdom,United Kingdom,English,0,179,,274,8.1,778003,4.23,8.46,1390013,United Kingdom,94,1,0,1,0,male,ok
+IMDb250,180,tt0346336,The Best of Youth,2003,2000s,Marco Tullio Giordana,Drama; Romance,Italy,Italy,Italian,0,180,,,8.4,29081,4.32,8.64,21283,Italy,367,1,0,1,0,male,ok
+IMDb250,181,tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,2010s,Martin McDonagh,Comedy; Crime; Drama,United Kingdom,United Kingdom; United States,English,0,181,,,8.1,620177,4.07,8.14,903966,United Kingdom,115,1,0,1,0,male,ok
+IMDb250,182,tt0050212,The Bridge on the River Kwai,1957,1950s,David Lean,Adventure; Drama; War,United Kingdom,United Kingdom; United States,English,0,182,242,242,8.1,252962,4.25,8.50,134473,United Kingdom,162,1,0,1,0,male,ok
+IMDb250,183,tt0042876,Rashomon,1950,1950s,Akira Kurosawa,Crime; Drama; Mystery,Japan,Japan,Japanese,0,183,,379,8.1,199721,4.19,8.38,322924,Japan,88,1,0,1,0,male,ok
+IMDb250,184,tt0072684,Barry Lyndon,1975,1970s,Stanley Kubrick,Adventure; Drama; War,United Kingdom,United Kingdom; United States,English,0,184,57,57,8.1,210234,4.42,8.84,490471,United States,188,1,0,1,0,male,ok
+IMDb250,185,tt0052618,Ben-Hur,1959,1950s,William Wyler,Adventure; Drama,United States,United States,English,0,185,,,8.1,274698,4.12,8.24,150936,Switzerland,212,1,0,1,0,male,ok
+IMDb250,186,tt29623480,The Wild Robot,2024,2020s,Chris Sanders,Animation; Adventure; Family; Sci-Fi,United States,United States; Japan,English,0,186,,319,8.1,242512,4.21,8.42,1481566,United States,102,1,0,1,0,male,ok
+IMDb250,187,tt2119532,Hacksaw Ridge,2016,2010s,Mel Gibson,Biography; Drama; History; War,United States,United States,English,0,187,,,8.1,702932,4.07,8.14,1290067,United States,139,1,0,1,0,male,ok
+IMDb250,188,tt1291584,Warrior,2011,2010s,Gavin O'Connor,Action; Drama; Sport,United States,United States,English,0,188,,,8.1,535767,4.06,8.12,326771,United States,140,1,0,1,0,male,ok
+IMDb250,189,tt0382932,Ratatouille,2007,2000s,Brad Bird; Jan Pinkava,Animation; Adventure; Comedy; Family; Fantasy,United States,United States; France; Japan,English,0,189,,286,8.1,973622,4.23,8.46,4180666,United States,111,2,0,2,0,male; male,ok
+IMDb250,190,tt1392190,Mad Max: Fury Road,2015,2010s,George Miller,Action; Adventure; Sci-Fi,Australia,Australia; United States,English,0,190,,430,8.1,1227395,4.17,8.34,2317755,Australia,121,1,0,1,0,male,ok
+IMDb250,191,tt0405159,Million Dollar Baby,2004,2000s,Clint Eastwood,Drama; Sport,United States,United States,English,0,191,,,8.1,777046,4.05,8.10,525319,United States,132,1,0,1,0,male,ok
+IMDb250,192,tt0118849,Children of Heaven,1997,1990s,Majid Majidi,Drama; Family; Sport,Iran,Iran,Persian,0,192,,258,8.2,91906,4.24,8.48,69045,Iran,88,1,0,1,0,male,ok
+IMDb250,193,tt0116282,Fargo,1996,1990s,Joel Coen; Ethan Coen,Crime; Drama; Thriller,United Kingdom,United Kingdom; United States,English,0,193,,,8.1,802577,4.13,8.26,1531791,United States,98,2,0,2,0,male; male,ok
+IMDb250,194,tt0096283,My Neighbour Totoro,1988,1980s,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan,Japan,Japanese,0,194,,363,8.1,443276,4.19,8.38,2216362,Japan,86,1,0,1,0,male,ok
+IMDb250,195,tt1205489,Gran Torino,2008,2000s,Clint Eastwood,Drama,United States,United States; Germany,English,0,195,,,8.1,873924,3.85,7.70,550379,United States,116,1,0,1,0,male,ok
+IMDb250,196,tt2024544,12 Years a Slave,2013,2010s,Steve McQueen,Biography; Drama; History,United Kingdom,United Kingdom; United States,English,0,196,,402,8.1,798169,4.18,8.36,781023,United Kingdom,134,1,0,1,0,male,ok
+IMDb250,197,tt0892769,How to Train Your Dragon,2010,2010s,Dean DeBlois; Chris Sanders,Animation; Action; Adventure; Family; Fantasy,United States,United States,English,0,197,,438,8.1,914196,4.16,8.32,2181976,Canada,98,2,0,2,0,male; male,ok
+IMDb250,198,tt0081398,Raging Bull,1980,1980s,Martin Scorsese,Biography; Drama; Sport,United States,United States,English,0,198,,332,8.1,416407,4.2,8.40,661489,United States,129,1,0,1,0,male,ok
+IMDb250,199,tt0353969,Memories of Murder,2003,2000s,Bong Joon Ho,Crime; Drama; Mystery; Thriller,South Korea,South Korea,Korean,0,199,49,49,8.1,278771,4.42,8.84,1152744,South Korea,131,1,0,1,0,male,ok
+IMDb250,200,tt2278388,The Grand Budapest Hotel,2014,2010s,Wes Anderson,Comedy; Drama,United States,United States; Germany,English,0,200,,265,8.1,992195,4.24,8.48,3557712,United States,100,1,0,1,0,male,ok
+IMDb250,201,tt0198781,"Monsters, Inc.",2001,2000s,Pete Docter; David Silverman; Lee Unkrich,Animation; Adventure; Comedy; Family; Fantasy,United States,United States; Japan,English,0,201,,,8.1,1097955,4.08,8.16,2664941,United States,92,3,0,3,0,male; male; male,ok
+IMDb250,202,tt0112471,Before Sunrise,1995,1990s,Richard Linklater,Comedy; Drama; Romance,United States,United States; Austria,English,0,202,179,179,8.1,386898,4.29,8.58,1666118,United States,101,1,0,1,0,male,ok
+IMDb250,203,tt0083658,Blade Runner,1982,1980s,Ridley Scott,Action; Drama; Sci-Fi; Thriller,United States,United States; United Kingdom; Hong Kong,English,0,203,,,8.1,896938,4.09,8.18,1586226,United Kingdom,118,1,0,1,0,male,ok
+IMDb250,204,tt2267998,Gone Girl,2014,2010s,David Fincher,Drama; Mystery; Thriller,United States,United States,English,0,204,,,8.1,1195664,4.07,8.14,3399855,United States,149,1,0,1,0,male,ok
+IMDb250,205,tt1950186,Le Mans '66,2019,2010s,James Mangold,Action; Biography; Drama; Sport,United States,United States,English,0,205,,,8.1,592361,4.06,8.12,1164011,United States,153,1,0,1,0,male,ok
+IMDb250,206,tt0073195,Jaws,1975,1970s,Steven Spielberg,Adventure; Drama; Horror; Thriller,United States,United States,English,0,206,,,8.1,754350,3.91,7.82,1891049,United States,124,1,0,1,0,male,ok
+IMDb250,207,tt30472557,Chainsaw Man - The Movie: Reze Arc,2025,2020s,Tatsuya Yoshihara,Animation; Action; Adventure; Comedy; Fantasy; Romance; Thriller,Japan,Japan,Japanese,0,207,104,104,8.3,73059,4.36,8.72,709069,Japan,100,1,0,1,0,male,ok
+IMDb250,208,tt0107207,In the Name of the Father,1993,1990s,Jim Sheridan,Biography; Crime; Drama,Ireland,Ireland; United Kingdom; United States,English,0,208,,302,8.1,205726,4.22,8.44,135195,Ireland,133,1,0,1,0,male,ok
+IMDb250,209,tt10872600,Spider-Man: No Way Home,2021,2020s,Jon Watts,Action; Adventure; Fantasy; Sci-Fi,United States,United States,English,0,209,,,8.1,1088234,3.86,7.72,4386495,United States,148,1,0,1,0,male,ok
+IMDb250,210,tt3011894,Wild Tales,2014,2010s,Damián Szifron,Comedy; Drama; Thriller,Argentina,Argentina; Spain; France; United Kingdom,Spanish,0,210,,,8.1,243077,4.14,8.28,291386,Argentina,122,1,0,1,0,male,ok
+IMDb250,211,tt5323662,A Silent Voice: The Movie,2016,2010s,Naoko Yamada,Animation; Drama,Japan,Japan,Japanese,0,211,,270,8.2,153250,4.23,8.46,1065099,Japan,129,1,1,0,1,female,ok
+IMDb250,212,tt0015864,The Gold Rush,1925,1920s,Charlie Chaplin,Adventure; Comedy; Drama; Romance; Western,United States,United States,Silent,1,212,,,8.1,129708,4.14,8.28,110797,United Kingdom,95,1,0,1,0,male,ok
+IMDb250,213,tt0978762,Mary and Max,2009,2000s,Adam Elliot,Animation; Comedy; Drama,Australia,Australia,English,0,213,205,205,8.1,204264,4.27,8.54,232730,Australia,92,1,0,1,0,male,ok
+IMDb250,214,tt0015324,Sherlock Jr.,1924,1920s,Buster Keaton,Action; Comedy; Romance,United States,United States,Silent,1,214,110,110,8.1,67583,4.36,8.72,148010,United States,45,2,0,2,0,male; male,count_differs
+IMDb250,215,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,2000s,Gore Verbinski,Action; Adventure; Fantasy,United States,United States,English,0,215,,,8.1,1353266,4.03,8.06,2243144,United States,143,1,0,1,0,male,ok
+IMDb250,216,tt0075148,Rocky,1976,1970s,John G. Avildsen,Drama; Sport,United States,United States,English,0,216,,,8.1,707541,4.12,8.24,1146778,United States,119,1,0,1,0,male,ok
+IMDb250,217,tt3315342,Logan,2017,2010s,James Mangold,Action; Drama; Sci-Fi; Thriller,United States,United States,English,0,217,,,8.1,947081,4.13,8.26,1607968,United States,137,1,0,1,0,male,ok
+IMDb250,218,tt0077416,The Deer Hunter,1978,1970s,Michael Cimino,Drama; War,United States,United States; United Kingdom,English,0,218,,288,8.1,391621,4.22,8.44,338449,United States,183,1,0,1,0,male,ok
+IMDb250,219,tt0046268,The Wages of Fear,1953,1950s,Henri-Georges Clouzot,Adventure; Drama; Thriller,France,France; Italy,French,0,219,95,95,8.1,74814,4.37,8.74,75917,France,148,1,0,1,0,male,ok
+IMDb250,220,tt0017925,The General,1926,1920s,Clyde Bruckman; Buster Keaton,Action; Adventure; Comedy; Drama; War,United States,United States,Silent,1,220,,405,8.1,106750,4.18,8.36,120599,United States,79,2,0,2,0,male; male,ok
+IMDb250,221,tt0031679,Mr. Smith Goes to Washington,1939,1930s,Frank Capra,Comedy; Drama,United States,United States,English,0,221,,461,8.1,131014,4.16,8.32,82644,Italy,130,1,0,1,0,male,ok
+IMDb250,222,tt26548265,Maharaja,2024,2020s,Nithilan Saminathan; R. Nandhakumar; T. Suresh,Action; Crime; Drama; Mystery; Thriller,India,India,Tamil,0,222,,,8.3,87359,3.9,7.80,95726,,141,1,0,1,0,male,count_differs
+IMDb250,223,tt0046438,Tokyo Story,1953,1950s,Yasujirō Ozu,Drama,Japan,Japan,Japanese,0,223,47,47,8.1,79373,4.43,8.86,159865,Japan,137,1,0,1,0,male,ok
+IMDb250,224,tt15097216,Jai Bhim,2021,2020s,T.J. Gnanavel,Crime; Drama,India,India; United States,Tamil,0,224,,,8.6,237451,3.82,7.64,27592,,164,1,0,1,0,male,ok
+IMDb250,225,tt0059742,The Sound of Music,1965,1960s,Robert Wise,Biography; Drama; Family; Musical; Romance,United States,United States,English,0,225,220,220,8.1,297101,4.26,8.52,756574,United States,174,1,0,1,0,male,ok
+IMDb250,226,tt0113247,La haine,1995,1990s,Mathieu Kassovitz,Crime; Drama,France,France,French,0,226,20,20,8.1,233984,4.5,9.00,1248284,France,98,1,0,1,0,male,ok
+IMDb250,227,tt1895587,Spotlight,2015,2010s,Tom McCarthy,Biography; Crime; Drama,United States,United States,English,0,227,,,8.1,543451,4.13,8.26,659729,United States,129,1,0,1,0,male,ok
+IMDb250,228,tt0088247,The Terminator,1984,1980s,James Cameron,Action; Adventure; Sci-Fi,United Kingdom,United Kingdom; United States,English,0,228,,,8.1,1024673,3.88,7.76,1145758,Canada,108,1,0,1,0,male,ok
+IMDb250,229,tt0036868,The Best Years of Our Lives,1946,1940s,William Wyler,Drama; Romance; War,United States,United States,English,0,229,237,237,8.1,77600,4.25,8.50,53433,Switzerland,171,1,0,1,0,male,ok
+IMDb250,230,tt0050986,Wild Strawberries,1957,1950s,Ingmar Bergman,Drama; Romance,Sweden,Sweden,Swedish,0,230,143,143,8.1,126439,4.32,8.64,193866,Sweden,91,1,0,1,0,male,ok
+IMDb250,231,tt0047296,On the Waterfront,1954,1950s,Elia Kazan,Crime; Drama; Thriller,United States,United States,English,0,231,,449,8.1,182604,4.16,8.32,171461,Greece,108,1,0,1,0,male,ok
+IMDb250,232,tt0041959,The Third Man,1949,1940s,Carol Reed,Drama; Film-Noir; Mystery; Thriller,United Kingdom,United Kingdom; United States,English,0,232,,263,8.1,198260,4.24,8.48,212688,United Kingdom,105,1,0,1,0,male,ok
+IMDb250,233,tt0317705,The Incredibles,2004,2000s,Brad Bird,Animation; Action; Adventure; Family,United States,United States,English,0,233,,,8,923076,4.06,8.12,2622762,United States,115,1,0,1,0,male,ok
+IMDb250,234,tt0118715,The Big Lebowski,1998,1990s,Joel Coen; Ethan Coen,Comedy; Crime,United Kingdom,United Kingdom; United States,English,0,234,,,8.1,928061,4.11,8.22,1408041,United States,117,2,0,2,0,male; male,ok
+IMDb250,235,tt1028532,Hachi: A Dog's Tale,2009,2000s,Lasse Hallström,Biography; Drama; Family,United Kingdom,United Kingdom; United States,English,0,235,,,8.1,350575,3.93,7.86,327845,Sweden,93,1,0,1,0,male,ok
+IMDb250,236,tt0381681,Before Sunset,2004,2000s,Richard Linklater,Drama; Romance,United States,United States,English,0,236,153,153,8.1,321507,4.31,8.62,1004409,United States,80,1,0,1,0,male,ok
+IMDb250,237,tt0129167,The Iron Giant,1999,1990s,Brad Bird,Animation; Action; Adventure; Family; Sci-Fi,United States,United States; Czech Republic; United Kingdom,English,0,237,182,182,8.1,267686,4.29,8.58,747764,United States,86,1,0,1,0,male,ok
+IMDb250,238,tt0070047,The Exorcist,1973,1970s,William Friedkin,Horror,United States,United States,English,0,238,,,8.1,509840,3.94,7.88,1147864,United States,122,1,0,1,0,male,ok
+IMDb250,239,tt3170832,Room,2015,2010s,Lenny Abrahamson,Drama; Thriller,Ireland,Ireland; Canada; United Kingdom; United States,English,0,239,,,8.1,486880,3.97,7.94,839062,Ireland,118,1,0,1,0,male,ok
+IMDb250,240,tt0395169,Hotel Rwanda,2004,2000s,Terry George,Biography; Drama; History; War,United States,United States; United Kingdom; South Africa; Italy,English,0,240,,,8.1,396148,3.87,7.74,158595,United Kingdom,122,1,0,1,0,male,ok
+IMDb250,241,tt0091763,Platoon,1986,1980s,Oliver Stone,Drama; War,United States,United States; United Kingdom,English,0,241,,,8,479525,3.99,7.98,403915,United States,120,1,0,1,0,male,ok
+IMDb250,242,tt0050976,The Seventh Seal,1957,1950s,Ingmar Bergman,Drama; Fantasy,Sweden,Sweden,Swedish,0,242,147,147,8.1,219146,4.31,8.62,460489,Sweden,96,1,0,1,0,male,ok
+IMDb250,243,tt1979320,Rush,2013,2010s,Ron Howard,Biography; Drama; Sport,United Kingdom,United Kingdom; United States,English,0,243,,,8.1,569943,3.89,7.78,470419,United States,123,1,0,1,0,male,ok
+IMDb250,244,tt0058946,The Battle of Algiers,1966,1960s,Gillo Pontecorvo,Drama; War,Italy,Italy; Algeria,Arabic,0,244,28,28,8.1,77614,4.48,8.96,158384,Italy,122,1,0,1,0,male,ok
+IMDb250,245,tt0092005,Stand by Me,1986,1980s,Rob Reiner,Adventure; Drama,United States,United States,English,0,245,,354,8.1,498270,4.2,8.40,1413957,United States,89,1,0,1,0,male,ok
+IMDb250,246,tt0032138,The Wizard of Oz,1939,1930s,Victor Fleming; George Cukor; Norman Taurog,Adventure; Family; Fantasy; Musical,United States,United States,English,0,246,,,8.1,474967,3.91,7.82,1022447,United States,102,2,0,2,0,male; male,count_differs
+IMDb250,247,tt0476735,My Father and My Son,2005,2000s,Çağan Irmak,Drama,Turkey,Turkey,Turkish,0,247,,,8.2,102842,4.05,8.10,73610,Turkey,112,1,0,1,0,male,ok
+IMDb250,248,tt4430212,Drishyam,2015,2010s,Nishikant Kamat,Crime; Drama; Mystery; Thriller,India,India,Hindi,0,248,,,8.2,112660,3.87,7.74,35993,India,163,1,0,1,0,male,ok
+IMDb250,249,tt0019254,The Passion of Joan of Arc,1928,1920s,Carl Theodor Dreyer,Biography; Drama; History,France,France,Silent,1,249,54,54,8.1,69772,4.42,8.84,165116,Kingdom of Denmark,81,1,0,1,0,male,ok
+IMDb250,250,tt1954470,Gangs of Wasseypur,2012,2010s,Anurag Kashyap,Action; Comedy; Crime; Drama; Thriller,India,India; France,Hindi,0,250,,339,8.2,116363,4.2,8.40,36335,India,160,1,0,1,0,male,ok
+LB250,1,tt0056058,Harakiri,1962,1960s,Masaki Kobayashi,Drama; Mystery,Japan,Japan,Japanese,0,37,1,1,8.6,95579,4.68,9.36,278705,Japan,135,1,0,1,0,male,ok
+LB250,2,tt0055233,The Human Condition III: A Soldier's Prayer,1961,1960s,Masaki Kobayashi,Drama; History; War,Japan,Japan,Japanese,0,,2,2,8.8,9276,4.66,9.32,37562,Japan,190,1,0,1,0,male,ok
+LB250,3,tt0050083,12 Angry Men,1957,1950s,Sidney Lumet,Crime; Drama,United States,United States,English,0,6,3,3,9,1011857,4.63,9.26,1813018,United States,97,1,0,1,0,male,ok
+LB250,4,tt0091251,Come and See,1985,1980s,Elem Klimov,Drama; Thriller; War,Russia,Soviet Union,Russian,0,96,4,4,8.3,128122,4.61,9.22,521229,Russia,142,1,0,1,0,male,ok
+LB250,5,tt0057565,High and Low,1963,1960s,Akira Kurosawa,Crime; Drama; Mystery; Thriller,Japan,Japan,Japanese,0,72,5,5,8.4,74503,4.61,9.22,237887,Japan,142,1,0,1,0,male,ok
+LB250,6,tt0047478,Seven Samurai,1954,1950s,Akira Kurosawa,Action; Drama,Japan,Japan,Japanese,0,24,6,6,8.6,407866,4.6,9.20,485358,Japan,207,1,0,1,0,male,ok
+LB250,7,tt0111161,The Shawshank Redemption,1994,1990s,Frank Darabont,Drama,United States,United States,English,0,1,7,7,9.3,3264267,4.6,9.20,3245747,United States,142,1,0,1,0,male,ok
+LB250,8,tt0071562,The Godfather Part II,1974,1970s,Francis Ford Coppola,Crime; Drama,United States,United States,English,0,4,8,8,9,1523795,4.59,9.18,1594315,United States,202,1,0,1,0,male,ok
+LB250,9,tt0053114,The Human Condition Part I: No Greater Love,1959,1950s,Masaki Kobayashi,Drama; History; War,Japan,Japan,Japanese,0,,9,9,8.5,11918,4.58,9.16,52637,Japan,204,1,0,1,0,male,ok
+LB250,10,tt0317248,City of God,2002,2000s,Fernando Meirelles; Kátia Lund,Crime; Drama,Brazil,Brazil,Portuguese,0,26,10,10,8.6,887290,4.58,9.16,1349709,Brazil,129,2,1,1,1,male; female,ok
+LB250,11,tt0167260,The Lord of the Rings: The Return of the King,2003,2000s,Peter Jackson,Adventure; Drama; Fantasy,New Zealand,New Zealand; United States,English,0,5,11,11,9,2207622,4.56,9.12,2575956,New Zealand,201,1,0,1,0,male,ok
+LB250,12,tt0108052,Schindler's List,1993,1990s,Steven Spielberg,Biography; Drama; History,United States,United States,English,0,7,12,12,9,1613384,4.55,9.10,1568201,United States,195,1,0,1,0,male,ok
+LB250,13,tt0244316,Yi Yi,2000,2000s,Edward Yang,Drama,Taiwan,Taiwan; China; Japan,Mandarin,0,,13,13,8.1,35450,4.53,9.06,209301,Taiwan,174,1,0,1,0,male,ok
+LB250,14,tt0095765,Cinema Paradiso,1988,1980s,Giuseppe Tornatore,Drama; Romance,Italy,Italy; France,Italian,0,45,14,14,8.5,322859,4.52,9.04,577934,Italy,155,1,0,1,0,male,ok
+LB250,15,tt0044741,Ikiru,1952,1950s,Akira Kurosawa,Drama,Japan,Japan,Japanese,0,99,15,15,8.3,104715,4.52,9.04,218714,Japan,143,1,0,1,0,male,ok
+LB250,16,tt0060196,"The Good, the Bad and the Ugly",1966,1960s,Sergio Leone,Adventure; Drama; Western,Italy,Italy; Spain; West Germany; United States,English,0,11,16,16,8.8,906721,4.51,9.02,850285,Italy,161,1,0,1,0,male,ok
+LB250,17,tt6751668,Parasite,2019,2010s,Bong Joon Ho,Drama; Thriller,South Korea,South Korea,Korean,0,35,17,17,8.5,1208804,4.51,9.02,6027161,South Korea,133,1,0,1,0,male,ok
+LB250,18,tt0068646,The Godfather,1972,1970s,Francis Ford Coppola,Crime; Drama,United States,United States,English,0,2,18,18,9.2,2272100,4.51,9.02,3042763,United States,175,1,0,1,0,male,ok
+LB250,19,tt0089881,Ran,1985,1980s,Akira Kurosawa,Action; Drama; War,Japan,Japan; France,Japanese,0,149,19,19,8.2,155989,4.51,9.02,302123,Japan,160,1,0,1,0,male,ok
+LB250,20,tt0113247,La haine,1995,1990s,Mathieu Kassovitz,Crime; Drama,France,France,French,0,226,20,20,8.1,233984,4.5,9.00,1248284,France,98,1,0,1,0,male,ok
+LB250,21,tt0054407,Le Trou,1960,1960s,Jacques Becker,Crime; Drama; Thriller,France,France; Italy,French,0,,21,21,8.5,24489,4.5,9.00,68581,France,132,1,0,1,0,male,ok
+LB250,22,tt0077711,Autumn Sonata,1978,1970s,Ingmar Bergman,Drama; Music,Germany,West Germany; United Kingdom; Sweden,Swedish,0,,22,22,8.1,44014,4.5,9.00,171424,Sweden,93,1,0,1,0,male,ok
+LB250,23,tt0468569,The Dark Knight,2008,2000s,Christopher Nolan,Crime; Thriller,United States,United States; United Kingdom,English,0,3,23,23,9.1,3250100,4.5,9.00,5015692,United Kingdom,152,1,0,1,0,male,ok
+LB250,24,tt0053115,The Human Condition Part II: Road to Eternity,1959,1950s,Masaki Kobayashi,Drama; History; War,Japan,Japan,Japanese,0,,24,24,8.5,9504,4.49,8.98,37143,Japan,178,1,0,1,0,male,ok
+LB250,25,tt0101985,A Brighter Summer Day,1991,1990s,Edward Yang,Crime; Drama; Romance,Taiwan,Taiwan,Mandarin,0,,25,25,8.2,15560,4.49,8.98,84372,Taiwan,237,1,0,1,0,male,ok
+LB250,26,tt0095327,Grave of the Fireflies,1988,1980s,Isao Takahata,Animation; Drama; War,Japan,Japan,Japanese,0,36,26,26,8.5,401257,4.48,8.96,1436173,Japan,89,1,0,1,0,male,ok
+LB250,27,tt0169858,Neon Genesis Evangelion: The End of Evangelion,1997,1990s,Hideaki Anno; Kazuya Tsurumaki,Animation; Action; Drama; Sci-Fi,Japan,Japan,Japanese,0,,27,27,8.1,80009,4.48,8.96,617231,Japan,87,2,0,2,0,male; male,ok
+LB250,28,tt0058946,The Battle of Algiers,1966,1960s,Gillo Pontecorvo,Drama; War,Italy,Italy; Algeria,Arabic,0,244,28,28,8.1,77614,4.48,8.96,158384,Italy,122,1,0,1,0,male,ok
+LB250,29,tt0058604,I Am Cuba,1964,1960s,Mikheil Kalatozishvili,Drama,Cuba,Cuba; Soviet Union,Spanish,0,,29,29,8.2,12887,4.47,8.94,59201,Russia,141,1,0,1,0,male,ok
+LB250,30,tt0050634,The Cranes Are Flying,1957,1950s,Mikheil Kalatozishvili,Drama; Romance; War,Russia,Soviet Union,Russian,0,,30,30,8.3,23296,4.46,8.92,74857,Russia,97,1,0,1,0,male,ok
+LB250,31,tt0099685,GoodFellas,1990,1990s,Martin Scorsese,Biography; Crime; Drama,United States,United States,English,0,18,31,31,8.7,1423597,4.46,8.92,2432477,United States,145,1,0,1,0,male,ok
+LB250,32,tt0816692,Interstellar,2014,2010s,Christopher Nolan,Adventure; Sci-Fi,United States,United States; United Kingdom; Canada,English,0,17,32,32,8.7,2633544,4.46,8.92,6663808,United Kingdom,169,1,0,1,0,male,ok
+LB250,33,tt0469494,There Will Be Blood,2007,2000s,Paul Thomas Anderson,Drama,United States,United States,English,0,141,33,33,8.2,723890,4.46,8.92,1455685,United States,158,1,0,1,0,male,ok
+LB250,34,tt35511966,La bola negra,2026,2020s,Javier Ambrossi; Javier Calvo,Drama; History; Romance; War,Spain,Spain; France,Spanish,0,,34,34,8.2,13604,4.46,8.92,318817,Spain,159,2,0,2,0,male; male,ok
+LB250,35,tt1255953,Incendies,2010,2010s,Denis Villeneuve,Drama; Mystery; War,Canada,Canada; France,French,0,98,35,35,8.3,263127,4.46,8.92,705370,Canada,131,1,0,1,0,male,ok
+LB250,36,tt0058625,Woman of the Dunes,1964,1960s,Hiroshi Teshigahara,Drama; Thriller,Japan,Japan,Japanese,0,138,36,36,8.4,27134,4.45,8.90,75644,Japan,147,1,0,1,0,male,ok
+LB250,37,tt0038650,It's a Wonderful Life,1946,1940s,Frank Capra,Drama; Family; Fantasy; Romance,United States,United States,English,0,21,37,37,8.6,563298,4.45,8.90,807268,Italy,130,1,0,1,0,male,ok
+LB250,38,tt0050825,Paths of Glory,1957,1950s,Stanley Kubrick,Drama; War,United States,United States,English,0,66,38,38,8.4,244088,4.45,8.90,351891,United States,88,1,0,1,0,male,ok
+LB250,39,tt0167261,The Lord of the Rings: The Two Towers,2002,2000s,Peter Jackson,Adventure; Drama; Fantasy,New Zealand,New Zealand; United States,English,0,10,39,39,8.8,1996765,4.44,8.88,2521624,New Zealand,179,1,0,1,0,male,ok
+LB250,40,tt0060107,Andrei Rublev,1966,1960s,Andrei Tarkovsky,Biography; Drama; History,Russia,Soviet Union,Russian,0,,40,40,8,61502,4.44,8.88,109366,Russia,183,1,0,1,0,male,ok
+LB250,41,tt0043014,Sunset Boulevard,1950,1950s,Billy Wilder,Drama; Film-Noir,United States,United States,English,0,64,41,41,8.4,265096,4.44,8.88,395282,Austria,110,1,0,1,0,male,ok
+LB250,42,tt0075404,The Ascent,1977,1970s,Larisa Shepitko,Drama; War,Russia,Soviet Union,Russian,0,,42,42,8.2,12812,4.43,8.86,56880,Russia,110,1,1,0,1,female,ok
+LB250,43,tt0078788,Apocalypse Now,1979,1970s,Francis Ford Coppola,Drama; Mystery; War,United States,United States,English,0,57,43,43,8.4,782044,4.43,8.86,1097942,United States,147,1,0,1,0,male,ok
+LB250,44,tt0245429,Spirited Away,2001,2000s,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan,Japan; United States,Japanese,0,31,44,44,8.6,993516,4.43,8.86,4144730,Japan,125,1,0,1,0,male,ok
+LB250,45,tt0053604,The Apartment,1960,1960s,Billy Wilder,Comedy; Drama; Romance,United States,United States,English,0,102,45,45,8.3,224401,4.43,8.86,422408,Austria,126,1,0,1,0,male,ok
+LB250,46,tt8613070,Portrait of a Lady on Fire,2019,2010s,Céline Sciamma,Drama; Romance,France,France,French,0,,46,46,8,131396,4.43,8.86,1211443,France,121,1,1,0,1,female,ok
+LB250,47,tt0046438,Tokyo Story,1953,1950s,Yasujirō Ozu,Drama,Japan,Japan,Japanese,0,223,47,47,8.1,79373,4.43,8.86,159865,Japan,137,1,0,1,0,male,ok
+LB250,48,tt2582802,Whiplash,2014,2010s,Damien Chazelle,Drama; Music,United States,United States,English,0,41,48,48,8.5,1192603,4.42,8.84,4972132,United States,107,1,0,1,0,male,ok
+LB250,49,tt0353969,Memories of Murder,2003,2000s,Bong Joon Ho,Crime; Drama; Mystery; Thriller,South Korea,South Korea,Korean,0,199,49,49,8.1,278771,4.42,8.84,1152744,South Korea,131,1,0,1,0,male,ok
+LB250,50,tt0056172,Lawrence of Arabia,1962,1960s,David Lean,Adventure; Biography; Drama; War,United Kingdom,United Kingdom,English,0,103,50,50,8.3,348279,4.42,8.84,433022,United Kingdom,228,1,0,1,0,male,ok
+LB250,51,tt0435434,Swing Girls,2004,2000s,Shinobu Yaguchi,Comedy; Drama; Music,Japan,Japan,Japanese,0,,51,51,7.6,6674,4.42,8.84,100878,Japan,105,1,0,1,0,male,ok
+LB250,52,tt0118799,Life Is Beautiful,1997,1990s,Roberto Benigni,Comedy; Drama; Romance; War,Italy,Italy,Italian,0,27,52,52,8.6,827847,4.42,8.84,877200,Italy,116,1,0,1,0,male,ok
+LB250,53,tt0051201,Witness for the Prosecution,1957,1950s,Billy Wilder,Crime; Drama; Mystery; Thriller,United States,United States,English,0,65,53,53,8.4,166025,4.42,8.84,149405,Austria,116,1,0,1,0,male,ok
+LB250,54,tt0019254,The Passion of Joan of Arc,1928,1920s,Carl Theodor Dreyer,Biography; Drama; History,France,France,Silent,1,249,54,54,8.1,69772,4.42,8.84,165116,Kingdom of Denmark,81,1,0,1,0,male,ok
+LB250,55,tt0408664,Nobody Knows,2004,2000s,Hirokazu Koreeda,Drama,Japan,Japan,Japanese,0,,55,55,8,36327,4.42,8.84,143329,Japan,141,1,0,1,0,male,ok
+LB250,56,tt0089603,Mishima: A Life in Four Chapters,1985,1980s,Paul Schrader,Biography; Drama,Japan,Japan; United States,Japanese,0,,56,56,7.9,17406,4.42,8.84,124991,United States,121,1,0,1,0,male,ok
+LB250,57,tt0072684,Barry Lyndon,1975,1970s,Stanley Kubrick,Adventure; Drama; War,United Kingdom,United Kingdom; United States,English,0,184,57,57,8.1,210234,4.42,8.84,490471,United States,188,1,0,1,0,male,ok
+LB250,58,tt36943034,The Voice of Hind Rajab,2025,2020s,Kaouther Ben Hania,Biography; Drama; War,Tunisia,Tunisia; France; Palestine; United Kingdom; Saudi Arabia; United States; Italy; Cyprus,Arabic,0,,58,58,8.2,22549,4.41,8.82,133793,Tunisia,89,1,1,0,1,female,ok
+LB250,59,tt0106332,Farewell My Concubine,1993,1990s,Kaige Chen,Drama; Music; Romance,China,China; Hong Kong; South Korea,Mandarin,0,,59,59,8.1,38004,4.41,8.82,86676,China,171,1,0,1,0,male,ok
+LB250,60,tt0040725,The Red Shoes,1948,1940s,Michael Powell; Emeric Pressburger,Drama; Music; Romance,United Kingdom,United Kingdom,English,0,,60,60,8.1,44630,4.41,8.82,186635,United Kingdom,133,2,0,2,0,male; male,ok
+LB250,61,tt0253474,The Pianist,2002,2000s,Roman Polanski,Biography; Drama; Music; War,France,France; Poland; Germany; United Kingdom; United States,English,0,33,61,61,8.5,1031778,4.41,8.82,1416957,France,150,1,0,1,0,male,ok
+LB250,62,tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,1980s,Irvin Kershner,Adventure; Fantasy; Sci-Fi,United States,United States,English,0,15,62,62,8.7,1533130,4.4,8.80,2495361,United States,124,1,0,1,0,male,ok
+LB250,63,tt0047445,Sansho the Bailiff,1954,1950s,Kenji Mizoguchi,Drama,Japan,Japan,Japanese,0,,63,63,8.3,20304,4.4,8.80,43009,Japan,124,1,0,1,0,male,ok
+LB250,64,tt0100234,Close-Up,1990,1990s,Abbas Kiarostami,Biography; Crime; Drama,Iran,Iran,Persian,0,,64,64,8.2,27740,4.4,8.80,152950,Iran,98,1,0,1,0,male,ok
+LB250,65,tt38058097,Club Kid,2026,2020s,Jordan Firstman,Comedy; Drama,United States,United States,English,0,,65,65,8.2,1677,4.42,8.84,58217,United States,122,1,0,1,0,male,ok
+LB250,66,tt9362722,Spider-Man: Across the Spider-Verse,2023,2020s,Joaquim Dos Santos; Kemp Powers; Justin K. Thompson,Animation; Action; Adventure; Family; Fantasy; Sci-Fi,United States,United States,English,0,44,66,66,8.5,562440,4.4,8.80,4243061,Portugal,140,3,0,3,0,male; male; male,ok
+LB250,67,tt0072417,A Woman Under the Influence,1974,1970s,John Cassavetes,Drama; Romance,United States,United States,English,0,,67,67,8,34452,4.4,8.80,162759,United States,155,1,0,1,0,male,ok
+LB250,68,tt1832382,A Separation,2011,2010s,Asghar Farhadi,Drama,Iran,Iran; France; Australia,Persian,0,113,68,68,8.3,281708,4.4,8.80,221229,Iran,123,1,0,1,0,male,ok
+LB250,69,tt0083922,Fanny and Alexander,1982,1980s,Ingmar Bergman,Drama,Sweden,Sweden; France; West Germany,Swedish,0,,69,69,8.1,72111,4.4,8.80,80792,Sweden,188,1,0,1,0,male,ok
+LB250,70,tt0119698,Princess Mononoke,1997,1990s,Hayao Miyazaki,Animation; Adventure; Fantasy,Japan,Japan,Japanese,0,84,70,70,8.3,494429,4.4,8.80,1888583,Japan,134,1,0,1,0,male,ok
+LB250,71,tt0097216,Do the Right Thing,1989,1980s,Spike Lee,Comedy; Drama,United States,United States,English,0,,71,71,7.9,127052,4.39,8.78,586832,United States,120,1,0,1,0,male,ok
+LB250,72,tt1128075,Love Exposure,2008,2000s,Sion Sono,Action; Comedy; Drama; Romance; Thriller,Japan,Japan,Japanese,0,,72,72,8,18606,4.39,8.78,101817,Japan,237,1,0,1,0,male,ok
+LB250,73,tt4633694,Spider-Man: Into the Spider-Verse,2018,2010s,Bob Persichetti; Peter Ramsey; Rodney Rothman,Animation; Action; Adventure; Family; Fantasy; Sci-Fi,United States,United States,English,0,62,73,73,8.4,824586,4.39,8.78,5146625,United States,117,3,0,3,0,male; male; male,ok
+LB250,74,tt2056785,Wildwood,2026,2020s,Travis Knight,Animation; Adventure; Fantasy,United States,United States; United Kingdom; Canada,English,0,89,74,74,8.6,27433,4.39,8.78,518617,United States,132,1,0,1,0,male,ok
+LB250,75,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,2000s,Peter Jackson,Adventure; Drama; Fantasy,New Zealand,New Zealand; United States,English,0,8,75,75,8.9,2252032,4.39,8.78,3387172,New Zealand,179,1,0,1,0,male,ok
+LB250,76,tt0119217,Good Will Hunting,1997,1990s,Gus Van Sant,Drama; Romance,United States,United States,English,0,75,76,76,8.4,1253457,4.39,8.78,3761416,United States,127,1,0,1,0,male,ok
+LB250,77,tt4016934,The Handmaiden,2016,2010s,Park Chan-wook,Drama; Romance; Thriller,South Korea,South Korea,Korean,0,,77,77,8.1,210255,4.39,8.78,891175,South Korea,145,1,0,1,0,male,ok
+LB250,78,tt0064116,Once Upon a Time in the West,1968,1960s,Sergio Leone,Drama; Western,Italy,Italy; United States,English,0,54,78,78,8.5,389408,4.39,8.78,316771,Italy,166,1,0,1,0,male,ok
+LB250,79,tt0050783,Nights of Cabiria,1957,1950s,Federico Fellini,Drama,Italy,Italy; France,Italian,0,,79,79,8.1,57937,4.39,8.78,94813,Italy,110,1,0,1,0,male,ok
+LB250,80,tt0070510,Paper Moon,1973,1970s,Peter Bogdanovich,Comedy; Crime; Drama,United States,United States,English,0,,80,80,8.1,58699,4.39,8.78,126088,United States,102,1,0,1,0,male,ok
+LB250,81,tt8020896,An Elephant Sitting Still,2018,2010s,Bo Hu,Crime; Drama,China,China,Mandarin,0,,81,81,7.8,9574,4.39,8.78,44380,China,235,1,0,1,0,male,ok
+LB250,82,tt0114369,Seven,1995,1990s,David Fincher,Crime; Drama; Mystery; Thriller,United States,United States,English,0,20,82,82,8.6,2077133,4.39,8.78,4158604,United States,127,1,0,1,0,male,ok
+LB250,83,tt0079944,Stalker,1979,1970s,Andrei Tarkovsky,Drama; Sci-Fi,Russia,Soviet Union,Russian,0,,83,83,8,159081,4.39,8.78,417010,Russia,162,1,0,1,0,male,ok
+LB250,84,tt0058888,Red Beard,1965,1960s,Akira Kurosawa,Drama,Japan,Japan,Japanese,0,,84,84,8.3,23951,4.38,8.76,39148,Japan,185,1,0,1,0,male,ok
+LB250,85,tt0065234,Z,1969,1960s,Costa-Gavras,Crime; Drama; Thriller,France,France; Algeria,French,0,,85,85,8.1,34711,4.38,8.76,63371,Greece,122,1,0,1,0,male,ok
+LB250,86,tt0052572,The World of Apu,1959,1950s,Satyajit Ray,Drama,India,India,Bengali,0,,86,86,8.4,20937,4.38,8.76,36140,India,105,1,0,1,0,male,ok
+LB250,87,tt15239678,Dune: Part Two,2024,2020s,Denis Villeneuve,Action; Adventure; Drama; Sci-Fi,United States,United States; Canada; United Arab Emirates; Hungary; Italy; New Zealand; Jordan,English,0,60,87,87,8.4,805953,4.37,8.74,3787628,Canada,167,1,0,1,0,male,ok
+LB250,88,tt0055031,Judgment at Nuremberg,1961,1960s,Stanley Kramer,Drama; History; War,United States,United States,English,0,135,88,88,8.3,99094,4.37,8.74,56545,United States,191,1,0,1,0,male,ok
+LB250,89,tt0086879,Amadeus,1984,1980s,Miloš Forman,Biography; Drama; Music,United States,United States; France,English,0,79,89,89,8.4,475817,4.37,8.74,611305,Czech Republic,160,1,0,1,0,male,ok
+LB250,90,tt0156887,Perfect Blue,1997,1990s,Satoshi Kon,Animation; Crime; Drama; Mystery; Thriller,Japan,Japan,Japanese,0,,90,90,8,129300,4.37,8.74,1426983,Japan,81,1,0,1,0,male,ok
+LB250,91,tt0073486,One Flew Over the Cuckoo's Nest,1975,1970s,Miloš Forman,Drama,United States,United States,English,0,19,91,91,8.6,1173791,4.37,8.74,1076141,Czech Republic,135,1,0,1,0,male,ok
+LB250,92,tt31392609,How to Make Millions Before Grandma Dies,2024,2020s,Pat Boonnitipat,Comedy; Drama; Family,Thailand,Thailand,Thai,0,,92,92,7.9,23867,4.37,8.74,309092,Thailand,126,1,0,1,0,male,ok
+LB250,93,tt0118694,In the Mood for Love,2000,2000s,Wong Kar-Wai,Drama; Romance,Hong Kong,Hong Kong; France,Cantonese,0,,93,93,8,192939,4.37,8.74,1122456,Hong Kong,99,1,0,1,0,male,ok
+LB250,94,tt0060827,Persona,1966,1960s,Ingmar Bergman,Drama; Thriller,Sweden,Sweden,Swedish,0,,94,94,8,142950,4.37,8.74,482097,Sweden,85,1,0,1,0,male,ok
+LB250,95,tt0046268,The Wages of Fear,1953,1950s,Henri-Georges Clouzot,Adventure; Drama; Thriller,France,France; Italy,French,0,219,95,95,8.1,74814,4.37,8.74,75917,France,148,1,0,1,0,male,ok
+LB250,96,tt0361748,Inglourious Basterds,2009,2000s,Quentin Tarantino,Drama; War,United States,United States; Germany,English,0,67,96,96,8.4,1830093,4.37,8.74,4085860,United States,153,1,0,1,0,male,ok
+LB250,97,tt0093342,Where Is the Friend's House?,1987,1980s,Abbas Kiarostami,Adventure; Drama; Family,Iran,Iran,Persian,0,,97,97,8.1,23981,4.36,8.72,150455,Iran,83,1,0,1,0,male,ok
+LB250,98,tt0042192,All About Eve,1950,1950s,Joseph L. Mankiewicz,Drama,United States,United States,English,0,147,98,98,8.2,151211,4.36,8.72,158459,United States,139,1,0,1,0,male,ok
+LB250,99,tt6725014,Scenes from a Marriage,1974,1970s,Ingmar Bergman,Drama,Sweden,Sweden,Swedish,0,,99,99,8.3,10784,4.36,8.72,62219,Sweden,169,1,0,1,0,male,ok
+LB250,100,tt0347149,Howl's Moving Castle,2004,2000s,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan,Japan; United States,Japanese,0,159,100,100,8.2,525724,4.36,8.72,2820316,Japan,119,1,0,1,0,male,ok
+LB250,101,tt0047396,Rear Window,1954,1950s,Alfred Hitchcock,Drama; Mystery; Thriller,United States,United States,English,0,52,101,101,8.4,576863,4.36,8.72,916481,United Kingdom,113,1,0,1,0,male,ok
+LB250,102,tt0111341,Satantango,1994,1990s,Béla Tarr,Drama,Hungary,Hungary; Germany; Switzerland,Hungarian,0,,102,102,8.1,14742,4.36,8.72,47249,Hungary,432,1,0,1,0,male,ok
+LB250,103,tt0364569,Oldboy,2003,2000s,Park Chan-wook,Action; Drama; Mystery; Thriller,South Korea,South Korea,Korean,0,85,103,103,8.3,738496,4.36,8.72,1781278,South Korea,120,1,0,1,0,male,ok
+LB250,104,tt30472557,Chainsaw Man - The Movie: Reze Arc,2025,2020s,Tatsuya Yoshihara,Animation; Action; Adventure; Comedy; Fantasy; Romance; Thriller,Japan,Japan,Japanese,0,207,104,104,8.3,73059,4.36,8.72,709069,Japan,100,1,0,1,0,male,ok
+LB250,105,tt0097165,Dead Poets Society,1989,1980s,Peter Weir,Comedy; Drama,United States,United States,English,0,176,105,105,8.1,676140,4.36,8.72,4197508,Australia,129,1,0,1,0,male,ok
+LB250,106,tt0087884,"Paris, Texas",1984,1980s,Wim Wenders,Drama,Germany,West Germany; France; United Kingdom; United States,English,0,,106,106,8.1,146496,4.36,8.72,826557,Germany,145,1,0,1,0,male,ok
+LB250,107,tt0105665,Twin Peaks: Fire Walk with Me,1992,1990s,David Lynch,Drama; Horror; Mystery; Thriller,France,France; United States,English,0,,107,107,7.3,120951,4.36,8.72,526525,United States,135,1,0,1,0,male,ok
+LB250,108,tt0140888,Central Station,1998,1990s,Walter Salles,Drama,Brazil,Brazil; France; United States,Portuguese,0,,108,108,8,52046,4.36,8.72,244627,Brazil,111,1,0,1,0,male,ok
+LB250,109,tt2396224,It's Such a Beautiful Day,2012,2010s,Don Hertzfeldt,Animation; Comedy; Drama; Fantasy; Horror; Mystery; Sci-Fi; Thriller,United States,United States,English,0,,109,109,8.2,3600,4.36,8.72,139447,United States,62,1,0,1,0,male,ok
+LB250,110,tt0015324,Sherlock Jr.,1924,1920s,Buster Keaton,Action; Comedy; Romance,United States,United States,Silent,1,214,110,110,8.1,67583,4.36,8.72,148010,United States,45,2,0,2,0,male; male,count_differs
+LB250,111,tt23736044,Monster,2023,2020s,Hirokazu Koreeda,Drama; Mystery; Thriller,Japan,Japan,Japanese,0,,111,111,7.8,44409,4.35,8.70,503244,Japan,125,1,0,1,0,male,ok
+LB250,112,tt0407887,The Departed,2006,2000s,Martin Scorsese,Crime; Drama; Thriller,United States,United States; Hong Kong,English,0,40,112,112,8.5,1590188,4.35,8.70,1816329,United States,151,1,0,1,0,male,ok
+LB250,113,tt0045152,Singin' in the Rain,1952,1950s,Stanley Donen; Gene Kelly,Comedy; Musical; Romance,United States,United States,English,0,91,113,113,8.3,287284,4.35,8.70,708117,United States,103,2,0,2,0,male; male,ok
+LB250,114,tt0084787,The Thing,1982,1980s,John Carpenter,Horror; Mystery; Sci-Fi,United States,United States,English,0,150,114,114,8.2,542632,4.35,8.70,1535057,United States,109,1,0,1,0,male,ok
+LB250,115,tt0064040,Army of Shadows,1969,1960s,Jean-Pierre Melville,Drama; War,France,France; Italy,French,0,,115,115,8.1,29952,4.35,8.70,72957,France,145,1,0,1,0,male,ok
+LB250,116,tt0101640,Raise the Red Lantern,1991,1990s,Yimou Zhang,Drama; Romance,China,China; Hong Kong,Mandarin,0,,116,116,8.1,38765,4.35,8.70,64123,China,125,1,0,1,0,male,ok
+LB250,117,tt1853728,Django Unchained,2012,2010s,Quentin Tarantino,Drama; Western,United States,United States,English,0,50,117,117,8.5,1926416,4.35,8.70,3608704,United States,165,1,0,1,0,male,ok
+LB250,118,tt1392214,Prisoners,2013,2010s,Denis Villeneuve,Crime; Drama; Mystery; Thriller,United States,United States,English,0,153,118,118,8.2,968571,4.35,8.70,2588185,Canada,153,1,0,1,0,male,ok
+LB250,119,tt0156794,Eternity and a Day,1998,1990s,Theodoros Angelopoulos,Drama,France,France; Italy; Greece; Germany,Greek,0,,119,119,7.8,16652,4.34,8.68,51749,Greece,133,1,0,1,0,male,ok
+LB250,120,tt0049902,A Man Escaped,1956,1950s,Robert Bresson,Drama; Thriller; War,France,France,French,0,,120,120,8.1,31372,4.34,8.68,77108,France,101,1,0,1,0,male,ok
+LB250,121,tt0078754,All That Jazz,1979,1970s,Bob Fosse,Drama; Music; Musical,United States,United States,English,0,,121,121,7.8,41748,4.34,8.68,162023,United States,123,1,0,1,0,male,ok
+LB250,122,tt1087578,Still Walking,2008,2000s,Hirokazu Koreeda,Drama,Japan,Japan,Japanese,0,,122,122,7.9,21618,4.34,8.68,73248,Japan,114,1,0,1,0,male,ok
+LB250,123,tt0102926,The Silence of the Lambs,1991,1990s,Jonathan Demme,Crime; Drama; Horror; Thriller,United States,United States,English,0,22,123,123,8.6,1766347,4.34,8.68,3543457,United States,119,1,0,1,0,male,ok
+LB250,124,tt0076085,A Special Day,1977,1970s,Ettore Scola,Drama,Italy,Italy; Canada,Italian,0,,124,124,8.1,19156,4.34,8.68,54835,Italy,106,1,0,1,0,male,ok
+LB250,125,tt14961016,I'm Still Here,2024,2020s,Walter Salles,Biography; Drama; History,Brazil,Brazil; France,Portuguese,0,,125,125,8.1,173124,4.34,8.68,827687,Brazil,138,1,0,1,0,male,ok
+LB250,126,tt2457282,Puella Magi Madoka Magica the Movie Part III: The Rebellion Story,2013,2010s,Yukihiro Miyamoto; Akiyuki Shinbō,Animation; Drama; Fantasy; Horror; Mystery; Thriller,Japan,Japan,Japanese,0,,126,126,7.9,5423,4.34,8.68,46156,Japan,117,1,0,1,0,male,count_differs
+LB250,127,tt33764258,The Odyssey,2026,2020s,Christopher Nolan,Action; Adventure; Drama; Fantasy,United Kingdom,United Kingdom; United States; Canada; New Zealand; Iceland,English,0,70,127,127,8.4,561771,4.34,8.68,4760194,United Kingdom,173,1,0,1,0,male,ok
+LB250,128,tt0082096,Das Boot,1981,1980s,Wolfgang Petersen,Drama; War,Germany,West Germany,German,0,83,128,128,8.3,291694,4.33,8.66,126839,Germany,150,1,0,1,0,male,ok
+LB250,129,tt0111495,Three Colours: Red,1994,1990s,Krzysztof Kieślowski,Drama; Mystery; Romance,France,France; Switzerland; Poland,French,0,,129,129,8,117490,4.33,8.66,211397,Poland,100,1,0,1,0,male,ok
+LB250,130,tt0035446,To Be or Not to Be,1942,1940s,Ernst Lubitsch,Comedy; Romance; War,United States,United States,English,0,,130,130,8.1,50652,4.33,8.66,76552,Germany,99,1,0,1,0,male,ok
+LB250,131,tt0048452,Ordet,1955,1950s,Carl Theodor Dreyer,Drama,Denmark,Denmark,Danish,0,,131,131,8.2,19305,4.33,8.66,40904,Kingdom of Denmark,125,1,0,1,0,male,ok
+LB250,132,tt0062873,The Young Girls of Rochefort,1967,1960s,Jacques Demy,Comedy; Drama; Musical; Romance,France,France,French,0,,132,132,7.7,14195,4.33,8.66,131948,France,126,1,0,1,0,male,ok
+LB250,133,tt0113277,Heat,1995,1990s,Michael Mann,Action; Crime; Drama,United States,United States,English,0,104,133,133,8.3,824438,4.33,8.66,1350190,United States,170,1,0,1,0,male,ok
+LB250,134,tt0032553,The Great Dictator,1940,1940s,Charlie Chaplin,Comedy; Drama; War,United States,United States,English,0,69,134,134,8.4,261405,4.33,8.66,210702,United Kingdom,125,1,0,1,0,male,ok
+LB250,135,tt27503384,Perfect Days,2023,2020s,Wim Wenders,Drama,Japan,Japan; Germany,Japanese,0,,135,135,7.9,115052,4.32,8.64,942709,Germany,124,1,0,1,0,male,ok
+LB250,136,tt0154420,The Celebration,1998,1990s,Thomas Vinterberg,Drama,Denmark,Denmark; Sweden,Danish,0,,136,136,8,101338,4.32,8.64,167110,Kingdom of Denmark,101,1,0,1,0,male,ok
+LB250,137,tt0080678,The Elephant Man,1980,1980s,David Lynch,Biography; Drama,United States,United States; United Kingdom,English,0,165,137,137,8.2,286292,4.32,8.64,507745,United States,124,1,0,1,0,male,ok
+LB250,138,tt0041154,Late Spring,1949,1940s,Yasujirō Ozu,Comedy; Drama,Japan,Japan,Japanese,0,,138,138,8.2,22130,4.32,8.64,71680,Japan,108,1,0,1,0,male,ok
+LB250,139,tt0120265,Taste of Cherry,1997,1990s,Abbas Kiarostami,Drama,Iran,Iran; France,Persian,0,,139,139,7.7,45675,4.32,8.64,235331,Iran,99,1,0,1,0,male,ok
+LB250,140,tt0054248,Rocco and His Brothers,1960,1960s,Luchino Visconti,Crime; Drama; Sport,Italy,Italy; France,Italian,0,,140,140,8.2,26313,4.32,8.64,49796,Italy,178,1,0,1,0,male,ok
+LB250,141,tt3612616,Mommy,2014,2010s,Xavier Dolan,Drama,Canada,Canada,French,0,,141,141,8,66435,4.32,8.64,285009,Canada,138,1,0,1,0,male,ok
+LB250,142,tt0048473,Pather Panchali,1955,1950s,Satyajit Ray,Drama; History,India,India,Bengali,0,,142,142,8.2,42596,4.32,8.64,77998,India,125,1,0,1,0,male,ok
+LB250,143,tt0050986,Wild Strawberries,1957,1950s,Ingmar Bergman,Drama; Romance,Sweden,Sweden,Swedish,0,230,143,143,8.1,126439,4.32,8.64,193866,Sweden,91,1,0,1,0,male,ok
+LB250,144,tt0064068,Funeral Parade of Roses,1969,1960s,Toshio Matsumoto,Drama,Japan,Japan,Japanese,0,,144,144,7.7,8686,4.32,8.64,82271,Japan,105,1,0,1,0,male,ok
+LB250,145,tt0037558,Brief Encounter,1945,1940s,David Lean,Drama; Romance,United Kingdom,United Kingdom,English,0,,145,145,8,49526,4.32,8.64,122035,United Kingdom,86,1,0,1,0,male,ok
+LB250,146,tt8075192,Shoplifters,2018,2010s,Hirokazu Koreeda,Crime; Drama; Thriller,Japan,Japan,Japanese,0,,146,146,7.9,97319,4.31,8.62,322477,Japan,120,1,0,1,0,male,ok
+LB250,147,tt0050976,The Seventh Seal,1957,1950s,Ingmar Bergman,Drama; Fantasy,Sweden,Sweden,Swedish,0,242,147,147,8.1,219146,4.31,8.62,460489,Sweden,96,1,0,1,0,male,ok
+LB250,148,tt12042730,Project Hail Mary,2026,2020s,Phil Lord; Christopher Miller,Adventure; Comedy; Sci-Fi,United States,United States,English,0,163,148,148,8.2,600974,4.31,8.62,4769104,United States,156,2,0,2,0,male; male,ok
+LB250,149,tt0096288,Landscape in the Mist,1988,1980s,Theodoros Angelopoulos,Drama,Greece,Greece; France; Italy,Greek,0,,149,149,7.9,11583,4.31,8.62,40140,Greece,125,1,0,1,0,male,ok
+LB250,150,tt0482571,The Prestige,2006,2000s,Christopher Nolan,Drama; Mystery; Sci-Fi; Thriller,United Kingdom,United Kingdom; United States,English,0,42,150,150,8.5,1640980,4.31,8.62,2306648,United Kingdom,131,1,0,1,0,male,ok
+LB250,151,tt0072890,Dog Day Afternoon,1975,1970s,Sidney Lumet,Biography; Crime; Drama; Thriller,United States,United States,English,0,,151,151,8,296091,4.31,8.62,606182,United States,124,1,0,1,0,male,ok
+LB250,152,tt0021749,City Lights,1931,1930s,Charlie Chaplin,Comedy; Drama; Romance,United States,United States,Silent,1,56,152,152,8.5,219216,4.31,8.62,202325,United Kingdom,87,1,0,1,0,male,ok
+LB250,153,tt0381681,Before Sunset,2004,2000s,Richard Linklater,Drama; Romance,United States,United States,English,0,236,153,153,8.1,321507,4.31,8.62,1004409,United States,80,1,0,1,0,male,ok
+LB250,154,tt0120689,The Green Mile,1999,1990s,Frank Darabont,Crime; Drama; Fantasy; Mystery,United States,United States,English,0,25,154,154,8.6,1597266,4.31,8.62,1545303,United States,189,1,0,1,0,male,ok
+LB250,155,tt0072443,The Mirror,1975,1970s,Andrei Tarkovsky,Biography; Drama,Russia,Soviet Union,Russian,0,,155,155,7.9,58874,4.31,8.62,205981,Russia,107,1,0,1,0,male,ok
+LB250,156,tt0054215,Psycho,1960,1960s,Alfred Hitchcock,Drama; Horror; Mystery; Thriller,United States,United States,English,0,39,156,156,8.5,799958,4.31,8.62,1517106,United Kingdom,109,1,0,1,0,male,ok
+LB250,157,tt0093191,Wings of Desire,1987,1980s,Wim Wenders,Drama; Fantasy; Romance,Germany,West Germany; France,German,0,,157,157,7.9,85325,4.3,8.60,208341,Germany,128,1,0,1,0,male,ok
+LB250,158,tt0071315,Chinatown,1974,1970s,Roman Polanski,Drama; Mystery; Thriller,United States,United States,English,0,174,158,158,8.1,382148,4.3,8.60,537254,France,130,1,0,1,0,male,ok
+LB250,159,tt0477348,No Country for Old Men,2007,2000s,Ethan Coen; Joel Coen,Crime; Drama; Thriller,United States,United States,English,0,152,159,159,8.2,1222400,4.3,8.60,2491510,United States,122,2,0,2,0,male; male,ok
+LB250,160,tt0114787,Underground,1995,1990s,Emir Kusturica,Comedy; Drama; Fantasy; War,Serbia,Yugoslavia; France; Germany; Bulgaria; Czech Republic; Hungary,Serbian,0,,160,160,8,64769,4.3,8.60,47532,Serbia,170,1,0,1,0,male,ok
+LB250,161,tt0058083,Fail Safe,1964,1960s,Sidney Lumet,Drama; Thriller,United States,United States,English,0,,161,161,8,28642,4.3,8.60,41539,United States,112,1,0,1,0,male,ok
+LB250,162,tt0206634,Children of Men,2006,2000s,Alfonso Cuarón,Drama; Sci-Fi; Thriller,United States,United States; United Kingdom; Japan,English,0,,162,162,7.9,575058,4.3,8.60,901042,Mexico,109,1,0,1,0,male,ok
+LB250,163,tt28479262,Sing Sing,2023,2020s,Greg Kwedar,Drama,United States,United States,English,0,,163,163,7.6,31304,4.3,8.60,338911,United States,107,1,0,1,0,male,ok
+LB250,164,tt0055630,Yojimbo,1961,1960s,Akira Kurosawa,Action; Drama; Thriller,Japan,Japan,Japanese,0,164,164,164,8.2,145469,4.3,8.60,202059,Japan,110,1,0,1,0,male,ok
+LB250,165,tt10272386,The Father,2020,2020s,Florian Zeller,Drama; Mystery,United Kingdom,United Kingdom; France; United States,English,0,145,165,165,8.2,252067,4.3,8.60,460589,France,97,1,0,1,0,male,ok
+LB250,166,tt1865505,Song of the Sea,2014,2010s,Tomm Moore,Animation; Adventure; Drama; Family; Fantasy,Ireland,Ireland; Denmark; Belgium; France; Luxembourg,English,0,,166,166,8,69368,4.3,8.60,180137,Ireland,94,1,0,1,0,male,ok
+LB250,167,tt0104797,Malcolm X,1992,1990s,Spike Lee,Biography; Drama; History,United States,United States; Japan,English,0,,167,167,7.7,113149,4.3,8.60,235102,United States,202,1,0,1,0,male,ok
+LB250,168,tt0432283,Fantastic Mr. Fox,2009,2000s,Wes Anderson,Animation; Adventure; Comedy; Crime; Drama; Family,United States,United States; United Kingdom,English,0,,168,168,7.9,313495,4.3,8.60,3110734,United States,87,1,0,1,0,male,ok
+LB250,169,tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1960s,Stanley Kubrick,Comedy; War,United Kingdom,United Kingdom,English,0,86,169,169,8.3,557054,4.3,8.60,687640,United States,95,1,0,1,0,male,ok
+LB250,170,tt0092048,Tampopo,1985,1980s,Jūzō Itami,Comedy,Japan,Japan,Japanese,0,,170,170,7.9,27720,4.3,8.60,172808,Japan,115,1,0,1,0,male,ok
+LB250,171,tt0040897,The Treasure of the Sierra Madre,1948,1940s,John Huston,Adventure; Drama; Western,United States,United States,English,0,160,171,171,8.2,143336,4.3,8.60,96671,United States,126,1,0,1,0,male,ok
+LB250,172,tt0063633,The Cremator,1969,1960s,Juraj Herz,Comedy; Crime; Drama; Horror; Mystery,Czech Republic,Czechoslovakia,Czech,0,,172,172,8,13449,4.3,8.60,58801,Czech Republic,101,1,0,1,0,male,ok
+LB250,173,tt2458948,Evangelion: 3.0+1.01 Thrice Upon a Time,2021,2020s,Hideaki Anno; Mahiro Maeda; Katsuichi Nakayama,Animation; Action; Drama; Sci-Fi,Japan,Japan,Japanese,0,,173,173,8,19202,4.3,8.60,150118,Japan,155,4,0,4,0,male; male; male; male,count_differs
+LB250,174,tt0103064,Terminator 2: Judgment Day,1991,1990s,James Cameron,Action; Adventure; Sci-Fi,United States,United States; France,English,0,28,174,174,8.6,1310545,4.3,8.60,1130500,Canada,137,1,0,1,0,male,ok
+LB250,175,tt0105888,Life and Nothing More...,1992,1990s,Abbas Kiarostami,Adventure; Drama,Iran,Iran,Persian,0,,175,175,7.8,9519,4.29,8.58,46877,Iran,95,1,0,1,0,male,ok
+LB250,176,tt0061847,Samurai Rebellion,1967,1960s,Masaki Kobayashi,Drama,Japan,Japan,Japanese,0,,176,176,8.3,15998,4.29,8.58,25791,Japan,121,1,0,1,0,male,ok
+LB250,177,tt0071411,Dersu Uzala,1975,1970s,Akira Kurosawa,Adventure; Biography; Drama,Russia,Soviet Union; Japan,Russian,0,,177,177,8.2,37117,4.29,8.58,46821,Japan,141,1,0,1,0,male,ok
+LB250,178,tt0249241,Werckmeister Harmonies,2000,2000s,Béla Tarr; Ágnes Hranitzky,Drama; Mystery,Hungary,Hungary; Italy; Germany; France,Hungarian,0,,178,178,7.9,18568,4.29,8.58,50826,Hungary,139,2,1,1,1,male; female,ok
+LB250,179,tt0112471,Before Sunrise,1995,1990s,Richard Linklater,Comedy; Drama; Romance,United States,United States; Austria,English,0,202,179,179,8.1,386898,4.29,8.58,1666118,United States,101,1,0,1,0,male,ok
+LB250,180,tt0405094,The Lives of Others,2006,2000s,Florian Henckel von Donnersmarck,Drama; Mystery; Thriller,Germany,Germany; France,German,0,63,180,180,8.4,449026,4.29,8.58,226147,Germany,137,1,0,1,0,male,ok
+LB250,181,tt0053198,The 400 Blows,1959,1950s,François Truffaut,Crime; Drama,France,France,French,0,,181,181,8,135990,4.29,8.58,310711,France,99,1,0,1,0,male,ok
+LB250,182,tt0129167,The Iron Giant,1999,1990s,Brad Bird,Animation; Action; Adventure; Family; Sci-Fi,United States,United States; Czech Republic; United Kingdom,English,0,237,182,182,8.1,267686,4.29,8.58,747764,United States,86,1,0,1,0,male,ok
+LB250,183,tt0117589,Secrets & Lies,1996,1990s,Mike Leigh,Comedy; Drama,United Kingdom,United Kingdom; France,English,0,,183,183,8,51190,4.29,8.58,71637,United Kingdom,142,1,0,1,0,male,ok
+LB250,184,tt2106476,The Hunt,2012,2010s,Thomas Vinterberg,Drama,Denmark,Denmark; Sweden; Belgium; France,Danish,0,100,184,184,8.3,422666,4.29,8.58,732574,Kingdom of Denmark,116,1,0,1,0,male,ok
+LB250,185,tt0460791,The Fall,2006,2000s,Tarsem Singh,Adventure; Drama; Fantasy,United States,United States; South Africa; India,English,0,,185,185,7.8,132810,4.29,8.58,274665,India,117,1,0,1,0,male,ok
+LB250,186,tt31711040,Look Back,2024,2020s,Kiyotaka Oshiyama,Animation; Drama,Japan,Japan; United States,Japanese,0,,186,186,7.8,25101,4.28,8.56,547564,Japan,58,1,0,1,0,male,ok
+LB250,187,tt0053291,Some Like It Hot,1959,1950s,Billy Wilder,Comedy; Music; Romance,United States,United States,English,0,143,187,187,8.2,308786,4.28,8.56,433902,Austria,123,1,0,1,0,male,ok
+LB250,188,tt0022100,M,1931,1930s,Fritz Lang,Crime; Mystery; Thriller,Germany,Germany,German,0,116,188,188,8.3,185243,4.28,8.56,236943,Austria,110,1,0,1,0,male,ok
+LB250,189,tt0269856,Ritual,2000,2000s,Hideaki Anno,Drama,Japan,Japan,Japanese,0,,189,189,7.5,3489,4.28,8.56,45352,Japan,128,1,0,1,0,male,ok
+LB250,190,tt0368667,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,2003,2000s,Daisuke Nishio; Hirotoshi Rissen; Kazuhisa Takenouchi,Animation; Adventure; Music; Sci-Fi,Japan,Japan; France; Philippines,English,0,,190,190,7.8,18102,4.28,8.56,90128,Japan,68,1,0,1,0,male,count_differs
+LB250,191,tt0079672,Opening Night,1977,1970s,John Cassavetes,Drama,United States,United States,English,0,,191,191,7.8,14457,4.28,8.56,67657,United States,144,1,0,1,0,male,ok
+LB250,192,tt0034583,Casablanca,1942,1940s,Michael Curtiz,Drama; Romance; War,United States,United States,English,0,47,192,192,8.5,664220,4.28,8.56,906964,Hungary,102,1,0,1,0,male,ok
+LB250,193,tt0123948,Cure,1997,1990s,Kiyoshi Kurosawa,Crime; Horror; Mystery; Thriller,Japan,Japan,Japanese,0,,193,193,7.5,42801,4.28,8.56,434708,Japan,111,1,0,1,0,male,ok
+LB250,194,tt0037674,Children of Paradise,1945,1940s,Marcel Carné,Drama; Romance,France,France,French,0,,194,194,8.3,22871,4.28,8.56,29176,France,190,1,0,1,0,male,ok
+LB250,195,tt0056217,The Man Who Shot Liberty Valance,1962,1960s,John Ford,Drama; Western,United States,United States,English,0,,195,195,8.1,90257,4.28,8.56,105747,United States,123,1,0,1,0,male,ok
+LB250,196,tt0040522,Bicycle Thieves,1948,1940s,Vittorio De Sica,Drama,Italy,Italy,Italian,0,134,196,196,8.2,194244,4.28,8.56,300830,Italy,89,1,0,1,0,male,ok
+LB250,197,tt5084198,Kizumonogatari Part 3: Reiketsu,2017,2010s,Tatsuya Oishi; Akiyuki Shinbō,Animation; Action; Drama; Fantasy; Horror,Japan,Japan,Japanese,0,,197,197,7.9,4740,4.28,8.56,27923,Japan,83,2,0,2,0,male; male,ok
+LB250,198,tt0066993,The Devils,1971,1970s,Ken Russell,Biography; Drama; History,United Kingdom,United Kingdom,English,0,,198,198,7.8,26669,4.28,8.56,214044,United Kingdom,112,1,0,1,0,male,ok
+LB250,199,tt0043338,Ace in the Hole,1951,1950s,Billy Wilder,Drama; Film-Noir,United States,United States,English,0,,199,199,8,43429,4.27,8.54,67441,Austria,112,1,0,1,0,male,ok
+LB250,200,tt0091670,The Sacrifice,1986,1980s,Andrei Tarkovsky,Drama,Sweden,Sweden; France; United Kingdom,Swedish,0,,200,200,7.8,35907,4.27,8.54,105351,Russia,149,1,0,1,0,male,ok
+LB250,201,tt0094625,Akira,1988,1980s,Katsuhiro Ōtomo,Animation; Action; Drama; Fantasy; Sci-Fi,Japan,Japan,Japanese,0,,201,201,8,234023,4.27,8.54,1015673,Japan,124,1,0,1,0,male,ok
+LB250,202,tt0076740,Sorcerer,1977,1970s,William Friedkin,Adventure; Drama; Thriller,United States,United States; Mexico,English,0,,202,202,7.7,38424,4.27,8.54,174792,United States,122,1,0,1,0,male,ok
+LB250,203,tt0075793,We All Loved Each Other So Much,1974,1970s,Ettore Scola,Comedy; Drama,Italy,Italy,Italian,0,,203,203,8,9169,4.27,8.54,34405,Italy,125,1,0,1,0,male,ok
+LB250,204,tt0137523,Fight Club,1999,1990s,David Fincher,Crime; Drama; Thriller,United States,United States; Germany,English,0,14,204,204,8.8,2683139,4.27,8.54,6319770,United States,139,1,0,1,0,male,ok
+LB250,205,tt0978762,Mary and Max,2009,2000s,Adam Elliot,Animation; Comedy; Drama,Australia,Australia,English,0,213,205,205,8.1,204264,4.27,8.54,232730,Australia,92,1,0,1,0,male,ok
+LB250,206,tt0109424,Chungking Express,1994,1990s,Wong Kar-Wai,Comedy; Crime; Drama; Mystery; Romance,Hong Kong,Hong Kong,Cantonese,0,,206,206,7.9,115115,4.27,8.54,864658,Hong Kong,102,1,0,1,0,male,ok
+LB250,207,tt0061184,Who's Afraid of Virginia Woolf?,1966,1960s,Mike Nichols,Drama,United States,United States,English,0,,207,207,8,84126,4.27,8.54,99963,United States,131,1,0,1,0,male,ok
+LB250,208,tt0416220,Kamikaze Girls,2004,2000s,Tetsuya Nakashima,Comedy,Japan,Japan,Japanese,0,,208,208,7.2,9485,4.27,8.54,102269,Japan,102,1,0,1,0,male,ok
+LB250,209,tt0038733,A Matter of Life and Death,1946,1940s,Michael Powell; Emeric Pressburger,Drama; Fantasy; Romance; War,United Kingdom,United Kingdom,English,0,,209,209,8,28537,4.27,8.54,60703,United Kingdom,104,2,0,2,0,male; male,ok
+LB250,210,tt14849194,The Holdovers,2023,2020s,Alexander Payne,Comedy; Drama,United States,United States,English,0,,210,210,7.9,276358,4.26,8.52,1664643,United States,133,1,0,1,0,male,ok
+LB250,211,tt2576852,The Tale of the Princess Kaguya,2013,2010s,Isao Takahata,Animation; Drama; Family; Fantasy; Romance,Japan,Japan,Japanese,0,,211,211,8,63655,4.26,8.52,341475,Japan,137,1,0,1,0,male,ok
+LB250,212,tt0388473,Tokyo Godfathers,2003,2000s,Satoshi Kon; Shōgo Furuya,Animation; Adventure; Comedy; Drama,Japan,Japan,Japanese,0,,212,212,7.8,56277,4.26,8.52,282208,Japan,92,1,0,1,0,male,count_differs
+LB250,213,tt0120815,Saving Private Ryan,1998,1990s,Steven Spielberg,Drama; War,United States,United States,English,0,23,213,213,8.6,1672812,4.26,8.52,1650252,United States,169,1,0,1,0,male,ok
+LB250,214,tt31514146,I Swear,2025,2020s,Kirk Jones,Biography; Drama,United Kingdom,United Kingdom; Ireland,English,0,114,214,214,8.3,74030,4.26,8.52,375620,United Kingdom,121,1,0,1,0,male,ok
+LB250,215,tt0054130,The Night,1961,1960s,Michelangelo Antonioni,Drama,Italy,Italy; France,Italian,0,,215,215,7.9,27156,4.26,8.52,86325,Italy,122,1,0,1,0,male,ok
+LB250,216,tt0074958,Network,1976,1970s,Sidney Lumet,Drama,United States,United States,English,0,,216,216,8,188854,4.26,8.52,263359,United States,122,1,0,1,0,male,ok
+LB250,217,tt0050613,Throne of Blood,1957,1950s,Akira Kurosawa,Drama,Japan,Japan,Japanese,0,,217,217,8,61311,4.26,8.52,132021,Japan,108,1,0,1,0,male,ok
+LB250,218,tt0048021,Rififi,1955,1950s,Jules Dassin,Crime; Drama; Thriller,France,France,French,0,,218,218,8.1,39922,4.26,8.52,49130,United States,118,1,0,1,0,male,ok
+LB250,219,tt0048956,The Unvanquished,1956,1950s,Satyajit Ray,Drama,India,India,Bengali,0,,219,219,8.2,20539,4.26,8.52,36555,India,110,1,0,1,0,male,ok
+LB250,220,tt0059742,The Sound of Music,1965,1960s,Robert Wise,Biography; Drama; Family; Musical; Romance,United States,United States,English,0,225,220,220,8.1,297101,4.26,8.52,756574,United States,174,1,0,1,0,male,ok
+LB250,221,tt0073198,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,1970s,Chantal Akerman,Drama,Belgium,Belgium; France,French,0,,221,221,7.5,18079,4.26,8.52,102714,Belgium,202,1,1,0,1,female,ok
+LB250,222,tt9586294,Better Days,2019,2010s,Derek Tsang,Crime; Drama; Romance; Thriller,China,China; Hong Kong; United Kingdom,Mandarin,0,,222,222,7.6,17797,4.26,8.52,162056,China,135,1,0,1,0,male,ok
+LB250,223,tt0036775,Double Indemnity,1944,1940s,Billy Wilder,Crime; Drama; Film-Noir; Mystery; Thriller,United States,United States,English,0,109,223,223,8.3,184155,4.26,8.52,243911,Austria,107,1,0,1,0,male,ok
+LB250,224,tt0166924,Mulholland Drive,2001,2000s,David Lynch,Drama; Mystery; Thriller,France,France; United States,English,0,,224,224,7.9,437295,4.26,8.52,1443698,United States,147,1,0,1,0,male,ok
+LB250,225,tt0086022,Nostalgia,1983,1980s,Andrei Tarkovsky,Drama,Italy,Italy; Soviet Union,Italian,0,,225,225,7.9,33872,4.26,8.52,91380,Russia,124,1,0,1,0,male,ok
+LB250,226,tt15242330,The First Slam Dunk,2022,2020s,Takehiko Inoue,Animation; Comedy; Drama; Sport,Japan,Japan,Japanese,0,,226,226,8,13513,4.25,8.50,86954,Japan,125,1,0,1,0,male,ok
+LB250,227,tt0056801,8½,1963,1960s,Federico Fellini,Drama,Italy,Italy; France,Italian,0,,227,227,8,134311,4.25,8.50,285754,Italy,139,1,0,1,0,male,ok
+LB250,228,tt0053779,La dolce vita,1960,1960s,Federico Fellini,Comedy; Drama,Italy,Italy; France,Italian,0,,228,228,8,86983,4.25,8.50,167291,Italy,174,1,0,1,0,male,ok
+LB250,229,tt1032846,"4 Months, 3 Weeks and 2 Days",2007,2000s,Cristian Mungiu,Drama,Romania,Romania; Netherlands,Romanian,0,,229,229,7.9,66852,4.25,8.50,70141,Romania,114,1,0,1,0,male,ok
+LB250,230,tt0048424,The Night of the Hunter,1955,1950s,Charles Laughton,Crime; Drama; Thriller,United States,United States,English,0,,230,230,7.9,110348,4.25,8.50,281861,United Kingdom,93,1,0,1,0,male,ok
+LB250,231,tt5198068,Wolfwalkers,2020,2020s,Tomm Moore; Ross Stewart,Animation; Action; Adventure; Drama; Family; Fantasy; Thriller,Ireland,Ireland; Luxembourg; France; China; United States,English,0,,231,231,8,46750,4.25,8.50,196836,Ireland,102,2,0,2,0,male; male,ok
+LB250,232,tt0059578,For a Few Dollars More,1965,1960s,Sergio Leone,Drama; Western,Italy,Italy; Spain; West Germany,English,0,140,232,232,8.2,305546,4.25,8.50,300145,Italy,132,1,0,1,0,male,ok
+LB250,233,tt0117214,A Moment of Innocence,1996,1990s,Mohsen Makhmalbaf,Comedy; Drama,Iran,Iran; France,Persian,0,,233,233,7.7,5376,4.25,8.50,30671,Iran,78,1,0,1,0,male,ok
+LB250,234,tt0910970,WALL·E,2008,2000s,Andrew Stanton,Animation; Adventure; Family; Sci-Fi,United States,United States; Japan,English,0,55,234,234,8.4,1349757,4.25,8.50,3029039,United States,98,1,0,1,0,male,ok
+LB250,235,tt0056512,The Easy Life,1962,1960s,Dino Risi,Adventure; Comedy; Drama,Italy,Italy,Italian,0,,235,235,8.2,14902,4.25,8.50,43221,Italy,105,1,0,1,0,male,ok
+LB250,236,tt0046478,Ugetsu,1953,1950s,Kenji Mizoguchi,Drama; Fantasy; War,Japan,Japan,Japanese,0,,236,236,8.1,28756,4.25,8.50,69105,Japan,96,1,0,1,0,male,ok
+LB250,237,tt0036868,The Best Years of Our Lives,1946,1940s,William Wyler,Drama; Romance; War,United States,United States,English,0,229,237,237,8.1,77600,4.25,8.50,53433,Switzerland,171,1,0,1,0,male,ok
+LB250,238,tt0061065,The Face of Another,1966,1960s,Hiroshi Teshigahara,Drama; Sci-Fi; Thriller,Japan,Japan,Japanese,0,,238,238,7.8,12457,4.25,8.50,67985,Japan,122,1,0,1,0,male,ok
+LB250,239,tt1305806,The Secret in Their Eyes,2009,2000s,Juan José Campanella,Drama; Mystery; Romance; Thriller,Argentina,Argentina; Spain,Spanish,0,170,239,239,8.2,246913,4.25,8.50,229457,Argentina,130,1,0,1,0,male,ok
+LB250,240,tt0052561,Anatomy of a Murder,1959,1950s,Otto Preminger,Drama; Mystery,United States,United States,English,0,,240,240,8,79387,4.25,8.50,104869,Austria,161,1,0,1,0,male,ok
+LB250,241,tt5959980,Vada Chennai,2018,2010s,Vetrimaaran,Action; Crime; Drama; Thriller,India,India,Tamil,0,,241,241,8.4,25135,4.24,8.48,33106,India,166,1,0,1,0,male,ok
+LB250,242,tt0050212,The Bridge on the River Kwai,1957,1950s,David Lean,Adventure; Drama; War,United Kingdom,United Kingdom; United States,English,0,182,242,242,8.1,252962,4.25,8.50,134473,United Kingdom,162,1,0,1,0,male,ok
+LB250,243,tt26758372,Meiyazhagan,2024,2020s,C. Prem Kumar,Drama; Family,India,India,Tamil,0,,243,243,8.5,25139,4.25,8.50,62873,,177,1,0,1,0,male,ok
+LB250,244,tt8633462,"Quo Vadis, Aida?",2020,2020s,Jasmila Zbanic,Drama; History; War,Bosnia and Herzegovina,Bosnia and Herzegovina; Austria; Romania; Netherlands; Germany; Poland; France; Turkey; Norway; Croatia; Sweden; Montenegro; Italy; United States; Serbia,Serbo-Croatian,0,,244,244,8,42639,4.24,8.48,49273,Bosnia and Herzegovina,104,1,1,0,1,female,ok
+LB250,245,tt15339456,Marcel the Shell with Shoes On,2021,2020s,Dean Fleischer Camp,Animation; Comedy; Drama; Family; Fantasy,United States,United States,English,0,,245,245,7.6,34713,4.24,8.48,387547,United States,90,1,0,1,0,male,ok
+LB250,246,tt0078748,Alien,1979,1970s,Ridley Scott,Horror; Sci-Fi,United Kingdom,United Kingdom; United States,English,0,51,246,246,8.4,1083370,4.24,8.48,2083700,United Kingdom,117,1,0,1,0,male,ok
+LB250,247,tt0045274,Umberto D.,1952,1950s,Vittorio De Sica,Drama,Italy,Italy,Italian,0,,247,247,8.1,31196,4.24,8.48,54495,Italy,91,1,0,1,0,male,ok
+LB250,248,tt1375666,Inception,2010,2010s,Christopher Nolan,Adventure; Sci-Fi; Thriller,United Kingdom,United Kingdom; United States,English,0,13,248,248,8.8,2889060,4.24,8.48,4603943,United Kingdom,148,1,0,1,0,male,ok
+LB250,249,tt0100998,Dreams,1990,1990s,Akira Kurosawa; Ishirō Honda,Drama; Fantasy,Japan,Japan; United States,Japanese,0,,249,249,7.7,33608,4.24,8.48,124641,Japan,119,2,0,2,0,male; male,ok
+LB250,250,tt0054042,Macario,1960,1960s,Roberto Gavaldón,Drama; Fantasy; Mystery,Mexico,Mexico,Spanish,0,,250,250,8.3,5484,4.24,8.48,38096,Mexico,91,1,0,1,0,male,ok

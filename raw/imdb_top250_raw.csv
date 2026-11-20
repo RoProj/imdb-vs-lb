@@ -1,0 +1,251 @@
+imdb_rank,imdb_id,title,year,directors,genres,countries,primary_language,languages,imdb_rating,imdb_votes
+1,tt0111161,The Shawshank Redemption,1994,Frank Darabont,Drama,United States,English,English,9.3,3264267
+2,tt0068646,The Godfather,1972,Francis Ford Coppola,Crime; Drama,United States,English,English; Italian; Latin,9.2,2272100
+3,tt0468569,The Dark Knight,2008,Christopher Nolan,Crime; Thriller,United States; United Kingdom,English,English; Mandarin,9.1,3250100
+4,tt0071562,The Godfather Part II,1974,Francis Ford Coppola,Crime; Drama,United States,English,English; Italian; Spanish; Latin; Sicilian,9,1523795
+5,tt0167260,The Lord of the Rings: The Return of the King,2003,Peter Jackson,Adventure; Drama; Fantasy,New Zealand; United States,English,English; Quenya; Old English; Sindarin,9,2207622
+6,tt0050083,12 Angry Men,1957,Sidney Lumet,Crime; Drama,United States,English,English,9,1011857
+7,tt0108052,Schindler's List,1993,Steven Spielberg,Biography; Drama; History,United States,English,English; Hebrew; German; Polish; Latin,9,1613384
+8,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,Adventure; Drama; Fantasy,New Zealand; United States,English,English; Sindarin,8.9,2252032
+9,tt0110912,Pulp Fiction,1994,Quentin Tarantino,Crime; Drama,United States,English,English; Spanish; French,8.8,2483166
+10,tt0167261,The Lord of the Rings: The Two Towers,2002,Peter Jackson,Adventure; Drama; Fantasy,New Zealand; United States,English,English; Sindarin; Old English,8.8,1996765
+11,tt0060196,"The Good, the Bad and the Ugly",1966,Sergio Leone,Adventure; Drama; Western,Italy; Spain; West Germany; United States,English,English; Italian,8.8,906721
+12,tt0109830,Forrest Gump,1994,Robert Zemeckis,Drama; Romance,United States,English,English,8.8,2552882
+13,tt1375666,Inception,2010,Christopher Nolan,Adventure; Sci-Fi; Thriller,United Kingdom; United States,English,English; Japanese; French,8.8,2889060
+14,tt0137523,Fight Club,1999,David Fincher,Crime; Drama; Thriller,United States; Germany,English,English,8.8,2683139
+15,tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,Adventure; Fantasy; Sci-Fi,United States,English,English,8.7,1533130
+16,tt0133093,The Matrix,1999,Lana Wachowski; Lilly Wachowski,Action; Sci-Fi,United States,English,English,8.7,2293742
+17,tt0816692,Interstellar,2014,Christopher Nolan,Adventure; Sci-Fi,United States; United Kingdom; Canada,English,English,8.7,2633544
+18,tt0099685,GoodFellas,1990,Martin Scorsese,Biography; Crime; Drama,United States,English,English; Italian; Hebrew; Yiddish,8.7,1423597
+19,tt0073486,One Flew Over the Cuckoo's Nest,1975,Miloš Forman,Drama,United States,English,English,8.6,1173791
+20,tt0114369,Seven,1995,David Fincher,Crime; Drama; Mystery; Thriller,United States,English,English,8.6,2077133
+21,tt0038650,It's a Wonderful Life,1946,Frank Capra,Drama; Family; Fantasy; Romance,United States,English,English; French,8.6,563298
+22,tt0102926,The Silence of the Lambs,1991,Jonathan Demme,Crime; Drama; Horror; Thriller,United States,English,English; Latin,8.6,1766347
+23,tt0120815,Saving Private Ryan,1998,Steven Spielberg,Drama; War,United States,English,English; French; German; Czech,8.6,1672812
+24,tt0047478,Seven Samurai,1954,Akira Kurosawa,Action; Drama,Japan,Japanese,Japanese,8.6,407866
+25,tt0120689,The Green Mile,1999,Frank Darabont,Crime; Drama; Fantasy; Mystery,United States,English,English; French,8.6,1597266
+26,tt0317248,City of God,2002,Fernando Meirelles; Kátia Lund,Crime; Drama,Brazil,Portuguese,Portuguese,8.6,887290
+27,tt0118799,Life Is Beautiful,1997,Roberto Benigni,Comedy; Drama; Romance; War,Italy,Italian,Italian; German; English,8.6,827847
+28,tt0103064,Terminator 2: Judgment Day,1991,James Cameron,Action; Adventure; Sci-Fi,United States; France,English,English; Spanish,8.6,1310545
+29,tt0088763,Back to the Future,1985,Robert Zemeckis,Adventure; Comedy; Sci-Fi,United States,English,English,8.5,1487386
+30,tt0076759,Star Wars: Episode IV - A New Hope,1977,George Lucas,Action; Adventure; Fantasy; Sci-Fi,United States,English,English,8.6,1597896
+31,tt0245429,Spirited Away,2001,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan; United States,Japanese,Japanese; English,8.6,993516
+32,tt0172495,Gladiator,2000,Ridley Scott,Action; Adventure; Drama,United Kingdom; Malta; Morocco; United States,English,English,8.5,1894606
+33,tt0253474,The Pianist,2002,Roman Polanski,Biography; Drama; Music; War,France; Poland; Germany; United Kingdom; United States,English,English; German; Russian,8.5,1031778
+34,tt6019206,Kill Bill: The Whole Bloody Affair,2004,Quentin Tarantino,Action; Crime; Thriller,United States,English,English; Japanese; Mandarin; French; Cantonese; Spanish,8.7,69452
+35,tt6751668,Parasite,2019,Bong Joon Ho,Drama; Thriller,South Korea,Korean,Korean; English,8.5,1208804
+36,tt0095327,Grave of the Fireflies,1988,Isao Takahata,Animation; Drama; War,Japan,Japanese,Japanese,8.5,401257
+37,tt0056058,Harakiri,1962,Masaki Kobayashi,Drama; Mystery,Japan,Japanese,Japanese,8.6,95579
+38,tt0110357,The Lion King,1994,Roger Allers; Rob Minkoff,Animation; Adventure; Drama; Family; Musical,United States,English,English; Swahili; Xhosa; Zulu,8.5,1285472
+39,tt0054215,Psycho,1960,Alfred Hitchcock,Drama; Horror; Mystery; Thriller,United States,English,English,8.5,799958
+40,tt0407887,The Departed,2006,Martin Scorsese,Crime; Drama; Thriller,United States; Hong Kong,English,English; Cantonese,8.5,1590188
+41,tt2582802,Whiplash,2014,Damien Chazelle,Drama; Music,United States,English,English,8.5,1192603
+42,tt0482571,The Prestige,2006,Christopher Nolan,Drama; Mystery; Sci-Fi; Thriller,United Kingdom; United States,English,English,8.5,1640980
+43,tt0120586,American History X,1998,Tony Kaye,Crime; Drama,United States,English,English,8.5,1292978
+44,tt9362722,Spider-Man: Across the Spider-Verse,2023,Joaquim Dos Santos; Kemp Powers; Justin K. Thompson,Animation; Action; Adventure; Family; Fantasy; Sci-Fi,United States,English,English,8.5,562440
+45,tt0095765,Cinema Paradiso,1988,Giuseppe Tornatore,Drama; Romance,Italy; France,Italian,Italian,8.5,322859
+46,tt0110413,Leon,1994,Luc Besson,Action; Crime; Drama; Thriller,France; United States,English,English; Italian; French,8.5,1373286
+47,tt0034583,Casablanca,1942,Michael Curtiz,Drama; Romance; War,United States,English,English; French; German; Italian; Russian,8.5,664220
+48,tt1675434,Untouchable,2011,Olivier Nakache; Éric Toledano,Comedy; Drama,France,French,French; English,8.5,1048845
+49,tt0114814,The Usual Suspects,1995,Bryan Singer,Crime; Drama; Mystery; Thriller,United States; Germany,English,English; Hungarian; Spanish; French,8.5,1262294
+50,tt1853728,Django Unchained,2012,Quentin Tarantino,Drama; Western,United States,English,English; German; French; Italian,8.5,1926416
+51,tt0078748,Alien,1979,Ridley Scott,Horror; Sci-Fi,United Kingdom; United States,English,English,8.4,1083370
+52,tt0047396,Rear Window,1954,Alfred Hitchcock,Drama; Mystery; Thriller,United States,English,English,8.4,576863
+53,tt0027977,Modern Times,1936,Charles Chaplin,Comedy; Drama; Romance,United States,English,English,8.5,289159
+54,tt0064116,Once Upon a Time in the West,1968,Sergio Leone,Drama; Western,Italy; United States,English,English; Spanish; Italian,8.5,389408
+55,tt0910970,WALL·E,2008,Andrew Stanton,Animation; Adventure; Family; Sci-Fi,United States; Japan,English,English,8.4,1349757
+56,tt0021749,City Lights,1931,Charles Chaplin,Comedy; Drama; Romance,United States,None,None; English,8.5,219216
+57,tt0078788,Apocalypse Now,1979,Francis Ford Coppola,Drama; Mystery; War,United States,English,English; French; Vietnamese,8.4,782044
+58,tt4154756,Avengers: Infinity War,2018,Anthony Russo; Joe Russo,Action; Adventure; Sci-Fi,United States; Norway,English,English,8.4,1424043
+59,tt0209144,Memento,2000,Christopher Nolan,Mystery; Thriller,United States,English,English,8.4,1466942
+60,tt15239678,Dune: Part Two,2024,Denis Villeneuve,Action; Adventure; Drama; Sci-Fi,United States; Canada; United Arab Emirates; Hungary; Italy; New Zealand; Jordan,English,English; American Sign Language,8.4,805953
+61,tt0082971,Raiders of the Lost Ark,1981,Steven Spielberg,Adventure,United States,English,English; German; Spanish; Nepali; Hebrew; Arabic,8.4,1125707
+62,tt4633694,Spider-Man: Into the Spider-Verse,2018,Bob Persichetti; Peter Ramsey; Rodney Rothman,Animation; Action; Adventure; Family; Fantasy; Sci-Fi,United States,English,English; Spanish,8.4,824586
+63,tt0405094,The Lives of Others,2006,Florian Henckel von Donnersmarck,Drama; Mystery; Thriller,Germany; France,German,German,8.4,449026
+64,tt0043014,Sunset Boulevard,1950,Billy Wilder,Drama; Film-Noir,United States,English,English,8.4,265096
+65,tt0051201,Witness for the Prosecution,1957,Billy Wilder,Crime; Drama; Mystery; Thriller,United States,English,English; German,8.4,166025
+66,tt0050825,Paths of Glory,1957,Stanley Kubrick,Drama; War,United States,English,English; German; Latin,8.4,244088
+67,tt0361748,Inglourious Basterds,2009,Quentin Tarantino,Drama; War,United States; Germany,English,English; German; French; Italian,8.4,1830093
+68,tt0081505,The Shining,1980,Stanley Kubrick,Drama; Horror,United Kingdom; United States,English,English,8.4,1253941
+69,tt0032553,The Great Dictator,1940,Charles Chaplin,Comedy; Drama; War,United States,English,English; Esperanto; Latin,8.4,261405
+70,tt33764258,The Odyssey,2026,Christopher Nolan,Action; Adventure; Drama; Fantasy,United Kingdom; United States; Canada; New Zealand; Iceland,English,English; Greek,8.4,561771
+71,tt0090605,Aliens,1986,James Cameron,Action; Adventure; Horror; Sci-Fi; Thriller,United Kingdom; United States,English,English; Spanish,8.4,852607
+72,tt0057565,High and Low,1963,Akira Kurosawa,Crime; Drama; Mystery; Thriller,Japan,Japanese,Japanese,8.4,74503
+73,tt23849204,12th Fail,2023,Vidhu Vinod Chopra,Biography; Drama,India,Hindi,Hindi; English,8.7,179793
+74,tt4154796,Avengers: Endgame,2019,Anthony Russo; Joe Russo,Action; Adventure; Sci-Fi,United States,English,English; Japanese; Xhosa; German,8.4,1507759
+75,tt0119217,Good Will Hunting,1997,Gus Van Sant,Drama; Romance,United States,English,English,8.4,1253457
+76,tt2380307,Coco,2017,Lee Unkrich; Adrian Molina,Animation; Adventure; Drama; Family; Fantasy; Music; Mystery,United States; Mexico; Japan,English,English; Spanish,8.4,735084
+77,tt0114709,Toy Story,1995,John Lasseter,Animation; Adventure; Comedy; Family; Fantasy,United States,English,English,8.3,1206910
+78,tt1345836,The Dark Knight Rises,2012,Christopher Nolan,Crime; Thriller,United Kingdom; United States,English,English; Arabic,8.4,2038366
+79,tt0086879,Amadeus,1984,Miloš Forman,Biography; Drama; Music,United States; France,English,English; Italian; Latin; German; French,8.4,475817
+80,tt5311514,Your Name.,2016,Makoto Shinkai,Animation; Drama; Fantasy; Romance,Japan,Japanese,Japanese,8.4,410123
+81,tt1187043,3 Idiots,2009,Rajkumar Hirani,Comedy; Drama,India,Hindi,Hindi; English,8.4,492688
+82,tt0112573,Braveheart,1995,Mel Gibson,Drama; War,United States,English,English; French; Latin; Gaelic; Italian,8.3,1176964
+83,tt0082096,Das Boot,1981,Wolfgang Petersen,Drama; War,West Germany,German,German; English; French,8.3,291694
+84,tt0119698,Princess Mononoke,1997,Hayao Miyazaki,Animation; Adventure; Fantasy,Japan,Japanese,Japanese,8.3,494429
+85,tt0364569,Oldboy,2003,Park Chan-wook,Action; Drama; Mystery; Thriller,South Korea,Korean,Korean,8.3,738496
+86,tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,Comedy; War,United Kingdom,English,English; Russian,8.3,557054
+87,tt33175825,Attack on Titan: The Last Attack,2024,Ryota Aikei; Yūichirō Hayashi; Tokio Igarashi,Animation; Action; Adventure; Drama; Horror,Japan,Japanese,Japanese,8.9,40602
+88,tt0169547,American Beauty,1999,Sam Mendes,Drama,United States,English,English,8.3,1292733
+89,tt2056785,Wildwood,2026,Travis Knight,Animation; Adventure; Fantasy,United States; United Kingdom; Canada,English,English,8.6,27433
+90,tt8267604,Capernaum,2018,Nadine Labaki,Drama,Lebanon; United States; France; Cyprus; Qatar; United Kingdom,Arabic,Arabic; Amharic,8.4,128098
+91,tt0045152,Singin' in the Rain,1952,Stanley Donen; Gene Kelly,Comedy; Musical; Romance,United States,English,English,8.3,287284
+92,tt0087843,Once Upon a Time in America,1984,Sergio Leone,Crime; Drama,Italy; United States,English,English; Italian; French; Yiddish; Hebrew,8.3,414238
+93,tt7286456,Joker,2019,Todd Phillips,Drama; Thriller,United States; Canada; Australia,English,English; German,8.3,1736837
+94,tt0435761,Toy Story 3,2010,Lee Unkrich,Animation; Adventure; Comedy; Family; Fantasy,United States; Japan; India; United Kingdom; Australia,English,English; Spanish,8.3,996513
+95,tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,Action; Adventure; Fantasy; Sci-Fi,United States,English,English; Kikuyu; Tagalog; Kalmyk-Oirat; Quechua; Polish,8.3,1229578
+96,tt0091251,Come and See,1985,Elem Klimov,Drama; Thriller; War,Soviet Union,Russian,Russian; Belarusian; German,8.3,128122
+97,tt0180093,Requiem for a Dream,2000,Darren Aronofsky,Drama,United States,English,English,8.3,989844
+98,tt1255953,Incendies,2010,Denis Villeneuve,Drama; Mystery; War,Canada; France,French,French; Arabic; English,8.3,263127
+99,tt0044741,Ikiru,1952,Akira Kurosawa,Drama,Japan,Japanese,Japanese; Latin; English; French,8.3,104715
+100,tt2106476,The Hunt,2012,Thomas Vinterberg,Drama,Denmark; Sweden; Belgium; France,Danish,Danish; English; Polish,8.3,422666
+101,tt0338013,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,Drama; Romance; Sci-Fi,United States,English,English,8.3,1202562
+102,tt0053604,The Apartment,1960,Billy Wilder,Comedy; Drama; Romance,United States,English,English,8.3,224401
+103,tt0056172,Lawrence of Arabia,1962,David Lean,Adventure; Biography; Drama; War,United Kingdom,English,English; Arabic; Turkish,8.3,348279
+104,tt0113277,Heat,1995,Michael Mann,Action; Crime; Drama,United States,English,English; Spanish,8.3,824438
+105,tt0086250,Scarface,1983,Brian De Palma,Crime; Drama,United States,English,English; Spanish,8.3,1042361
+106,tt1049413,Up,2009,Pete Docter; Bob Peterson,Animation; Adventure; Comedy; Drama; Family,United States; Japan,English,English,8.3,1263359
+107,tt0105236,Reservoir Dogs,1992,Quentin Tarantino,Crime; Drama; Thriller,United States,English,English,8.2,1187363
+108,tt0062622,2001: A Space Odyssey,1968,Stanley Kubrick,Adventure; Sci-Fi,United Kingdom; United States,English,English; Russian; French,8.3,797165
+109,tt0036775,Double Indemnity,1944,Billy Wilder,Crime; Drama; Film-Noir; Mystery; Thriller,United States,English,English,8.3,184155
+110,tt0986264,Like Stars on Earth,2007,Aamir Khan,Drama; Family,India,Hindi,Hindi; English,8.3,237801
+111,tt0053125,North by Northwest,1959,Alfred Hitchcock,Action; Adventure; Drama; Mystery; Thriller,United States,English,English; French,8.2,373360
+112,tt0093058,Full Metal Jacket,1987,Stanley Kubrick,Drama; War,United Kingdom; United States,English,English; Vietnamese,8.2,864374
+113,tt1832382,A Separation,2011,Asghar Farhadi,Drama,Iran; France; Australia,Persian,Persian,8.3,281708
+114,tt31514146,I Swear,2025,Kirk Jones,Biography; Drama,United Kingdom; Ireland,English,English; Scots,8.3,74030
+115,tt0095016,Die Hard,1988,John McTiernan,Action; Thriller,United States,English,English; German; Italian; Japanese,8.2,1044664
+116,tt0022100,M,1931,Fritz Lang,Crime; Mystery; Thriller,Germany,German,German,8.3,185243
+117,tt0097576,Indiana Jones and the Last Crusade,1989,Steven Spielberg,Adventure,United States; United Kingdom; Spain; Italy; Jordan,English,English; German; Greek; Latin; Italian,8.2,875303
+118,tt0056592,To Kill a Mockingbird,1962,Robert Mulligan,Crime; Drama,United States,English,English,8.2,354500
+119,tt0211915,Amélie,2001,Jean-Pierre Jeunet,Comedy; Romance,France; Germany,French,French; Russian; English,8.2,850262
+120,tt0033467,Citizen Kane,1941,Orson Welles,Drama; Mystery,United States,English,English; Italian,8.2,498565
+121,tt0052357,Vertigo,1958,Alfred Hitchcock,Mystery; Romance; Thriller,United States,English,English,8.2,465004
+122,tt0070735,The Sting,1973,George Roy Hill,Comedy; Crime; Drama,United States,English,English,8.2,308189
+123,tt0120382,The Truman Show,1998,Peter Weir,Comedy; Drama,United States,English,English,8.2,1418926
+124,tt0993846,The Wolf of Wall Street,2013,Martin Scorsese,Biography; Comedy; Crime; Drama,United States,English,English; French,8.2,1838528
+125,tt0066921,A Clockwork Orange,1971,Stanley Kubrick,Crime; Sci-Fi,United Kingdom; United States,English,English,8.2,949702
+126,tt0017136,Metropolis,1927,Fritz Lang,Drama; Sci-Fi,Germany,German,German; None,8.2,204088
+127,tt8579674,1917,2019,Sam Mendes,Drama; War,United Kingdom; India; Spain; South Korea; United States,English,English; French; German,8.2,792244
+128,tt0208092,Snatch,2000,Guy Ritchie,Comedy; Crime,United Kingdom; United States,English,English; Russian,8.2,990535
+129,tt1130884,Shutter Island,2010,Martin Scorsese,Mystery; Thriller,Canada; United States,English,English; German,8.2,1697564
+130,tt0363163,Downfall,2004,Oliver Hirschbiegel,Biography; Drama; History; War,Germany; Austria; Italy,German,German; Russian; French; Hungarian; English,8.2,405732
+131,tt0119488,L.A. Confidential,1997,Curtis Hanson,Crime; Drama; Mystery; Thriller,United States,English,English,8.2,666759
+132,tt6966692,Green Book,2018,Peter Farrelly,Biography; Comedy; Drama; Music,China; South Korea; United States,English,English; Italian; Russian; German,8.2,711648
+133,tt5074352,Dangal,2016,Nitesh Tiwari,Action; Biography; Drama; Sport,India; United States,Hindi,Hindi; English,8.3,250254
+134,tt0040522,Bicycle Thieves,1948,Vittorio De Sica,Drama,Italy,Italian,Italian; German,8.2,194244
+135,tt0055031,Judgment at Nuremberg,1961,Stanley Kramer,Drama; History; War,United States,English,English; German,8.3,99094
+136,tt0107290,Jurassic Park,1993,Steven Spielberg,Adventure; Sci-Fi,United States,English,English; Spanish,8.2,1206415
+137,tt0372784,Batman Begins,2005,Christopher Nolan,Crime,United States; United Kingdom,English,English; Mandarin,8.2,1754179
+138,tt0058625,Woman of the Dunes,1964,Hiroshi Teshigahara,Drama; Thriller,Japan,Japanese,Japanese,8.4,27134
+139,tt15398776,Oppenheimer,2023,Christopher Nolan,Biography; Drama; History,United States; United Kingdom,English,English; German; Italian; Dutch,8.2,1112123
+140,tt0059578,For a Few Dollars More,1965,Sergio Leone,Drama; Western,Italy; Spain; West Germany,English,English; Italian,8.2,305546
+141,tt0469494,There Will Be Blood,2007,Paul Thomas Anderson,Drama,United States,English,English; American Sign Language,8.2,723890
+142,tt8503618,Hamilton,2020,Thomas Kail,Biography; Drama; History; Musical,United States,English,English; French,8.3,144179
+143,tt0053291,Some Like It Hot,1959,Billy Wilder,Comedy; Music; Romance,United States,English,English; French,8.2,308786
+144,tt0075314,Taxi Driver,1976,Martin Scorsese,Crime; Drama,United States,English,English; Spanish,8.2,1048584
+145,tt10272386,The Father,2020,Florian Zeller,Drama; Mystery,United Kingdom; France; United States,English,English,8.2,252067
+146,tt0167404,The Sixth Sense,1999,M. Night Shyamalan,Drama; Mystery; Thriller,United States,English,English; Latin; Spanish,8.2,1177506
+147,tt0042192,All About Eve,1950,Joseph L. Mankiewicz,Drama,United States,English,English; French,8.2,151211
+148,tt0012349,The Kid,1921,Charles Chaplin,Comedy; Drama; Family,United States,None,None; English,8.2,147825
+149,tt0089881,Ran,1985,Akira Kurosawa,Action; Drama; War,Japan; France,Japanese,Japanese,8.2,155989
+150,tt0084787,The Thing,1982,John Carpenter,Horror; Mystery; Sci-Fi,United States,English,English; Norwegian,8.2,542632
+151,tt0112641,Casino,1995,Martin Scorsese,Crime; Drama,United States; France,English,English,8.2,631754
+152,tt0477348,No Country for Old Men,2007,Ethan Coen; Joel Coen,Crime; Drama; Thriller,United States,English,English; Spanish,8.2,1222400
+153,tt1392214,Prisoners,2013,Denis Villeneuve,Crime; Drama; Mystery; Thriller,United States,English,English,8.2,968571
+154,tt1745960,Top Gun: Maverick,2022,Joseph Kosinski,Action; Drama,United States,English,English,8.2,913243
+155,tt0266697,Kill Bill: Vol. 1,2003,Quentin Tarantino,Action; Crime; Thriller,United States,English,English; Japanese; French,8.2,1332529
+156,tt0457430,Pan's Labyrinth,2006,Guillermo del Toro,Drama; Fantasy; War,Mexico; Spain,Spanish,Spanish,8.2,757166
+157,tt0105695,Unforgiven,1992,Clint Eastwood,Drama; Western,United States,English,English,8.2,474994
+158,tt0268978,A Beautiful Mind,2001,Ron Howard,Biography; Drama; Mystery,United States,English,English,8.2,1068541
+159,tt0347149,Howl's Moving Castle,2004,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan; United States,Japanese,Japanese,8.2,525724
+160,tt0040897,The Treasure of the Sierra Madre,1948,John Huston,Adventure; Drama; Western,United States,English,English; Spanish,8.2,143336
+161,tt0266543,Finding Nemo,2003,Andrew Stanton; Lee Unkrich,Animation; Adventure; Comedy; Family,United States; Japan,English,English,8.2,1231565
+162,tt4729430,Klaus,2019,Sergio Pablos; Carlos Martínez López,Animation; Adventure; Comedy; Family; Fantasy,Spain; United Kingdom; United States; Austria; Canada; France,English,English; Saami,8.2,244969
+163,tt12042730,Project Hail Mary,2026,Phil Lord; Christopher Miller,Adventure; Comedy; Sci-Fi,United States,English,English; Chinese,8.2,600974
+164,tt0055630,Yojimbo,1961,Akira Kurosawa,Action; Drama; Thriller,Japan,Japanese,Japanese,8.2,145469
+165,tt0080678,The Elephant Man,1980,David Lynch,Biography; Drama,United States; United Kingdom,English,English; French,8.2,286292
+166,tt32820897,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,Hikaru Kondô; Haruo Sotozaki,Animation; Action; Adventure; Fantasy; Horror; Thriller,Japan; United States,Japanese,Japanese,8.3,90302
+167,tt0057115,The Great Escape,1963,John Sturges,Adventure; Drama; Thriller; War,United States,English,English; German; French; Russian; Spanish,8.2,281563
+168,tt0071853,Monty Python and the Holy Grail,1975,Terry Gilliam; Terry Jones,Adventure; Comedy; Fantasy,United Kingdom,English,English; French; Latin; Swedish,8.1,610206
+169,tt0046912,Dial M for Murder,1954,Alfred Hitchcock,Crime; Drama; Mystery; Thriller,United States,English,English,8.1,208212
+170,tt1305806,The Secret in Their Eyes,2009,Juan José Campanella,Drama; Mystery; Romance; Thriller,Argentina; Spain,Spanish,Spanish,8.2,246913
+171,tt0031381,Gone with the Wind,1939,Victor Fleming,Drama; Romance; War,United States,English,English,8.2,360331
+172,tt0120735,"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,Comedy; Crime,United Kingdom; United States,English,English,8.1,656941
+173,tt0264464,Catch Me If You Can,2002,Steven Spielberg,Biography; Crime; Drama,United States; Canada,English,English; French,8.1,1274209
+174,tt0071315,Chinatown,1974,Roman Polanski,Drama; Mystery; Thriller,United States,English,English; Cantonese; Spanish,8.1,382148
+175,tt0434409,V for Vendetta,2005,James McTeigue,Action; Drama; Sci-Fi; Thriller,United States; Germany,English,English; French; Latin; Spanish,8.1,1261799
+176,tt0097165,Dead Poets Society,1989,Peter Weir,Comedy; Drama,United States,English,English; Latin; French,8.1,676140
+177,tt2096673,Inside Out,2015,Pete Docter; Ronnie Del Carmen,Animation; Adventure; Comedy; Drama; Family; Fantasy,United States; Japan,English,English; Portuguese; Latvian,8.1,938908
+178,tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,Adventure; Family; Fantasy; Mystery,United Kingdom; United States,English,English; Latin,8.1,1069598
+179,tt0117951,Trainspotting,1996,Danny Boyle,Crime; Drama,United Kingdom,English,English,8.1,778003
+180,tt0346336,The Best of Youth,2003,Marco Tullio Giordana,Drama; Romance,Italy,Italian,Italian; English; Norwegian,8.4,29081
+181,tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,Comedy; Crime; Drama,United Kingdom; United States,English,English,8.1,620177
+182,tt0050212,The Bridge on the River Kwai,1957,David Lean,Adventure; Drama; War,United Kingdom; United States,English,English; Japanese; Thai,8.1,252962
+183,tt0042876,Rashomon,1950,Akira Kurosawa,Crime; Drama; Mystery,Japan,Japanese,Japanese,8.1,199721
+184,tt0072684,Barry Lyndon,1975,Stanley Kubrick,Adventure; Drama; War,United Kingdom; United States,English,English; German; French,8.1,210234
+185,tt0052618,Ben-Hur,1959,William Wyler,Adventure; Drama,United States,English,English,8.1,274698
+186,tt29623480,The Wild Robot,2024,Chris Sanders,Animation; Adventure; Family; Sci-Fi,United States; Japan,English,English; German; French; Spanish; Swahili; Japanese,8.1,242512
+187,tt2119532,Hacksaw Ridge,2016,Mel Gibson,Biography; Drama; History; War,United States,English,English; Japanese,8.1,702932
+188,tt1291584,Warrior,2011,Gavin O'Connor,Action; Drama; Sport,United States,English,English; Spanish,8.1,535767
+189,tt0382932,Ratatouille,2007,Brad Bird; Jan Pinkava,Animation; Adventure; Comedy; Family; Fantasy,United States; France; Japan,English,English; French,8.1,973622
+190,tt1392190,Mad Max: Fury Road,2015,George Miller,Action; Adventure; Sci-Fi,Australia; United States,English,English; Russian,8.1,1227395
+191,tt0405159,Million Dollar Baby,2004,Clint Eastwood,Drama; Sport,United States,English,English; Irish Gaelic; German,8.1,777046
+192,tt0118849,Children of Heaven,1997,Majid Majidi,Drama; Family; Sport,Iran,Persian,Persian,8.2,91906
+193,tt0116282,Fargo,1996,Joel Coen; Ethan Coen,Crime; Drama; Thriller,United Kingdom; United States,English,English,8.1,802577
+194,tt0096283,My Neighbour Totoro,1988,Hayao Miyazaki,Animation; Adventure; Family; Fantasy,Japan,Japanese,Japanese,8.1,443276
+195,tt1205489,Gran Torino,2008,Clint Eastwood,Drama,United States; Germany,English,English; Hmong,8.1,873924
+196,tt2024544,12 Years a Slave,2013,Steve McQueen,Biography; Drama; History,United Kingdom; United States,English,English,8.1,798169
+197,tt0892769,How to Train Your Dragon,2010,Dean DeBlois; Chris Sanders,Animation; Action; Adventure; Family; Fantasy,United States,English,English,8.1,914196
+198,tt0081398,Raging Bull,1980,Martin Scorsese,Biography; Drama; Sport,United States,English,English,8.1,416407
+199,tt0353969,Memories of Murder,2003,Bong Joon Ho,Crime; Drama; Mystery; Thriller,South Korea,Korean,Korean; English,8.1,278771
+200,tt2278388,The Grand Budapest Hotel,2014,Wes Anderson,Comedy; Drama,United States; Germany,English,English; French; German,8.1,992195
+201,tt0198781,"Monsters, Inc.",2001,Pete Docter; David Silverman; Lee Unkrich,Animation; Adventure; Comedy; Family; Fantasy,United States; Japan,English,English,8.1,1097955
+202,tt0112471,Before Sunrise,1995,Richard Linklater,Comedy; Drama; Romance,United States; Austria,English,English; German; French,8.1,386898
+203,tt0083658,Blade Runner,1982,Ridley Scott,Action; Drama; Sci-Fi; Thriller,United States; United Kingdom; Hong Kong,English,English; German; Cantonese; Japanese; Hungarian; Arabic; Korean,8.1,896938
+204,tt2267998,Gone Girl,2014,David Fincher,Drama; Mystery; Thriller,United States,English,English,8.1,1195664
+205,tt1950186,Le Mans '66,2019,James Mangold,Action; Biography; Drama; Sport,United States,English,English; Italian; French; Japanese,8.1,592361
+206,tt0073195,Jaws,1975,Steven Spielberg,Adventure; Drama; Horror; Thriller,United States,English,English,8.1,754350
+207,tt30472557,Chainsaw Man - The Movie: Reze Arc,2025,Tatsuya Yoshihara,Animation; Action; Adventure; Comedy; Fantasy; Romance; Thriller,Japan,Japanese,Japanese,8.3,73059
+208,tt0107207,In the Name of the Father,1993,Jim Sheridan,Biography; Crime; Drama,Ireland; United Kingdom; United States,English,English,8.1,205726
+209,tt10872600,Spider-Man: No Way Home,2021,Jon Watts,Action; Adventure; Fantasy; Sci-Fi,United States,English,English; Tagalog,8.1,1088234
+210,tt3011894,Wild Tales,2014,Damián Szifron,Comedy; Drama; Thriller,Argentina; Spain; France; United Kingdom,Spanish,Spanish,8.1,243077
+211,tt5323662,A Silent Voice: The Movie,2016,Naoko Yamada,Animation; Drama,Japan,Japanese,Japanese; Japanese Sign Language; English,8.2,153250
+212,tt0015864,The Gold Rush,1925,Charles Chaplin,Adventure; Comedy; Drama; Romance; Western,United States,None,None; English,8.1,129708
+213,tt0978762,Mary and Max,2009,Adam Elliot,Animation; Comedy; Drama,Australia,English,English; Yiddish,8.1,204264
+214,tt0015324,Sherlock Jr.,1924,Buster Keaton,Action; Comedy; Romance,United States,None,None; English,8.1,67583
+215,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski,Action; Adventure; Fantasy,United States,English,English,8.1,1353266
+216,tt0075148,Rocky,1976,John G. Avildsen,Drama; Sport,United States,English,English; Spanish; Italian,8.1,707541
+217,tt3315342,Logan,2017,James Mangold,Action; Drama; Sci-Fi; Thriller,United States,English,English; Spanish,8.1,947081
+218,tt0077416,The Deer Hunter,1978,Michael Cimino,Drama; War,United States; United Kingdom,English,English; Vietnamese; French; Russian; Cantonese,8.1,391621
+219,tt0046268,The Wages of Fear,1953,Henri-Georges Clouzot,Adventure; Drama; Thriller,France; Italy,French,French; English; Spanish; German; Italian; Russian,8.1,74814
+220,tt0017925,The General,1926,Clyde Bruckman; Buster Keaton,Action; Adventure; Comedy; Drama; War,United States,None,None; English,8.1,106750
+221,tt0031679,Mr. Smith Goes to Washington,1939,Frank Capra,Comedy; Drama,United States,English,English,8.1,131014
+222,tt26548265,Maharaja,2024,Nithilan Saminathan; R. Nandhakumar; T. Suresh,Action; Crime; Drama; Mystery; Thriller,India,Tamil,Tamil,8.3,87359
+223,tt0046438,Tokyo Story,1953,Yasujirō Ozu,Drama,Japan,Japanese,Japanese; English,8.1,79373
+224,tt15097216,Jai Bhim,2021,T.J. Gnanavel,Crime; Drama,India; United States,Tamil,Tamil,8.6,237451
+225,tt0059742,The Sound of Music,1965,Robert Wise,Biography; Drama; Family; Musical; Romance,United States,English,English; German; Latin; French,8.1,297101
+226,tt0113247,La haine,1995,Mathieu Kassovitz,Crime; Drama,France,French,French; Yiddish,8.1,233984
+227,tt1895587,Spotlight,2015,Tom McCarthy,Biography; Crime; Drama,United States,English,English,8.1,543451
+228,tt0088247,The Terminator,1984,James Cameron,Action; Adventure; Sci-Fi,United Kingdom; United States,English,English; Spanish,8.1,1024673
+229,tt0036868,The Best Years of Our Lives,1946,William Wyler,Drama; Romance; War,United States,English,English,8.1,77600
+230,tt0050986,Wild Strawberries,1957,Ingmar Bergman,Drama; Romance,Sweden,Swedish,Swedish; Latin,8.1,126439
+231,tt0047296,On the Waterfront,1954,Elia Kazan,Crime; Drama; Thriller,United States,English,English; Latin,8.1,182604
+232,tt0041959,The Third Man,1949,Carol Reed,Drama; Film-Noir; Mystery; Thriller,United Kingdom; United States,English,English; German; Russian; French,8.1,198260
+233,tt0317705,The Incredibles,2004,Brad Bird,Animation; Action; Adventure; Family,United States,English,English; French; German; Italian; Portuguese; Russian,8,923076
+234,tt0118715,The Big Lebowski,1998,Joel Coen; Ethan Coen,Comedy; Crime,United Kingdom; United States,English,English; German; Hebrew; Spanish,8.1,928061
+235,tt1028532,Hachi: A Dog's Tale,2009,Lasse Hallström,Biography; Drama; Family,United Kingdom; United States,English,English; Japanese,8.1,350575
+236,tt0381681,Before Sunset,2004,Richard Linklater,Drama; Romance,United States,English,English; French,8.1,321507
+237,tt0129167,The Iron Giant,1999,Brad Bird,Animation; Action; Adventure; Family; Sci-Fi,United States; Czech Republic; United Kingdom,English,English,8.1,267686
+238,tt0070047,The Exorcist,1973,William Friedkin,Horror,United States,English,English; Latin; Greek; French; German; Arabic; Kurdish,8.1,509840
+239,tt3170832,Room,2015,Lenny Abrahamson,Drama; Thriller,Ireland; Canada; United Kingdom; United States,English,English,8.1,486880
+240,tt0395169,Hotel Rwanda,2004,Terry George,Biography; Drama; History; War,United States; United Kingdom; South Africa; Italy,English,English; French; Kinyarwanda,8.1,396148
+241,tt0091763,Platoon,1986,Oliver Stone,Drama; War,United States; United Kingdom,English,English; Vietnamese,8,479525
+242,tt0050976,The Seventh Seal,1957,Ingmar Bergman,Drama; Fantasy,Sweden,Swedish,Swedish; Latin,8.1,219146
+243,tt1979320,Rush,2013,Ron Howard,Biography; Drama; Sport,United Kingdom; United States,English,English; German; Italian; French; Japanese; Spanish,8.1,569943
+244,tt0058946,The Battle of Algiers,1966,Gillo Pontecorvo,Drama; War,Italy; Algeria,Arabic,Arabic; French; English; Spanish,8.1,77614
+245,tt0092005,Stand by Me,1986,Rob Reiner,Adventure; Drama,United States,English,English,8.1,498270
+246,tt0032138,The Wizard of Oz,1939,Victor Fleming; George Cukor; Norman Taurog,Adventure; Family; Fantasy; Musical,United States,English,English,8.1,474967
+247,tt0476735,My Father and My Son,2005,Çağan Irmak,Drama,Turkey,Turkish,Turkish,8.2,102842
+248,tt4430212,Drishyam,2015,Nishikant Kamat,Crime; Drama; Mystery; Thriller,India,Hindi,Hindi; English,8.2,112660
+249,tt0019254,The Passion of Joan of Arc,1928,Carl Theodor Dreyer,Biography; Drama; History,France,None,None; French; Latin,8.1,69772
+250,tt1954470,Gangs of Wasseypur,2012,Anurag Kashyap,Action; Comedy; Crime; Drama; Thriller,India; France,Hindi,Hindi,8.2,116363

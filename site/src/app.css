@@ -1,0 +1,92 @@
+/* Quantifying Taste: design tokens. Never pure white or pure black anywhere. */
+:root {
+  --bg: #f6f5f1;
+  --surface: #fbfaf6;
+  --ink: #1f1e1b;
+  --muted: #6b6962;
+  --grid: #e2e0d9;
+  --line: #cfccc3;
+  --faint: #dad7cf;
+
+  --imdb: #f5c518;
+  --imdb-edge: #9c7a00;
+  --imdb-ink: #7a5f00;
+  --lb: #6b6bf0;
+  --lb-edge: #4f4fd6;
+  --lb-ink: #4646c4;
+  /* brand tags: pure IMDb yellow with dark text (10:1), deep Letterboxd purple with light text (6.8:1) */
+  --imdb-tag: #f5c518;
+  --imdb-tag-ink: #1f1e1b;
+  --lb-tag: #4646c4;
+  --lb-tag-ink: #fbfaf6;
+  --both: #8f8a80;
+  --both-edge: #6f6a61;
+  --both-ink: #5f5d57;
+
+  --display: 'Fraunces Variable', 'Iowan Old Style', Georgia, serif;
+  --serif: 'Iowan Old Style', 'Charter', 'Source Serif 4', Georgia, serif;
+  --sans: 'Inter Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+
+  --text-col: 640px;
+  --chart-col: 960px;
+  --gutter: 16px;
+  --radius: 10px;
+  --focus: 0 0 0 3px rgba(107, 107, 240, 0.45);
+}
+
+/* The finale (beat 5) runs dark, like a cinema. Near-black, never pure black; every text colour keeps 4.5:1 or better. */
+:root.cinema {
+  --bg: #151412;
+  --surface: #1d1c1a;
+  --ink: #ece8df;
+  --muted: #a8a399;
+  --grid: #2b2925;
+  --line: #3b3934;
+  --faint: #34322e;
+  --imdb-ink: #f5c518;
+  --lb-ink: #a7a7ff;
+  --lb-edge: #8b8bff;
+  --both-ink: #c4beb2;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 19px;
+  line-height: 1.6;
+}
+h1, h2 { font-family: var(--display); font-weight: 560; font-variation-settings: 'SOFT' 50, 'opsz' 96; line-height: 1.08; letter-spacing: -0.015em; }
+h3 { font-family: var(--sans); font-weight: 650; line-height: 1.25; letter-spacing: -0.01em; }
+a { color: var(--lb-ink); }
+button, select, input { font: inherit; font-family: var(--sans); color: var(--ink); }
+:focus-visible { outline: none; box-shadow: var(--focus); border-radius: 4px; }
+
+.col { max-width: var(--text-col); margin: 0 auto; padding: 0 var(--gutter); }
+.wide { max-width: var(--chart-col); margin: 0 auto; padding: 0 var(--gutter); }
+.dek { font-size: 1.2rem; color: var(--muted); margin-top: -0.4rem; }
+.sans { font-family: var(--sans); }
+.muted { color: var(--muted); }
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+
+/* list chips used in text and tooltips */
+.chip { display: inline-block; font-family: var(--sans); font-size: 0.72rem; font-weight: 600; padding: 1px 7px; border-radius: 99px; line-height: 1.5; }
+.chip.imdb { background: var(--imdb); color: var(--ink); box-shadow: inset 0 0 0 1px var(--imdb-edge); }
+.chip.lb { background: var(--lb); color: var(--bg); }
+.chip.both { background: var(--both); color: var(--bg); }
+.chip.lb500 { background: var(--faint); color: var(--ink); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}
+
+/* a brand tag around a word or number: "IMDb", "145" */
+.tag { display: inline-block; border-radius: 4px; padding: 1px 7px; line-height: 1.35; font-family: var(--sans); font-weight: 650; }
+.tag.imdb { background: var(--imdb-tag); color: var(--imdb-tag-ink); }
+.tag.lb { background: var(--lb-tag); color: var(--lb-tag-ink); }

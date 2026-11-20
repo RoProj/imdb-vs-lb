@@ -1,0 +1,330 @@
+imdb_id,title,year,directors,genres,countries,languages,imdb_rating,imdb_votes
+tt0244316,Yi Yi,2000,Edward Yang,Drama,Taiwan; China; Japan,Mandarin; Min Nan; Hokkien; English; Japanese; French,8.1,35450
+tt0053114,The Human Condition Part I: No Greater Love,1959,Masaki Kobayashi,Drama; History; War,Japan,Japanese; Mandarin,8.5,11918
+tt0055233,The Human Condition III: A Soldier's Prayer,1961,Masaki Kobayashi,Drama; History; War,Japan,Japanese; Mandarin; Russian,8.8,9276
+tt0077711,Autumn Sonata,1978,Ingmar Bergman,Drama; Music,West Germany; United Kingdom; Sweden,Swedish; English,8.1,44014
+tt0054407,Le Trou,1960,Jacques Becker,Crime; Drama; Thriller,France; Italy,French,8.5,24489
+tt0053115,The Human Condition Part II: Road to Eternity,1959,Masaki Kobayashi,Drama; History; War,Japan,Japanese; Mandarin; Russian,8.5,9504
+tt0101985,A Brighter Summer Day,1991,Edward Yang,Crime; Drama; Romance,Taiwan,Mandarin; Min Nan; Shanghainese; English,8.2,15560
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,1997,Hideaki Anno; Kazuya Tsurumaki,Animation; Action; Drama; Sci-Fi,Japan,Japanese,8.1,80009
+tt0058604,I Am Cuba,1964,Mikheil Kalatozishvili,Drama,Cuba; Soviet Union,Spanish; English,8.2,12887
+tt35511966,La bola negra,2026,Javier Ambrossi; Javier Calvo,Drama; History; Romance; War,Spain; France,Spanish; English; Italian; Greek,8.2,13604
+tt0060107,Andrei Rublev,1966,Andrei Tarkovsky,Biography; Drama; History,Soviet Union,Russian; Italian; Tatar,8,61502
+tt0050634,The Cranes Are Flying,1957,Mikheil Kalatozishvili,Drama; Romance; War,Soviet Union,Russian,8.3,23296
+tt8613070,Portrait of a Lady on Fire,2019,Céline Sciamma,Drama; Romance,France,French; Italian,8,131396
+tt0075404,The Ascent,1977,Larisa Shepitko,Drama; War,Soviet Union,Russian; German,8.2,12812
+tt0435434,Swing Girls,2004,Shinobu Yaguchi,Comedy; Drama; Music,Japan,Japanese,7.6,6674
+tt36943034,The Voice of Hind Rajab,2025,Kaouther Ben Hania,Biography; Drama; War,Tunisia; France; Occupied Palestinian Territory; United Kingdom; Saudi Arabia; United States; Italy; Cyprus,Arabic; English,8.2,22549
+tt0408664,Nobody Knows,2004,Hirokazu Koreeda,Drama,Japan,Japanese,8,36327
+tt0089603,Mishima: A Life in Four Chapters,1985,Paul Schrader,Biography; Drama,Japan; United States,Japanese; English,7.9,17406
+tt0040725,The Red Shoes,1948,Michael Powell; Emeric Pressburger,Drama; Music; Romance,United Kingdom,English; French; Russian,8.1,44630
+tt0047445,Sansho the Bailiff,1954,Kenji Mizoguchi,Drama,Japan,Japanese,8.3,20304
+tt0106332,Farewell My Concubine,1993,Kaige Chen,Drama; Music; Romance,China; Hong Kong; South Korea,Mandarin,8.1,38004
+tt0100234,Close-Up,1990,Abbas Kiarostami,Biography; Crime; Drama,Iran,Persian; Azerbaijani,8.2,27740
+tt38058097,Club Kid,2026,Jordan Firstman,Comedy; Drama,United States,English; Spanish; Arabic; Italian,8.2,1677
+tt0072417,A Woman Under the Influence,1974,John Cassavetes,Drama; Romance,United States,English; Italian,8,34452
+tt0097216,Do the Right Thing,1989,Spike Lee,Comedy; Drama,United States,English; Italian; Spanish; Korean,7.9,127052
+tt0083922,Fanny and Alexander,1982,Ingmar Bergman,Drama,Sweden; France; West Germany,Swedish; German; Yiddish,8.1,72111
+tt1128075,Love Exposure,2008,Sion Sono,Action; Comedy; Drama; Romance; Thriller,Japan,Japanese,8,18606
+tt4016934,The Handmaiden,2016,Park Chan-wook,Drama; Romance; Thriller,South Korea,Korean; Japanese,8.1,210255
+tt0050783,Nights of Cabiria,1957,Federico Fellini,Drama,Italy; France,Italian; Latin,8.1,57937
+tt0070510,Paper Moon,1973,Peter Bogdanovich,Comedy; Crime; Drama,United States,English,8.1,58699
+tt8020896,An Elephant Sitting Still,2018,Bo Hu,Crime; Drama,China,Mandarin,7.8,9574
+tt0079944,Stalker,1979,Andrei Tarkovsky,Drama; Sci-Fi,Soviet Union,Russian,8,159081
+tt0058888,Red Beard,1965,Akira Kurosawa,Drama,Japan,Japanese,8.3,23951
+tt0065234,Z,1969,Costa-Gavras,Crime; Drama; Thriller,France; Algeria,French; Russian; English,8.1,34711
+tt0156887,Perfect Blue,1997,Satoshi Kon,Animation; Crime; Drama; Mystery; Thriller,Japan,Japanese; English,8,129300
+tt0052572,The World of Apu,1959,Satyajit Ray,Drama,India,Bengali,8.4,20937
+tt31392609,How to Make Millions Before Grandma Dies,2024,Pat Boonnitipat,Comedy; Drama; Family,Thailand,Thai; Teochew,7.9,23867
+tt0118694,In the Mood for Love,2000,Wong Kar-Wai,Drama; Romance,Hong Kong; France,Cantonese; Shanghainese; French; Spanish,8,192939
+tt0060827,Persona,1966,Ingmar Bergman,Drama; Thriller,Sweden,Swedish; English,8,142950
+tt0093342,Where Is the Friend's House?,1987,Abbas Kiarostami,Adventure; Drama; Family,Iran,Persian,8.1,23981
+tt6725014,Scenes from a Marriage,1974,Ingmar Bergman,Drama,Sweden,Swedish,8.3,10784
+tt0111341,Satantango,1994,Béla Tarr,Drama,Hungary; Germany; Switzerland,Hungarian,8.1,14742
+tt0105665,Twin Peaks: Fire Walk with Me,1992,David Lynch,Drama; Horror; Mystery; Thriller,France; United States,English; Latin,7.3,120951
+tt0140888,Central Station,1998,Walter Salles,Drama,Brazil; France; United States,Portuguese,8,52046
+tt0087884,"Paris, Texas",1984,Wim Wenders,Drama,West Germany; France; United Kingdom; United States,English; Spanish,8.1,146496
+tt2396224,It's Such a Beautiful Day,2012,Don Hertzfeldt,Animation; Comedy; Drama; Fantasy; Horror; Mystery; Sci-Fi; Thriller,United States,English,8.2,3600
+tt23736044,Monster,2023,Hirokazu Koreeda,Drama; Mystery; Thriller,Japan,Japanese; English,7.8,44409
+tt0064040,Army of Shadows,1969,Jean-Pierre Melville,Drama; War,France; Italy,French; German; English,8.1,29952
+tt0156794,Eternity and a Day,1998,Theodoros Angelopoulos,Drama,France; Italy; Greece; Germany,Greek; English; Italian,7.8,16652
+tt0101640,Raise the Red Lantern,1991,Yimou Zhang,Drama; Romance,China; Hong Kong,Mandarin,8.1,38765
+tt0049902,A Man Escaped,1956,Robert Bresson,Drama; Thriller; War,France,French; German,8.1,31372
+tt0078754,All That Jazz,1979,Bob Fosse,Drama; Music; Musical,United States,English; Spanish,7.8,41748
+tt1087578,Still Walking,2008,Hirokazu Koreeda,Drama,Japan,Japanese,7.9,21618
+tt0076085,A Special Day,1977,Ettore Scola,Drama,Italy; Canada,Italian,8.1,19156
+tt14961016,I'm Still Here,2024,Walter Salles,Biography; Drama; History,Brazil; France,Portuguese; French,8.1,173124
+tt2457282,Puella Magi Madoka Magica the Movie Part III: The Rebellion Story,2013,Yukihiro Miyamoto; Akiyuki Shinbō,Animation; Drama; Fantasy; Horror; Mystery; Thriller,Japan,Japanese,7.9,5423
+tt0111495,Three Colours: Red,1994,Krzysztof Kieślowski,Drama; Mystery; Romance,France; Switzerland; Poland,French,8,117490
+tt0035446,To Be or Not to Be,1942,Ernst Lubitsch,Comedy; Romance; War,United States,English; German; French,8.1,50652
+tt0048452,Ordet,1955,Carl Theodor Dreyer,Drama,Denmark,Danish,8.2,19305
+tt0062873,The Young Girls of Rochefort,1967,Jacques Demy,Comedy; Drama; Musical; Romance,France,French; English,7.7,14195
+tt27503384,Perfect Days,2023,Wim Wenders,Drama,Japan; Germany,Japanese; English,7.9,115052
+tt0154420,The Celebration,1998,Thomas Vinterberg,Drama,Denmark; Sweden,Danish; German; English,8,101338
+tt0041154,Late Spring,1949,Yasujirō Ozu,Comedy; Drama,Japan,Japanese,8.2,22130
+tt0120265,Taste of Cherry,1997,Abbas Kiarostami,Drama,Iran; France,Persian; Kurdish,7.7,45675
+tt0054248,Rocco and His Brothers,1960,Luchino Visconti,Crime; Drama; Sport,Italy; France,Italian,8.2,26313
+tt3612616,Mommy,2014,Xavier Dolan,Drama,Canada,French; English,8,66435
+tt0048473,Pather Panchali,1955,Satyajit Ray,Drama; History,India,Bengali,8.2,42596
+tt0064068,Funeral Parade of Roses,1969,Toshio Matsumoto,Drama,Japan,Japanese; English,7.7,8686
+tt0037558,Brief Encounter,1945,David Lean,Drama; Romance,United Kingdom,English; French,8,49526
+tt8075192,Shoplifters,2018,Hirokazu Koreeda,Crime; Drama; Thriller,Japan,Japanese,7.9,97319
+tt0072890,Dog Day Afternoon,1975,Sidney Lumet,Biography; Crime; Drama; Thriller,United States,English,8,296091
+tt0096288,Landscape in the Mist,1988,Theodoros Angelopoulos,Drama,Greece; France; Italy,Greek,7.9,11583
+tt0072443,The Mirror,1975,Andrei Tarkovsky,Biography; Drama,Soviet Union,Russian; Spanish,7.9,58874
+tt0093191,Wings of Desire,1987,Wim Wenders,Drama; Fantasy; Romance,West Germany; France,German; English; French; Turkish; Hebrew; Spanish; Japanese,7.9,85325
+tt0114787,Underground,1995,Emir Kusturica,Comedy; Drama; Fantasy; War,Federal Republic of Yugoslavia; France; Germany; Bulgaria; Czech Republic; Hungary,Serbian; German; French; English; Russian,8,64769
+tt0058083,Fail Safe,1964,Sidney Lumet,Drama; Thriller,United States,English; Russian,8,28642
+tt0206634,Children of Men,2006,Alfonso Cuarón,Drama; Sci-Fi; Thriller,United States; United Kingdom; Japan,English; German; Italian; Romanian; Spanish; Arabic; Georgian; Hebrew; Sanskrit; Russian; Serbian,7.9,575058
+tt28479262,Sing Sing,2023,Greg Kwedar,Drama,United States,English,7.6,31304
+tt1865505,Song of the Sea,2014,Tomm Moore,Animation; Adventure; Drama; Family; Fantasy,Ireland; Denmark; Belgium; France; Luxembourg,English; Irish Gaelic,8,69368
+tt0432283,Fantastic Mr. Fox,2009,Wes Anderson,Animation; Adventure; Comedy; Crime; Drama; Family,United States; United Kingdom,English; French,7.9,313495
+tt0092048,Tampopo,1985,Jūzō Itami,Comedy,Japan,Japanese,7.9,27720
+tt0104797,Malcolm X,1992,Spike Lee,Biography; Drama; History,United States; Japan,English; Arabic,7.7,113149
+tt0063633,The Cremator,1969,Juraj Herz,Comedy; Crime; Drama; Horror; Mystery,Czechoslovakia,Czech; Hebrew,8,13449
+tt2458948,Evangelion: 3.0+1.01 Thrice Upon a Time,2021,Hideaki Anno; Mahiro Maeda; Katsuichi Nakayama,Animation; Action; Drama; Sci-Fi,Japan,Japanese,8,19202
+tt0105888,Life and Nothing More...,1992,Abbas Kiarostami,Adventure; Drama,Iran,Persian,7.8,9519
+tt0061847,Samurai Rebellion,1967,Masaki Kobayashi,Drama,Japan,Japanese,8.3,15998
+tt0249241,Werckmeister Harmonies,2000,Béla Tarr; Ágnes Hranitzky,Drama; Mystery,Hungary; Italy; Germany; France,Hungarian; Slovak,7.9,18568
+tt0071411,Dersu Uzala,1975,Akira Kurosawa,Adventure; Biography; Drama,Soviet Union; Japan,Russian; Chinese,8.2,37117
+tt0117589,Secrets & Lies,1996,Mike Leigh,Comedy; Drama,United Kingdom; France,English,8,51190
+tt0053198,The 400 Blows,1959,François Truffaut,Crime; Drama,France,French; English,8,135990
+tt0460791,The Fall,2006,Tarsem Singh,Adventure; Drama; Fantasy,United States; South Africa; India,English; Romanian; Latin,7.8,132810
+tt31711040,Look Back,2024,Kiyotaka Oshiyama,Animation; Drama,Japan; United States,Japanese,7.8,25101
+tt0368667,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,2003,Daisuke Nishio; Hirotoshi Rissen; Kazuhisa Takenouchi,Animation; Adventure; Music; Sci-Fi,Japan; France; Philippines,English,7.8,18102
+tt0269856,Ritual,2000,Hideaki Anno,Drama,Japan,Japanese,7.5,3489
+tt0079672,Opening Night,1977,John Cassavetes,Drama,United States,English,7.8,14457
+tt0123948,Cure,1997,Kiyoshi Kurosawa,Crime; Horror; Mystery; Thriller,Japan,Japanese; Spanish,7.5,42801
+tt0037674,Children of Paradise,1945,Marcel Carné,Drama; Romance,France,French,8.3,22871
+tt0056217,The Man Who Shot Liberty Valance,1962,John Ford,Drama; Western,United States,English,8.1,90257
+tt0066993,The Devils,1971,Ken Russell,Biography; Drama; History,United Kingdom,English; Latin,7.8,26669
+tt5084198,Kizumonogatari Part 3: Reiketsu,2017,Tatsuya Oishi; Akiyuki Shinbō,Animation; Action; Drama; Fantasy; Horror,Japan,Japanese,7.9,4740
+tt0091670,The Sacrifice,1986,Andrei Tarkovsky,Drama,Sweden; France; United Kingdom,Swedish; Icelandic,7.8,35907
+tt0043338,Ace in the Hole,1951,Billy Wilder,Drama; Film-Noir,United States,English; Spanish; Latin,8,43429
+tt0094625,Akira,1988,Katsuhiro Ōtomo,Animation; Action; Drama; Fantasy; Sci-Fi,Japan,Japanese,8,234023
+tt0076740,Sorcerer,1977,William Friedkin,Adventure; Drama; Thriller,United States; Mexico,English; Spanish; French; German,7.7,38424
+tt0075793,We All Loved Each Other So Much,1974,Ettore Scola,Comedy; Drama,Italy,Italian,8,9169
+tt0109424,Chungking Express,1994,Wong Kar-Wai,Comedy; Crime; Drama; Mystery; Romance,Hong Kong,Cantonese; Mandarin,7.9,115115
+tt0061184,Who's Afraid of Virginia Woolf?,1966,Mike Nichols,Drama,United States,English; Latin; Spanish,8,84126
+tt0416220,Kamikaze Girls,2004,Tetsuya Nakashima,Comedy,Japan,Japanese; French; English,7.2,9485
+tt0038733,A Matter of Life and Death,1946,Michael Powell; Emeric Pressburger,Drama; Fantasy; Romance; War,United Kingdom,English; French; Russian,8,28537
+tt14849194,The Holdovers,2023,Alexander Payne,Comedy; Drama,United States,English,7.9,276358
+tt2576852,The Tale of the Princess Kaguya,2013,Isao Takahata,Animation; Drama; Family; Fantasy; Romance,Japan,Japanese,8,63655
+tt0388473,Tokyo Godfathers,2003,Satoshi Kon; Shōgo Furuya,Animation; Adventure; Comedy; Drama,Japan,Japanese; Spanish; English,7.8,56277
+tt0054130,The Night,1961,Michelangelo Antonioni,Drama,Italy; France,Italian; English; French,7.9,27156
+tt0074958,Network,1976,Sidney Lumet,Drama,United States,English,8,188854
+tt0050613,Throne of Blood,1957,Akira Kurosawa,Drama,Japan,Japanese,8,61311
+tt0048021,Rififi,1955,Jules Dassin,Crime; Drama; Thriller,France,French; Italian,8.1,39922
+tt0048956,The Unvanquished,1956,Satyajit Ray,Drama,India,Bengali,8.2,20539
+tt0073198,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,Chantal Akerman,Drama,Belgium; France,French,7.5,18079
+tt9586294,Better Days,2019,Derek Tsang,Crime; Drama; Romance; Thriller,China; Hong Kong; United Kingdom,Mandarin; English,7.6,17797
+tt0166924,Mulholland Drive,2001,David Lynch,Drama; Mystery; Thriller,France; United States,English; Spanish; French,7.9,437295
+tt0086022,Nostalgia,1983,Andrei Tarkovsky,Drama,Italy; Soviet Union,Italian; Russian,7.9,33872
+tt0056801,8½,1963,Federico Fellini,Drama,Italy; France,Italian; French; English; German,8,134311
+tt15242330,The First Slam Dunk,2022,Takehiko Inoue,Animation; Comedy; Drama; Sport,Japan,Japanese,8,13513
+tt0053779,La dolce vita,1960,Federico Fellini,Comedy; Drama,Italy; France,Italian; English; French; German,8,86983
+tt1032846,"4 Months, 3 Weeks and 2 Days",2007,Cristian Mungiu,Drama,Romania; Netherlands,Romanian,7.9,66852
+tt0048424,The Night of the Hunter,1955,Charles Laughton,Crime; Drama; Thriller,United States,English,7.9,110348
+tt5198068,Wolfwalkers,2020,Tomm Moore; Ross Stewart,Animation; Action; Adventure; Drama; Family; Fantasy; Thriller,Ireland; Luxembourg; France; China; United States,English; Irish Gaelic,8,46750
+tt0117214,A Moment of Innocence,1996,Mohsen Makhmalbaf,Comedy; Drama,Iran; France,Persian,7.7,5376
+tt0046478,Ugetsu,1953,Kenji Mizoguchi,Drama; Fantasy; War,Japan,Japanese,8.1,28756
+tt0056512,The Easy Life,1962,Dino Risi,Adventure; Comedy; Drama,Italy,Italian; Latin; German; English; Arabic,8.2,14902
+tt0061065,The Face of Another,1966,Hiroshi Teshigahara,Drama; Sci-Fi; Thriller,Japan,Japanese; German,7.8,12457
+tt5959980,Vada Chennai,2018,Vetrimaaran,Action; Crime; Drama; Thriller,India,Tamil,8.4,25135
+tt26758372,Meiyazhagan,2024,C. Prem Kumar,Drama; Family,India,Tamil,8.5,25139
+tt0052561,Anatomy of a Murder,1959,Otto Preminger,Drama; Mystery,United States,English,8,79387
+tt15339456,Marcel the Shell with Shoes On,2021,Dean Fleischer Camp,Animation; Comedy; Drama; Family; Fantasy,United States,English,7.6,34713
+tt8633462,"Quo Vadis, Aida?",2020,Jasmila Zbanic,Drama; History; War,Bosnia and Herzegovina; Austria; Romania; Netherlands; Germany; Poland; France; Turkey; Norway; Croatia; Sweden; Montenegro; Italy; United States; Serbia,Serbo-Croatian; Bosnian; English; Dutch; Serbian,8,42639
+tt0100998,Dreams,1990,Akira Kurosawa; Ishirō Honda,Drama; Fantasy,Japan; United States,Japanese; French; English,7.7,33608
+tt0054042,Macario,1960,Roberto Gavaldón,Drama; Fantasy; Mystery,Mexico,Spanish,8.3,5484
+tt0085794,The King of Comedy,1982,Martin Scorsese,Comedy; Crime; Drama; Thriller,United States,English,7.8,136594
+tt0291350,Millennium Actress,2001,Satoshi Kon,Animation; Drama; Fantasy; Romance,Japan,Japanese; English,7.8,37916
+tt0045274,Umberto D.,1952,Vittorio De Sica,Drama,Italy,Italian,8.1,31196
+tt0424227,Turtles Can Fly,2004,Bahman Ghobadi,Drama; War,Iran; France; Iraq,Kurdish; Arabic; English,8,23186
+tt1602620,Amour,2012,Michael Haneke,Drama,France; Germany; Austria,French; English,7.9,111684
+tt0051036,Sweet Smell of Success,1957,Alexander Mackendrick,Drama; Film-Noir,United States,English; Italian; Spanish,8,41000
+tt6878038,A Taxi Driver,2017,Hun Jang,Action; Drama; History,South Korea,Korean; English; Japanese; German,7.9,39707
+tt0064541,Kes,1969,Ken Loach,Drama; Family,United Kingdom,English,7.9,27024
+tt0260991,Joint Security Area,2000,Park Chan-wook,Action; Drama; Thriller; War,South Korea,Korean; English; German,7.7,39943
+tt0119250,Fireworks,1997,Takeshi Kitano,Crime; Drama; Romance; Thriller,Japan,Japanese,7.7,36156
+tt6710474,Everything Everywhere All at Once,2022,Daniel Kwan; Daniel Scheinert,Action; Adventure; Comedy; Drama; Fantasy; Sci-Fi,United States,English; Mandarin; Cantonese,7.7,666361
+tt3153634,Hope,2013,Lee Joon-ik,Drama,South Korea,Korean,8.2,12731
+tt0175880,Magnolia,1999,Paul Thomas Anderson,Drama,United States,English; German; French,8,355791
+tt0073363,Manila in the Claws of Light,1975,Lino Brocka,Drama; Mystery,Philippines,Filipino; Tagalog; English,7.8,3396
+tt0036112,The Life and Death of Colonel Blimp,1943,Michael Powell; Emeric Pressburger,Drama; Romance; War,United Kingdom,English; French; German,8,18611
+tt1287878,Poetry,2010,Lee Chang-dong,Drama,South Korea; France,Korean,7.8,15309
+tt0103074,Thelma & Louise,1991,Ridley Scott,Adventure; Crime; Drama,United States; United Kingdom; France,English,7.6,198469
+tt0083931,Son of the White Mare,1981,Marcell Jankovics,Animation; Adventure; Drama; Fantasy; Romance,Hungary,Hungarian,7.8,4066
+tt0057358,Winter Light,1963,Ingmar Bergman,Drama,Sweden,Swedish,8,30084
+tt0808417,Persepolis,2007,Vincent Paronnaud; Marjane Satrapi,Animation; Biography; Drama; History; War,France; United States,French; English; Persian; German,8,107517
+tt0110081,To Live,1994,Yimou Zhang,Drama; War,Hong Kong; China,Mandarin,8.3,22852
+tt0370986,Mysterious Skin,2004,Gregg Araki,Drama,United States; Netherlands,English,7.6,87566
+tt0080979,Kagemusha,1980,Akira Kurosawa,Drama; History; War,Japan; United States,Japanese,7.9,41581
+tt0168629,Dancer in the Dark,2000,Lars von Trier,Crime; Drama; Musical,Denmark; Germany; Netherlands; Italy; United States; United Kingdom; France; Sweden; Finland; Iceland; Belgium; Norway,English; German; Czech,7.9,125760
+tt0058279,Kwaidan,1964,Masaki Kobayashi,Drama; Fantasy; Horror,Japan,Japanese,7.9,23719
+tt0449059,Little Miss Sunshine,2006,Jonathan Dayton; Valerie Faris,Comedy; Drama,United States,English,7.8,568898
+tt44090278,Baththa,2026,Balaji Tharaneetharan,Action; Comedy; Drama; Thriller,India,Tamil; Telugu,8.5,13670
+tt0065088,"They Shoot Horses, Don't They?",1969,Sydney Pollack,Drama,United States,English,7.8,22270
+tt0439123,Azur & Asmar: The Princes' Quest,2006,Ian McIntyre; Michel Ocelot,Animation; Adventure; Family; Fantasy,France; Belgium; Spain; Italy,Arabic; French,7.3,4404
+tt0101318,The Lovers on the Bridge,1991,Leos Carax,Drama; Romance,France,French,7.6,17805
+tt0069293,Solaris,1972,Andrei Tarkovsky,Adventure; Drama; Mystery; Sci-Fi,Soviet Union,Russian; German,7.9,105782
+tt5363618,Sound of Metal,2019,Darius Marder,Drama; Music,United States,English; American Sign Language; French,7.7,190433
+tt30476486,Haikyuu!! The Dumpster Battle,2024,Susumu Mitsunaka,Animation; Comedy; Drama; Sport,Japan,Japanese,7.8,8858
+tt30476518,Big World,2024,Lina Yang,Drama; Family,China,Mandarin,7.6,3708
+tt4285496,Embrace of the Serpent,2015,Ciro Guerra,Adventure; Biography; Drama,Colombia; Mexico; Venezuela; Argentina; Spain; Netherlands,Spanish; Portuguese; Aboriginal; German; Catalan; Latin; English,7.8,26224
+tt0097223,Time of the Gypsies,1988,Emir Kusturica,Comedy; Crime; Drama; Fantasy,Yugoslavia; Italy; United Kingdom,Romany; Serbo-Croatian; Italian; English; German; Macedonian; Slovenian,8.1,34973
+tt0042804,Los Olvidados,1950,Luis Buñuel,Crime; Drama,Mexico,Spanish,8.2,24117
+tt0062229,Le Samouraï,1967,Jean-Pierre Melville,Crime; Drama; Thriller,France; Italy,French,8,67828
+tt36834996,All of a Sudden,2026,Ryūsuke Hamaguchi,Drama,France; Japan; Germany; Belgium,French; Japanese; English,8,1926
+tt0056444,An Autumn Afternoon,1962,Yasujirō Ozu,Drama,Japan,Japanese,8,12340
+tt8413338,Kumbalangi Nights,2019,Madhu C. Narayanan,Comedy; Drama; Romance,India,Malayalam,8.5,22555
+tt0118845,Happy Together,1997,Wong Kar-Wai,Drama; Romance,Hong Kong; South Korea; Japan,Cantonese; Spanish; English; Mandarin,7.6,39176
+tt19770238,Aftersun,2022,Charlotte Wells,Drama,United Kingdom; United States; Turkey; Philippines; Netherlands,English; Turkish; Spanish,7.6,135218
+tt0054743,The Children's Hour,1961,William Wyler,Drama; Romance,United States,English; French,7.8,21513
+tt1149362,The White Ribbon,2009,Michael Haneke,Drama; Mystery; Thriller,Germany; Austria; France; Italy; Canada,German; Italian; Polish; Latin,7.8,82447
+tt0413893,The Taste of Tea,2004,Katsuhito Ishii,Comedy; Fantasy,Japan,Japanese,7.6,8222
+tt14039582,Drive My Car,2021,Ryūsuke Hamaguchi,Drama,Japan,Japanese; English; Korean Sign Language; Korean; Mandarin; Tagalog; Indonesian; German; Malay,7.5,78710
+tt0468795,Linda Linda Linda,2005,Nobuhiro Yamashita,Comedy; Drama; Music,Japan,Japanese,7.5,6724
+tt0063522,Rosemary's Baby,1968,Roman Polanski,Drama; Horror,United States,English,8,263256
+tt0063611,Shame,1968,Ingmar Bergman,Drama,Sweden,Swedish,8,16847
+tt8178634,RRR,2022,S.S. Rajamouli,Action; Adventure; Drama,India,Telugu,7.8,228881
+tt0065531,The Red Circle,1970,Jean-Pierre Melville,Crime; Drama; Thriller,France; Italy,French,7.9,32501
+tt0117905,Comrades: Almost a Love Story,1996,Peter Ho-Sun Chan,Drama; Romance,Hong Kong,Cantonese; Mandarin; English,8.1,9351
+tt0046250,Roman Holiday,1953,William Wyler,Comedy; Drama; Romance,United States,English; Italian; German,8,159603
+tt6335734,"Night Is Short, Walk on Girl",2017,Masaaki Yuasa,Animation; Adventure; Comedy; Family; Fantasy; Romance,Japan,Japanese,7.5,7665
+tt0245574,Y tu mamá también,2001,Alfonso Cuarón,Drama,Mexico,Spanish,7.7,143712
+tt0065889,Investigation of a Citizen Above Suspicion,1970,Elio Petri,Crime; Drama,Italy,Italian,8,16039
+tt0118749,Boogie Nights,1997,Paul Thomas Anderson,Drama,United States,English,7.9,311513
+tt0067328,The Last Picture Show,1971,Peter Bogdanovich,Drama; Romance,United States,English,8,57941
+tt35522483,Nirvanna the Band the Show the Movie,2025,Matt Johnson,Adventure; Comedy; Sci-Fi,Canada,English,7.6,14978
+tt0092593,Au Revoir Les Enfants,1987,Louis Malle,Drama; War,France; West Germany; Italy,French; German; English; Greek; Latin,8,39137
+tt0087544,Nausicaä of the Valley of the Wind,1984,Hayao Miyazaki,Animation; Adventure; Sci-Fi,Japan,Japanese,8,200336
+tt0327597,Coraline,2009,Henry Selick,Animation; Drama; Family; Fantasy,United States; Canada; United Kingdom,English; Russian,7.8,314200
+tt0050371,A Face in the Crowd,1957,Elia Kazan,Drama; Music,United States,English,8.1,19713
+tt0166896,The Straight Story,1999,David Lynch,Biography; Drama,United Kingdom; France; United States,English,8,110631
+tt2331143,"Like Father, Like Son",2013,Hirokazu Koreeda,Drama,Japan,Japanese,7.8,31542
+tt0216651,Vampire Hunter D: Bloodlust,2000,Yoshiaki Kawajiri,Animation; Action; Drama; Fantasy; Horror; Romance; Sci-Fi,Japan; Hong Kong; United States,English,7.7,42902
+tt0104684,Hard Boiled,1992,John Woo,Action; Crime; Thriller,Hong Kong,Cantonese; English,7.7,61188
+tt0074360,Cría Cuervos,1976,Carlos Saura,Drama,Spain,Spanish,7.9,12757
+tt19719976,Joyland,2022,Saim Sadiq,Comedy; Crime; Drama,Pakistan; United States,Urdu; Punjabi,7.6,8796
+tt0192718,The Man Who Sleeps,1974,Bernard Queysanne; Georges Perec,Drama,France; Tunisia,French,7.8,5951
+tt0056687,What Ever Happened to Baby Jane?,1962,Robert Aldrich,Drama; Horror; Thriller,United States,English,8,68870
+tt14905854,Hamnet,2025,Chloé Zhao,Biography; Drama; History; Romance,United Kingdom; United States,"English; Latin; French; Greek, Ancient (to 1453)",7.8,142162
+tt4975722,Moonlight,2016,Barry Jenkins,Drama,United States,English,7.4,357734
+tt0053134,Good Morning,1959,Yasujirō Ozu,Comedy; Drama; Family,Japan,Japanese; English,7.8,12811
+tt0185125,All About My Mother,1999,Pedro Almodóvar,Comedy; Drama; Romance,Spain; France,Spanish; Catalan,7.8,111127
+tt3281548,Little Women,2019,Greta Gerwig,Drama; Romance,United States,English; French,7.7,290929
+tt1316540,The Turin Horse,2011,Béla Tarr; Ágnes Hranitzky,Drama,Hungary; France; Germany; Switzerland,Hungarian; German,7.7,21919
+tt0065571,The Conformist,1970,Bernardo Bertolucci,Drama,Italy; France; West Germany,Italian; French; Latin; Chinese,7.9,39984
+tt0090163,Threads,1984,Mick Jackson,Drama; Sci-Fi; Thriller,United Kingdom; Australia,English,7.9,29035
+tt0113824,Whisper of the Heart,1995,Yoshifumi Kondō,Animation; Drama; Family; Romance,Japan,Japanese,7.8,85591
+tt0028950,La Grande Illusion,1937,Jean Renoir,Drama; War,France,French; German; English; Russian,8,41551
+tt0056111,Ivan's Childhood,1962,Andrei Tarkovsky; Eduard Abalov,Drama; War,Soviet Union,Russian; German,8,44340
+tt2321405,My Life as a Courgette,2016,Claude Barras,Animation; Comedy; Drama,Switzerland; France; United Kingdom,French,7.8,33739
+tt0046911,Les Diaboliques,1955,Henri-Georges Clouzot,Crime; Drama; Horror; Mystery; Thriller,France,French; English,8.1,74304
+tt0074119,All the President's Men,1976,Alan J. Pakula,Drama; History; Thriller,United States,English; Spanish,7.9,140289
+tt0938341,Tokyo Sonata,2008,Kiyoshi Kurosawa,Drama,Japan; Netherlands; Hong Kong,Japanese,7.6,14180
+tt0245712,Amores Perros,2000,Alejandro G. Iñárritu,Drama; Thriller,Mexico,Spanish,8,274146
+tt0062136,Playtime,1967,Jacques Tati,Comedy,France; Italy,French; English; German,7.8,30463
+tt2758880,Winter Sleep,2014,Nuri Bilge Ceylan,Drama,Turkey; France; Germany; Japan,Turkish; English,8,60076
+tt1816518,Ernest & Celestine,2012,Stéphane Aubier; Vincent Patar; Benjamin Renner,Animation; Adventure; Comedy; Crime; Drama; Family; Fantasy,France; Belgium; Luxembourg,French; English,7.8,24844
+tt0070334,The Long Goodbye,1973,Robert Altman,Comedy; Crime; Drama; Mystery; Thriller,United States,English; Spanish,7.5,45615
+tt0025316,It Happened One Night,1934,Frank Capra,Comedy; Romance,United States,English,8.1,121059
+tt0082912,Pixote,1980,Hector Babenco,Crime; Drama,Brazil,Portuguese; English,7.9,11275
+tt0452039,Mind Game,2004,Kōji Morimoto; Masaaki Yuasa,Animation; Adventure; Comedy; Drama; Mystery; Romance,Japan,Japanese,7.7,12426
+tt15737898,Blue Giant,2023,Yuzuru Tachikawa,Animation; Drama; Music,Japan,Japanese,7.8,3815
+tt0300140,Lilya 4-Ever,2002,Lukas Moodysson,Crime; Drama,Sweden; Denmark,Russian; Swedish; English; Polish,7.8,56933
+tt0020629,All Quiet on the Western Front,1930,Lewis Milestone,Drama; War,United States,English; French; German; Latin,8.1,73116
+tt1235166,A Prophet,2009,Jacques Audiard,Crime; Drama,France; Italy,French; Arabic; Corsican,7.8,108738
+tt0276919,Dogville,2003,Lars von Trier,Crime; Drama,Denmark; Netherlands; Sweden; Germany; United Kingdom; France; Finland; Norway; Italy,English; French,8,169664
+tt0033045,The Shop Around the Corner,1940,Ernst Lubitsch,Comedy; Drama; Romance,United States,English,8,45085
+tt0068327,Cabaret,1972,Bob Fosse,Drama; Music; Musical; Romance,United States,English; German; Hebrew; French,7.8,64769
+tt2070649,Silenced,2011,Hwang Dong-hyuk,Crime; Drama; Thriller,South Korea,Korean; Korean Sign Language,8,28855
+tt23770030,Memoir of a Snail,2024,Adam Elliot,Animation; Drama,Australia,English; French,7.8,27360
+tt0120762,Mulan,1998,Tony Bancroft; Barry Cook,Animation; Adventure; Comedy; Family; Fantasy; Musical; War,United States,English; Mandarin,7.7,352994
+tt0032551,The Grapes of Wrath,1940,John Ford,Drama,United States,English,8.1,107992
+tt0071381,Celine and Julie Go Boating,1974,Jacques Rivette,Comedy; Drama; Fantasy; Mystery,France,French,7.2,7281
+tt0070460,Day for Night,1973,François Truffaut,Comedy; Drama; Romance,France; Italy,French; English; Italian,8,26822
+tt0293007,Carandiru,2003,Hector Babenco,Crime; Drama,Brazil; Argentina; Italy,Portuguese,7.6,25475
+tt0097108,"The Cook, the Thief, His Wife & Her Lover",1989,Peter Greenaway,Crime; Drama,United Kingdom; France; Netherlands,English; French; Dutch,7.5,45777
+tt0042593,In a Lonely Place,1950,Nicholas Ray,Drama; Film-Noir; Mystery; Romance; Thriller,United States,English,7.9,40132
+tt0069467,Cries & Whispers,1972,Ingmar Bergman,Drama,Sweden,Swedish; German; Danish,7.9,40487
+tt0055852,Cleo from 5 to 7,1962,Agnès Varda,Comedy; Drama; Music,France; Italy,French,7.8,32644
+tt1216496,Mother,2009,Bong Joon Ho,Crime; Drama; Mystery; Thriller,South Korea,Korean,7.7,82361
+tt0271383,A Dog's Will,2000,Guel Arraes,Comedy; Drama; Fantasy; Western,Brazil,Portuguese; Latin,8.6,22344
+tt0097202,The Killer,1989,John Woo,Action; Crime; Drama; Thriller,Hong Kong,Cantonese; Mandarin; Japanese; English,7.7,56555
+tt0071141,Fear Eats the Soul,1974,Rainer Werner Fassbinder,Drama; Romance,West Germany,German; Arabic,8,26501
+tt2370248,Short Term 12,2013,Destin Daniel Cretton,Drama,United States,English; Spanish,7.9,96449
+tt0052311,Touch of Evil,1958,Orson Welles,Crime; Drama; Film-Noir; Thriller,United States,English; Spanish,7.9,116172
+tt0297721,All About Lily Chou-Chou,2001,Shunji Iwai,Crime; Drama; Music; Romance; Thriller,Japan,Japanese; Ryukyuan,7.5,14814
+tt0114682,"To Wong Foo, Thanks for Everything! Julie Newmar",1995,Beeban Kidron,Comedy; Drama,United States,English; French; Italian,6.9,43042
+tt0064115,Butch Cassidy and the Sundance Kid,1969,George Roy Hill,Adventure; Biography; Crime; Drama; Western,United States,English; Spanish,8,240514
+tt1813757,Who Killed Captain Alex?,2010,Nabwana I.G.G.,Action; Comedy; Crime; Mystery,Uganda,English; Swahili,7.7,12157
+tt0947798,Black Swan,2010,Darren Aronofsky,Drama; Thriller,United States,English; French; Italian,8,901725
+tt0018455,Sunrise: A Song of Two Humans,1927,F.W. Murnau,Drama; Romance,United States,None; English,8.1,57358
+tt0111845,Through the Olive Trees,1994,Abbas Kiarostami,Drama,Iran; France,Persian,7.7,12308
+tt3499048,Güeros,2014,Alonso Ruizpalacios,Comedy; Drama,Mexico,Spanish,7.5,6078
+tt0106489,A Bronx Tale,1993,Robert De Niro,Crime; Drama,United States,English; Italian,7.8,192384
+tt0038890,"Rome, Open City",1945,Roberto Rossellini,Drama; Thriller; War,Italy,Italian; German; Latin,8,34686
+tt0087644,Love Streams,1984,John Cassavetes,Drama,United States,English; French; Spanish,7.6,7623
+tt0091830,The Green Ray,1986,Éric Rohmer,Drama; Romance,France,French; English; Spanish; German,7.6,12379
+tt5776858,Phantom Thread,2017,Paul Thomas Anderson,Drama; Romance,China; United States,English; French,7.4,165265
+tt0374546,"Spring, Summer, Fall, Winter... And Spring",2003,Kim Ki-duk,Drama; Romance,South Korea; Germany,Korean,8,91904
+tt0057058,Le Feu Follet,1963,Louis Malle,Drama,France,French,7.8,11896
+tt0388795,Brokeback Mountain,2005,Ang Lee,Drama; Romance,Canada; United States,English; Spanish,7.7,423958
+tt0053221,Rio Bravo,1959,Howard Hawks,Western,United States,English; Spanish,7.9,74864
+tt37803364,Possible Love,2026,Lee Chang-dong,Drama; Romance,South Korea; United States,Korean,7.7,3708
+tt0036244,The Ox-Bow Incident,1943,William A. Wellman,Drama; Western,United States,English; Spanish,8,27739
+tt0061512,Cool Hand Luke,1967,Stuart Rosenberg,Crime; Drama,United States,English,8,197911
+tt3169706,Pride,2014,Matthew Warchus,Biography; Comedy; Drama; History; Romance,United Kingdom; France; United States,English; Welsh,7.8,66058
+tt36639956,Iron Boy,2026,Louis Clichy,Animation; Drama; Family,France; Belgium,French,8,650
+tt0084503,Pink Floyd: The Wall,1982,Alan Parker,Drama; Fantasy; Music,United Kingdom,English; German,8,90998
+tt0047528,La Strada,1954,Federico Fellini,Drama,Italy,Italian,8,70762
+tt16277242,Society of the Snow,2023,J.A. Bayona,Adventure; Biography; Drama; History; Thriller,Spain,Spanish,7.8,179762
+tt0165078,After Life,1998,Hirokazu Koreeda,Drama; Fantasy,Japan,Japanese,7.6,16163
+tt3966404,Mustang,2015,Deniz Gamze Ergüven,Drama,Turkey; France; Germany; Qatar,Turkish,7.6,43566
+tt35695538,My Father's Shadow,2025,Akinola Davies,Drama,United Kingdom; Nigeria; Ireland,English; Yoruba,7.3,2888
+tt0112913,Fallen Angels,1995,Wong Kar-Wai,Comedy; Crime; Drama; Romance,Hong Kong,Cantonese; Mandarin; Min Nan; Japanese; English,7.5,62016
+tt3742378,The Second Mother,2015,Anna Muylaert,Comedy; Drama,Brazil,Portuguese; English,7.8,19829
+tt38915678,Dorothy,2026,Karthik Subbaraj,Action; Adventure; Crime; Drama; Romance,India,Tamil; Telugu; Hindi; Kannada; Malayalam,7.7,6023
+tt3278224,I Dream in Another Language,2017,Ernesto Contreras,Drama; Fantasy; Romance,Mexico; Netherlands,Spanish; English,7.4,4748
+tt0376968,The Return,2003,Andrey Zvyagintsev,Drama,Russia,Russian,7.9,50149
+tt13238346,Past Lives,2023,Celine Song,Drama; Romance,United States; South Korea,Korean; English; Mandarin; French,7.8,180158
+tt0071994,Phantom of the Paradise,1974,Brian De Palma,Comedy; Drama; Fantasy; Horror; Music; Romance; Thriller,United States,English,7.3,27103
+tt0073440,Nashville,1975,Robert Altman,Comedy; Drama; Music,United States,English,7.6,32081
+tt0113703,Love Letter,1995,Shunji Iwai,Drama; Romance,Japan,Japanese,7.9,13839
+tt0053976,The Virgin Spring,1960,Ingmar Bergman,Drama,Sweden,Swedish; German,8,34314
+tt0063032,The Great Silence,1968,Sergio Corbucci,Drama; Western,Italy; France,Italian,7.7,21042
+tt0383028,"Synecdoche, New York",2008,Charlie Kaufman,Drama,United States,English; German,7.5,106433
+tt0304141,Harry Potter and the Prisoner of Azkaban,2004,Alfonso Cuarón,Adventure; Family; Fantasy; Mystery,United Kingdom; United States,English; Latin; Old English,8,784636
+tt15799564,Wild Horse Nine,2026,Martin McDonagh,Action; Comedy; Crime; Drama; Thriller,United Kingdom; United States; Chile,English; Spanish,8.1,14371
+tt27714581,Sentimental Value,2025,Joachim Trier,Drama,Norway; Germany; Denmark; France; Sweden; United Kingdom; Turkey; Italy,Norwegian; English; French; Danish,7.7,93445
+tt0064665,Midnight Cowboy,1969,John Schlesinger,Drama,United States,English; Italian,7.8,133456
+tt0067633,Punishment Park,1971,Peter Watkins,Drama; Thriller,United States; United Kingdom,English,7.7,8779
+tt1483797,Redline,2009,Takeshi Koike,Animation; Action; Sci-Fi; Sport,Japan,Japanese; English,7.5,21933
+tt0058985,Happiness,1965,Agnès Varda,Drama; Romance,France,French,7.6,12293
+tt0070040,The Spirit of the Beehive,1973,Víctor Erice,Drama; Fantasy,Spain,Spanish,7.7,23170
+tt0097814,Kiki's Delivery Service,1989,Hayao Miyazaki,Animation; Family; Fantasy,Japan,Japanese,7.8,193702
+tt0414387,Pride & Prejudice,2005,Joe Wright,Drama; Romance,United Kingdom; France; United States,English,7.8,385913
+tt0051808,The Hidden Fortress,1958,Akira Kurosawa,Adventure; Drama,Japan,Japanese,8,46648
+tt21800162,There's Still Tomorrow,2023,Paola Cortellesi,Comedy; Drama; History,Italy,Italian; English,7.7,19171
+tt0111797,Eat Drink Man Woman,1994,Ang Lee,Comedy; Drama; Romance,Taiwan; United States,Mandarin; French,7.8,25726
+tt0060955,Seconds,1966,John Frankenheimer,Sci-Fi; Thriller,United States,English,7.6,24324
+tt0058450,The Umbrellas of Cherbourg,1964,Jacques Demy,Drama; Musical; Romance,France; West Germany,French; English,7.8,35941
+tt0064612,My Night at Maud's,1969,Éric Rohmer,Comedy; Drama; Romance,France,French,7.8,16387
+tt0060277,The Sword of Doom,1966,Kihachi Okamoto,Action; Drama; Thriller,Japan,Japanese,7.9,13509
+tt2543164,Arrival,2016,Denis Villeneuve,Drama; Mystery; Sci-Fi,Canada; United States,English; Mandarin; Russian,7.9,886605
+tt0249462,Billy Elliot,2000,Stephen Daldry,Drama; Music,United Kingdom; France,English,7.7,154583
+tt0056732,The Exterminating Angel,1962,Luis Buñuel,Drama; Fantasy,Mexico,Spanish,7.9,38742
+tt0229664,Princes et princesses,2000,Michel Ocelot,Animation; Comedy; Family; Romance; Sci-Fi,France,French,7.6,2773
+tt0069687,Alice in the Cities,1974,Wim Wenders,Drama,West Germany,German; English; Dutch,7.8,15538
+tt0055499,Through a Glass Darkly,1961,Ingmar Bergman,Drama,Sweden,Swedish; Latin,7.9,29926
+tt0040746,Rope,1948,Alfred Hitchcock,Crime; Drama; Mystery; Thriller,United States,English,7.9,167388
+tt0057091,The Leopard,1963,Luchino Visconti,Drama; History,Italy; France,Italian; Latin; French,7.9,35275
+tt0052893,Hiroshima Mon Amour,1959,Alain Resnais,Drama; Romance,France; Japan,French; Japanese; English,7.8,40127
+tt8173728,The Wolf House,2018,Joaquín Cociña; Cristóbal León,Animation; Drama; Fantasy; Horror,Chile; Germany,Spanish; German,7.4,6477
+tt0056443,Sanjuro,1962,Akira Kurosawa,Action; Drama; Thriller,Japan,Japanese,8,44052
+tt8033592,Us and Them,2018,Rene Liu,Drama; Romance,China,Mandarin,7.4,6654
+tt26903085,Falling in Love Like in Movies,2023,Yandy Laurens,Comedy; Drama; Romance,Indonesia,Indonesian,8.2,2839
+tt0071360,The Conversation,1974,Francis Ford Coppola,Drama; Mystery; Thriller,United States,English,7.7,138559
+tt12818328,Hundreds of Beavers,2022,Mike Cheslik,Action; Adventure; Comedy,United States,English,7.5,18316

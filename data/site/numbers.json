@@ -1,0 +1,2844 @@
+{
+ "meta": {
+  "collected": "2026-11-13",
+  "source": "IMDb Top 250 and Letterboxd's official Top 500 (first 250 used)",
+  "lists": {
+   "imdb": "IMDb Top 250",
+   "lb": "Letterboxd Top 250"
+  }
+ },
+ "n": {
+  "country.coproduction.imdb.n": 98,
+  "country.coproduction.imdb.of": 250,
+  "country.coproduction.imdb.pct": 39,
+  "country.coproduction.lb.n": 92,
+  "country.coproduction.lb.of": 250,
+  "country.coproduction.lb.pct": 37,
+  "country.count.imdb": 23,
+  "country.count.lb": 33,
+  "country.france.imdb.n": 7,
+  "country.france.imdb.of": 250,
+  "country.france.imdb.pct": 3,
+  "country.france.lb.n": 17,
+  "country.france.lb.of": 250,
+  "country.france.lb.pct": 7,
+  "country.germany.imdb.n": 5,
+  "country.germany.imdb.of": 250,
+  "country.germany.imdb.pct": 2,
+  "country.germany.lb.n": 6,
+  "country.germany.lb.of": 250,
+  "country.germany.lb.pct": 2,
+  "country.india.imdb.n": 8,
+  "country.india.imdb.of": 250,
+  "country.india.imdb.pct": 3,
+  "country.india.lb.n": 5,
+  "country.india.lb.of": 250,
+  "country.india.lb.pct": 2,
+  "country.iran.imdb.n": 2,
+  "country.iran.imdb.of": 250,
+  "country.iran.imdb.pct": 1,
+  "country.iran.lb.n": 6,
+  "country.iran.lb.of": 250,
+  "country.iran.lb.pct": 2,
+  "country.italy.imdb.n": 9,
+  "country.italy.imdb.of": 250,
+  "country.italy.imdb.pct": 4,
+  "country.italy.lb.n": 17,
+  "country.italy.lb.of": 250,
+  "country.italy.lb.pct": 7,
+  "country.japan.imdb.n": 19,
+  "country.japan.imdb.of": 250,
+  "country.japan.imdb.pct": 8,
+  "country.japan.lb.n": 48,
+  "country.japan.lb.of": 250,
+  "country.japan.lb.pct": 19,
+  "country.korea.imdb.n": 3,
+  "country.korea.imdb.of": 250,
+  "country.korea.imdb.pct": 1,
+  "country.korea.lb.n": 4,
+  "country.korea.lb.of": 250,
+  "country.korea.lb.pct": 2,
+  "country.rest.imdb.n": 18,
+  "country.rest.imdb.of": 250,
+  "country.rest.imdb.pct": 7,
+  "country.rest.lb.n": 36,
+  "country.rest.lb.of": 250,
+  "country.rest.lb.pct": 14,
+  "country.russia.imdb.n": 1,
+  "country.russia.imdb.of": 250,
+  "country.russia.imdb.pct": 0,
+  "country.russia.lb.n": 7,
+  "country.russia.lb.of": 250,
+  "country.russia.lb.pct": 3,
+  "country.sweden.imdb.n": 2,
+  "country.sweden.imdb.of": 250,
+  "country.sweden.imdb.pct": 1,
+  "country.sweden.lb.n": 6,
+  "country.sweden.lb.of": 250,
+  "country.sweden.lb.pct": 2,
+  "country.top3.imdb.n": 195,
+  "country.top3.imdb.of": 250,
+  "country.top3.imdb.pct": 78,
+  "country.top3.lb.n": 148,
+  "country.top3.lb.of": 250,
+  "country.top3.lb.pct": 59,
+  "country.uk.imdb.n": 31,
+  "country.uk.imdb.of": 250,
+  "country.uk.imdb.pct": 12,
+  "country.uk.lb.n": 15,
+  "country.uk.lb.of": 250,
+  "country.uk.lb.pct": 6,
+  "country.us.imdb.n": 145,
+  "country.us.imdb.of": 250,
+  "country.us.imdb.pct": 58,
+  "country.us.lb.n": 83,
+  "country.us.lb.of": 250,
+  "country.us.lb.pct": 33,
+  "crew.cinematographer.imdb.men": 235,
+  "crew.cinematographer.imdb.pct": 1.7,
+  "crew.cinematographer.imdb.unknown": 12,
+  "crew.cinematographer.imdb.unknown_pct": 5,
+  "crew.cinematographer.imdb.women": 4,
+  "crew.cinematographer.lb.men": 238,
+  "crew.cinematographer.lb.pct": 2.9,
+  "crew.cinematographer.lb.unknown": 23,
+  "crew.cinematographer.lb.unknown_pct": 9,
+  "crew.cinematographer.lb.women": 7,
+  "crew.cinematographer.p": 0.54,
+  "crew.composer.imdb.men": 237,
+  "crew.composer.imdb.pct": 4.4,
+  "crew.composer.imdb.unknown": 9,
+  "crew.composer.imdb.unknown_pct": 4,
+  "crew.composer.imdb.women": 11,
+  "crew.composer.lb.men": 220,
+  "crew.composer.lb.pct": 2.2,
+  "crew.composer.lb.unknown": 21,
+  "crew.composer.lb.unknown_pct": 9,
+  "crew.composer.lb.women": 5,
+  "crew.composer.p": 0.21,
+  "crew.director.imdb.men": 264,
+  "crew.director.imdb.pct": 1.5,
+  "crew.director.imdb.unknown": 1,
+  "crew.director.imdb.unknown_pct": 0,
+  "crew.director.imdb.women": 4,
+  "crew.director.lb.men": 262,
+  "crew.director.lb.pct": 1.9,
+  "crew.director.lb.unknown": 1,
+  "crew.director.lb.unknown_pct": 0,
+  "crew.director.lb.women": 5,
+  "crew.director.p": 0.75,
+  "crew.editor.imdb.men": 245,
+  "crew.editor.imdb.pct": 16.9,
+  "crew.editor.imdb.unknown": 29,
+  "crew.editor.imdb.unknown_pct": 9,
+  "crew.editor.imdb.women": 50,
+  "crew.editor.lb.men": 199,
+  "crew.editor.lb.pct": 21.0,
+  "crew.editor.lb.unknown": 59,
+  "crew.editor.lb.unknown_pct": 19,
+  "crew.editor.lb.women": 53,
+  "crew.editor.p": 0.23,
+  "crew.producer.imdb.men": 341,
+  "crew.producer.imdb.pct": 17.0,
+  "crew.producer.imdb.unknown": 48,
+  "crew.producer.imdb.unknown_pct": 10,
+  "crew.producer.imdb.women": 70,
+  "crew.producer.lb.men": 303,
+  "crew.producer.lb.pct": 14.2,
+  "crew.producer.lb.unknown": 72,
+  "crew.producer.lb.unknown_pct": 17,
+  "crew.producer.lb.women": 50,
+  "crew.producer.p": 0.32,
+  "crew.production_designer.imdb.men": 148,
+  "crew.production_designer.imdb.pct": 11.9,
+  "crew.production_designer.imdb.unknown": 41,
+  "crew.production_designer.imdb.unknown_pct": 20,
+  "crew.production_designer.imdb.women": 20,
+  "crew.production_designer.lb.men": 123,
+  "crew.production_designer.lb.pct": 17.4,
+  "crew.production_designer.lb.unknown": 48,
+  "crew.production_designer.lb.unknown_pct": 24,
+  "crew.production_designer.lb.women": 26,
+  "crew.production_designer.p": 0.2,
+  "crew.writer.imdb.men": 510,
+  "crew.writer.imdb.pct": 8.8,
+  "crew.writer.imdb.unknown": 30,
+  "crew.writer.imdb.unknown_pct": 5,
+  "crew.writer.imdb.women": 49,
+  "crew.writer.lb.men": 482,
+  "crew.writer.lb.pct": 7.7,
+  "crew.writer.lb.unknown": 38,
+  "crew.writer.lb.unknown_pct": 7,
+  "crew.writer.lb.women": 40,
+  "crew.writer.p": 0.58,
+  "decade.1920s.imdb": 6,
+  "decade.1920s.lb": 2,
+  "decade.1930s.imdb": 6,
+  "decade.1930s.lb": 2,
+  "decade.1940s.imdb": 9,
+  "decade.1940s.lb": 13,
+  "decade.1950s.imdb": 21,
+  "decade.1950s.lb": 33,
+  "decade.1960s.imdb": 17,
+  "decade.1960s.lb": 36,
+  "decade.1970s.imdb": 16,
+  "decade.1970s.lb": 24,
+  "decade.1980s.imdb": 26,
+  "decade.1980s.lb": 21,
+  "decade.1990s.imdb": 39,
+  "decade.1990s.lb": 37,
+  "decade.2000s.imdb": 48,
+  "decade.2000s.lb": 36,
+  "decade.2010s.imdb": 44,
+  "decade.2010s.lb": 22,
+  "decade.2020s.imdb": 18,
+  "decade.2020s.lb": 24,
+  "director.abbas_kiarostami.imdb": 0,
+  "director.abbas_kiarostami.lb": 4,
+  "director.akira_kurosawa.imdb": 6,
+  "director.akira_kurosawa.lb": 9,
+  "director.alfred_hitchcock.imdb": 5,
+  "director.alfred_hitchcock.lb": 2,
+  "director.andrei_tarkovsky.imdb": 0,
+  "director.andrei_tarkovsky.lb": 5,
+  "director.billy_wilder.imdb": 5,
+  "director.billy_wilder.lb": 6,
+  "director.charlie_chaplin.imdb": 5,
+  "director.charlie_chaplin.lb": 2,
+  "director.christopher_nolan.imdb": 9,
+  "director.christopher_nolan.lb": 5,
+  "director.hayao_miyazaki.imdb": 4,
+  "director.hayao_miyazaki.lb": 3,
+  "director.hirokazu_koreeda.imdb": 0,
+  "director.hirokazu_koreeda.lb": 4,
+  "director.ingmar_bergman.imdb": 2,
+  "director.ingmar_bergman.lb": 6,
+  "director.lee_unkrich.imdb": 4,
+  "director.lee_unkrich.lb": 0,
+  "director.martin_scorsese.imdb": 7,
+  "director.martin_scorsese.lb": 2,
+  "director.masaki_kobayashi.imdb": 1,
+  "director.masaki_kobayashi.lb": 5,
+  "director.quentin_tarantino.imdb": 6,
+  "director.quentin_tarantino.lb": 2,
+  "director.sergio_leone.imdb": 4,
+  "director.sergio_leone.lb": 3,
+  "director.sidney_lumet.imdb": 1,
+  "director.sidney_lumet.lb": 4,
+  "director.stanley_kubrick.imdb": 7,
+  "director.stanley_kubrick.lb": 3,
+  "director.steven_spielberg.imdb": 7,
+  "director.steven_spielberg.lb": 2,
+  "directors.2plus_on_both": 22,
+  "directors.3plus.imdb": 23,
+  "directors.3plus.lb": 21,
+  "directors.both": 84,
+  "directors.both.share_of.imdb.n": 84,
+  "directors.both.share_of.imdb.of": 181,
+  "directors.both.share_of.imdb.pct": 46,
+  "directors.both.share_of.lb.n": 84,
+  "directors.both.share_of.lb.of": 176,
+  "directors.both.share_of.lb.pct": 48,
+  "directors.distinct.imdb": 181,
+  "directors.distinct.lb": 176,
+  "directors.films_by_repeat.imdb.n": 141,
+  "directors.films_by_repeat.imdb.of": 250,
+  "directors.films_by_repeat.imdb.pct": 56,
+  "directors.films_by_repeat.lb.n": 148,
+  "directors.films_by_repeat.lb.of": 250,
+  "directors.films_by_repeat.lb.pct": 59,
+  "directors.films_by_shared.imdb.n": 159,
+  "directors.films_by_shared.imdb.of": 250,
+  "directors.films_by_shared.imdb.pct": 64,
+  "directors.films_by_shared.lb.n": 139,
+  "directors.films_by_shared.lb.of": 250,
+  "directors.films_by_shared.lb.pct": 56,
+  "directors.imdb_only": 97,
+  "directors.imdb_only.one_film": 84,
+  "directors.lb_only": 92,
+  "directors.lb_only.one_film": 70,
+  "directors.shared_no_common_film": 2,
+  "gender.director_credits.imdb.men": 276,
+  "gender.director_credits.imdb.men_per_woman": 55,
+  "gender.director_credits.imdb.pct": 1.8,
+  "gender.director_credits.imdb.women": 5,
+  "gender.director_credits.lb.men": 263,
+  "gender.director_credits.lb.men_per_woman": 38,
+  "gender.director_credits.lb.pct": 2.6,
+  "gender.director_credits.lb.women": 7,
+  "gender.director_credits.p": 0.57,
+  "gender.director_credits.ratio": 1.46,
+  "gender.director_mismatch_films": 12,
+  "gender.lead_woman.imdb.ci_high": 13.9,
+  "gender.lead_woman.imdb.ci_low": 6.6,
+  "gender.lead_woman.imdb.n": 24,
+  "gender.lead_woman.imdb.of": 249,
+  "gender.lead_woman.imdb.pct": 9.6,
+  "gender.lead_woman.lb.ci_high": 29.2,
+  "gender.lead_woman.lb.ci_low": 18.8,
+  "gender.lead_woman.lb.n": 59,
+  "gender.lead_woman.lb.of": 250,
+  "gender.lead_woman.lb.pct": 23.6,
+  "gender.lead_woman.p_below_0001": 1,
+  "gender.lead_woman.ratio": 2.4,
+  "gender.top3_no_woman.imdb": 91,
+  "gender.top3_no_woman.lb": 73,
+  "gender.top3_two_plus_women.imdb": 31,
+  "gender.top3_two_plus_women.lb": 61,
+  "gender.top3_women.imdb.n": 191,
+  "gender.top3_women.imdb.of": 747,
+  "gender.top3_women.imdb.pct": 25.6,
+  "gender.top3_women.lb.n": 245,
+  "gender.top3_women.lb.of": 748,
+  "gender.top3_women.lb.pct": 32.8,
+  "gender.top3_women.p": 0.003,
+  "gender.woman_director_films.distinct.n": 10,
+  "gender.woman_director_films.distinct.of": 389,
+  "gender.woman_director_films.distinct.pct": 2.6,
+  "gender.woman_director_films.gap_pp": 1.2,
+  "gender.woman_director_films.imdb.ci_high": 4.0,
+  "gender.woman_director_films.imdb.ci_low": 0.6,
+  "gender.woman_director_films.imdb.n": 4,
+  "gender.woman_director_films.imdb.of": 250,
+  "gender.woman_director_films.imdb.pct": 1.6,
+  "gender.woman_director_films.lb.ci_high": 5.7,
+  "gender.woman_director_films.lb.ci_low": 1.4,
+  "gender.woman_director_films.lb.n": 7,
+  "gender.woman_director_films.lb.of": 250,
+  "gender.woman_director_films.lb.pct": 2.8,
+  "gender.woman_director_films.p": 0.54,
+  "gender.woman_director_films.ratio": 1.75,
+  "genre.action.imdb.n": 43,
+  "genre.action.imdb.pct": 17,
+  "genre.action.lb.n": 20,
+  "genre.action.lb.pct": 8,
+  "genre.adventure.imdb.n": 66,
+  "genre.adventure.imdb.pct": 26,
+  "genre.adventure.lb.n": 36,
+  "genre.adventure.lb.pct": 14,
+  "genre.animation.imdb.n": 29,
+  "genre.animation.imdb.pct": 12,
+  "genre.animation.lb.n": 27,
+  "genre.animation.lb.pct": 11,
+  "genre.biography.imdb.n": 27,
+  "genre.biography.imdb.pct": 11,
+  "genre.biography.lb.n": 19,
+  "genre.biography.lb.pct": 8,
+  "genre.comedy.imdb.n": 42,
+  "genre.comedy.imdb.pct": 17,
+  "genre.comedy.lb.n": 38,
+  "genre.comedy.lb.pct": 15,
+  "genre.crime.imdb.n": 54,
+  "genre.crime.imdb.pct": 22,
+  "genre.crime.lb.n": 39,
+  "genre.crime.lb.pct": 16,
+  "genre.drama.imdb.n": 185,
+  "genre.drama.imdb.pct": 74,
+  "genre.drama.lb.n": 223,
+  "genre.drama.lb.pct": 89,
+  "genre.family.imdb.n": 28,
+  "genre.family.imdb.pct": 11,
+  "genre.family.lb.n": 16,
+  "genre.family.lb.pct": 6,
+  "genre.fantasy.imdb.n": 34,
+  "genre.fantasy.imdb.pct": 14,
+  "genre.fantasy.lb.n": 30,
+  "genre.fantasy.lb.pct": 12,
+  "genre.film_noir.imdb.n": 3,
+  "genre.film_noir.imdb.pct": 1,
+  "genre.film_noir.lb.n": 3,
+  "genre.film_noir.lb.pct": 1,
+  "genre.history.imdb.n": 9,
+  "genre.history.imdb.pct": 4,
+  "genre.history.lb.n": 13,
+  "genre.history.lb.pct": 5,
+  "genre.horror.imdb.n": 10,
+  "genre.horror.imdb.pct": 4,
+  "genre.horror.lb.n": 10,
+  "genre.horror.lb.pct": 4,
+  "genre.music.imdb.n": 6,
+  "genre.music.imdb.pct": 2,
+  "genre.music.lb.n": 10,
+  "genre.music.lb.pct": 4,
+  "genre.musical.imdb.n": 5,
+  "genre.musical.imdb.pct": 2,
+  "genre.musical.lb.n": 4,
+  "genre.musical.lb.pct": 2,
+  "genre.mystery.imdb.n": 37,
+  "genre.mystery.imdb.pct": 15,
+  "genre.mystery.lb.n": 33,
+  "genre.mystery.lb.pct": 13,
+  "genre.romance.imdb.n": 26,
+  "genre.romance.imdb.pct": 10,
+  "genre.romance.lb.n": 38,
+  "genre.romance.lb.pct": 15,
+  "genre.sci_fi.imdb.n": 32,
+  "genre.sci_fi.imdb.pct": 13,
+  "genre.sci_fi.lb.n": 21,
+  "genre.sci_fi.lb.pct": 8,
+  "genre.sport.imdb.n": 8,
+  "genre.sport.imdb.pct": 3,
+  "genre.sport.lb.n": 2,
+  "genre.sport.lb.pct": 1,
+  "genre.thriller.imdb.n": 57,
+  "genre.thriller.imdb.pct": 23,
+  "genre.thriller.lb.n": 50,
+  "genre.thriller.lb.pct": 20,
+  "genre.war.imdb.n": 32,
+  "genre.war.imdb.pct": 13,
+  "genre.war.lb.n": 34,
+  "genre.war.lb.pct": 14,
+  "genre.western.imdb.n": 7,
+  "genre.western.imdb.pct": 3,
+  "genre.western.lb.n": 6,
+  "genre.western.lb.pct": 2,
+  "language.count.imdb": 17,
+  "language.count.lb": 25,
+  "language.english.imdb.n": 187,
+  "language.english.imdb.of": 250,
+  "language.english.imdb.pct": 75,
+  "language.english.lb.n": 110,
+  "language.english.lb.of": 250,
+  "language.english.lb.pct": 44,
+  "language.french.imdb.n": 5,
+  "language.french.imdb.of": 250,
+  "language.french.imdb.pct": 2,
+  "language.french.lb.n": 15,
+  "language.french.lb.of": 250,
+  "language.french.lb.pct": 6,
+  "language.japanese.imdb.n": 19,
+  "language.japanese.imdb.of": 250,
+  "language.japanese.imdb.pct": 8,
+  "language.japanese.lb.n": 47,
+  "language.japanese.lb.of": 250,
+  "language.japanese.lb.pct": 19,
+  "language.not_english.imdb.n": 63,
+  "language.not_english.imdb.of": 250,
+  "language.not_english.imdb.pct": 25,
+  "language.not_english.lb.n": 140,
+  "language.not_english.lb.of": 250,
+  "language.not_english.lb.pct": 56,
+  "language.silent.imdb": 6,
+  "language.silent.lb": 3,
+  "lists.size": 250,
+  "overlap.both": 111,
+  "overlap.distinct": 389,
+  "overlap.imdb_only": 139,
+  "overlap.imdb_only.lb251_500": 60,
+  "overlap.imdb_only.not_in_lb500": 79,
+  "overlap.lb_only": 139,
+  "quadrant.rank.both": 73,
+  "quadrant.rank.films": 171,
+  "quadrant.rank.imdb": 28,
+  "quadrant.rank.imdb_line": 125,
+  "quadrant.rank.lb": 38,
+  "quadrant.rank.lb_line": 250,
+  "quadrant.rank.neither": 32,
+  "quadrant.rating.both_high": 111,
+  "quadrant.rating.both_low": 91,
+  "quadrant.rating.imdb_higher": 96,
+  "quadrant.rating.lb_higher": 91,
+  "quiz.us.imdb.n": 145,
+  "quiz.us.imdb.of": 250,
+  "quiz.us.imdb.pct": 58.0,
+  "quiz.us.lb.n": 83,
+  "quiz.us.lb.of": 250,
+  "quiz.us.lb.pct": 33.2,
+  "rating.imdb_mean.imdb": 8.31,
+  "rating.imdb_mean.lb": 8.18,
+  "rating.imdb_median_all": 8.2,
+  "rating.lb_mean.imdb": 8.47,
+  "rating.lb_mean.lb": 8.71,
+  "rating.lb_median_all": 8.56,
+  "runtime.2h_plus.imdb.n": 156,
+  "runtime.2h_plus.imdb.of": 250,
+  "runtime.2h_plus.imdb.pct": 62,
+  "runtime.2h_plus.lb.n": 153,
+  "runtime.2h_plus.lb.of": 250,
+  "runtime.2h_plus.lb.pct": 61,
+  "runtime.3h_plus.imdb": 17,
+  "runtime.3h_plus.lb": 20,
+  "runtime.mean.imdb": 132,
+  "runtime.mean.lb": 131,
+  "runtime.median.imdb": 129.0,
+  "runtime.median.lb": 125.0,
+  "runtime.under90.imdb": 17,
+  "runtime.under90.lb": 20,
+  "search.films": 579,
+  "search.lb251_500_only": 190,
+  "year.before1970.imdb.n": 59,
+  "year.before1970.imdb.of": 250,
+  "year.before1970.imdb.pct": 24,
+  "year.before1970.lb.n": 86,
+  "year.before1970.lb.of": 250,
+  "year.before1970.lb.pct": 34,
+  "year.earliest.imdb": 1921,
+  "year.earliest.lb": 1924,
+  "year.latest.imdb": 2026,
+  "year.latest.lb": 2026,
+  "year.mean.imdb": 1989.6,
+  "year.mean.lb": 1984.8,
+  "year.median.imdb": 1997.0,
+  "year.median.lb": 1987.5,
+  "year.since2000.imdb.n": 110,
+  "year.since2000.imdb.of": 250,
+  "year.since2000.imdb.pct": 44,
+  "year.since2000.lb.n": 82,
+  "year.since2000.lb.of": 250,
+  "year.since2000.lb.pct": 33
+ },
+ "series": {
+  "country": [
+   {
+    "name": "United States",
+    "imdb": 145,
+    "lb": 83,
+    "imdb_pct": 58,
+    "lb_pct": 33,
+    "gap_pp": -24.8
+   },
+   {
+    "name": "Japan",
+    "imdb": 19,
+    "lb": 48,
+    "imdb_pct": 8,
+    "lb_pct": 19,
+    "gap_pp": 11.6
+   },
+   {
+    "name": "United Kingdom",
+    "imdb": 31,
+    "lb": 15,
+    "imdb_pct": 12,
+    "lb_pct": 6,
+    "gap_pp": -6.4
+   },
+   {
+    "name": "Italy",
+    "imdb": 9,
+    "lb": 17,
+    "imdb_pct": 4,
+    "lb_pct": 7,
+    "gap_pp": 3.2
+   },
+   {
+    "name": "France",
+    "imdb": 7,
+    "lb": 17,
+    "imdb_pct": 3,
+    "lb_pct": 7,
+    "gap_pp": 4.0
+   },
+   {
+    "name": "India",
+    "imdb": 8,
+    "lb": 5,
+    "imdb_pct": 3,
+    "lb_pct": 2,
+    "gap_pp": -1.2
+   },
+   {
+    "name": "Germany",
+    "imdb": 5,
+    "lb": 6,
+    "imdb_pct": 2,
+    "lb_pct": 2,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Iran",
+    "imdb": 2,
+    "lb": 6,
+    "imdb_pct": 1,
+    "lb_pct": 2,
+    "gap_pp": 1.6
+   },
+   {
+    "name": "Russia",
+    "imdb": 1,
+    "lb": 7,
+    "imdb_pct": 0,
+    "lb_pct": 3,
+    "gap_pp": 2.4
+   },
+   {
+    "name": "Sweden",
+    "imdb": 2,
+    "lb": 6,
+    "imdb_pct": 1,
+    "lb_pct": 2,
+    "gap_pp": 1.6
+   },
+   {
+    "name": "South Korea",
+    "imdb": 3,
+    "lb": 4,
+    "imdb_pct": 1,
+    "lb_pct": 2,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "New Zealand",
+    "imdb": 3,
+    "lb": 3,
+    "imdb_pct": 1,
+    "lb_pct": 1,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "China",
+    "imdb": 1,
+    "lb": 4,
+    "imdb_pct": 0,
+    "lb_pct": 2,
+    "gap_pp": 1.2
+   },
+   {
+    "name": "Brazil",
+    "imdb": 1,
+    "lb": 3,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Canada",
+    "imdb": 2,
+    "lb": 2,
+    "imdb_pct": 1,
+    "lb_pct": 1,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "Denmark",
+    "imdb": 1,
+    "lb": 3,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Ireland",
+    "imdb": 2,
+    "lb": 2,
+    "imdb_pct": 1,
+    "lb_pct": 1,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "Argentina",
+    "imdb": 2,
+    "lb": 1,
+    "imdb_pct": 1,
+    "lb_pct": 0,
+    "gap_pp": -0.4
+   },
+   {
+    "name": "Australia",
+    "imdb": 2,
+    "lb": 1,
+    "imdb_pct": 1,
+    "lb_pct": 0,
+    "gap_pp": -0.4
+   },
+   {
+    "name": "Hong Kong",
+    "imdb": 0,
+    "lb": 2,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Hungary",
+    "imdb": 0,
+    "lb": 2,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Mexico",
+    "imdb": 1,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "Spain",
+    "imdb": 1,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "Taiwan",
+    "imdb": 0,
+    "lb": 2,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Belgium",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Bosnia and Herzegovina",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Cuba",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Czech Republic",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Greece",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Lebanon",
+    "imdb": 1,
+    "lb": 0,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": -0.4
+   },
+   {
+    "name": "Romania",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Serbia",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Thailand",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Tunisia",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Turkey",
+    "imdb": 1,
+    "lb": 0,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": -0.4
+   }
+  ],
+  "decade": [
+   {
+    "name": "1920s",
+    "imdb": 6,
+    "lb": 2
+   },
+   {
+    "name": "1930s",
+    "imdb": 6,
+    "lb": 2
+   },
+   {
+    "name": "1940s",
+    "imdb": 9,
+    "lb": 13
+   },
+   {
+    "name": "1950s",
+    "imdb": 21,
+    "lb": 33
+   },
+   {
+    "name": "1960s",
+    "imdb": 17,
+    "lb": 36
+   },
+   {
+    "name": "1970s",
+    "imdb": 16,
+    "lb": 24
+   },
+   {
+    "name": "1980s",
+    "imdb": 26,
+    "lb": 21
+   },
+   {
+    "name": "1990s",
+    "imdb": 39,
+    "lb": 37
+   },
+   {
+    "name": "2000s",
+    "imdb": 48,
+    "lb": 36
+   },
+   {
+    "name": "2010s",
+    "imdb": 44,
+    "lb": 22
+   },
+   {
+    "name": "2020s",
+    "imdb": 18,
+    "lb": 24
+   }
+  ],
+  "runtime_longest": [
+   {
+    "id": "tt0111341",
+    "t": "Satantango",
+    "rt": 432,
+    "grp": "lb"
+   },
+   {
+    "id": "tt0346336",
+    "t": "The Best of Youth",
+    "rt": 367,
+    "grp": "imdb"
+   },
+   {
+    "id": "tt6019206",
+    "t": "Kill Bill: The Whole Bloody Affair",
+    "rt": 254,
+    "grp": "imdb"
+   },
+   {
+    "id": "tt0031381",
+    "t": "Gone with the Wind",
+    "rt": 238,
+    "grp": "imdb"
+   },
+   {
+    "id": "tt0101985",
+    "t": "A Brighter Summer Day",
+    "rt": 237,
+    "grp": "lb"
+   }
+  ],
+  "runtime_shortest": [
+   {
+    "id": "tt0015324",
+    "t": "Sherlock Jr.",
+    "rt": 45,
+    "grp": "both"
+   },
+   {
+    "id": "tt31711040",
+    "t": "Look Back",
+    "rt": 58,
+    "grp": "lb"
+   },
+   {
+    "id": "tt2396224",
+    "t": "It's Such a Beautiful Day",
+    "rt": 62,
+    "grp": "lb"
+   }
+  ],
+  "language": [
+   {
+    "name": "English",
+    "imdb": 187,
+    "lb": 110,
+    "imdb_pct": 75,
+    "lb_pct": 44,
+    "gap_pp": -30.8
+   },
+   {
+    "name": "Japanese",
+    "imdb": 19,
+    "lb": 47,
+    "imdb_pct": 8,
+    "lb_pct": 19,
+    "gap_pp": 11.2
+   },
+   {
+    "name": "French",
+    "imdb": 5,
+    "lb": 15,
+    "imdb_pct": 2,
+    "lb_pct": 6,
+    "gap_pp": 4.0
+   },
+   {
+    "name": "Italian",
+    "imdb": 4,
+    "lb": 13,
+    "imdb_pct": 2,
+    "lb_pct": 5,
+    "gap_pp": 3.6
+   },
+   {
+    "name": "German",
+    "imdb": 5,
+    "lb": 4,
+    "imdb_pct": 2,
+    "lb_pct": 2,
+    "gap_pp": -0.4
+   },
+   {
+    "name": "Silent",
+    "imdb": 6,
+    "lb": 3,
+    "imdb_pct": 2,
+    "lb_pct": 1,
+    "gap_pp": -1.2
+   },
+   {
+    "name": "Swedish",
+    "imdb": 2,
+    "lb": 7,
+    "imdb_pct": 1,
+    "lb_pct": 3,
+    "gap_pp": 2.0
+   },
+   {
+    "name": "Persian",
+    "imdb": 2,
+    "lb": 6,
+    "imdb_pct": 1,
+    "lb_pct": 2,
+    "gap_pp": 1.6
+   },
+   {
+    "name": "Russian",
+    "imdb": 1,
+    "lb": 7,
+    "imdb_pct": 0,
+    "lb_pct": 3,
+    "gap_pp": 2.4
+   },
+   {
+    "name": "Korean",
+    "imdb": 3,
+    "lb": 4,
+    "imdb_pct": 1,
+    "lb_pct": 2,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Spanish",
+    "imdb": 3,
+    "lb": 4,
+    "imdb_pct": 1,
+    "lb_pct": 2,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Hindi",
+    "imdb": 6,
+    "lb": 0,
+    "imdb_pct": 2,
+    "lb_pct": 0,
+    "gap_pp": -2.4
+   },
+   {
+    "name": "Mandarin",
+    "imdb": 0,
+    "lb": 6,
+    "imdb_pct": 0,
+    "lb_pct": 2,
+    "gap_pp": 2.4
+   },
+   {
+    "name": "Arabic",
+    "imdb": 2,
+    "lb": 2,
+    "imdb_pct": 1,
+    "lb_pct": 1,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "Danish",
+    "imdb": 1,
+    "lb": 3,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Portuguese",
+    "imdb": 1,
+    "lb": 3,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Tamil",
+    "imdb": 2,
+    "lb": 2,
+    "imdb_pct": 1,
+    "lb_pct": 1,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "Bengali",
+    "imdb": 0,
+    "lb": 3,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 1.2
+   },
+   {
+    "name": "Cantonese",
+    "imdb": 0,
+    "lb": 2,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Greek",
+    "imdb": 0,
+    "lb": 2,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Hungarian",
+    "imdb": 0,
+    "lb": 2,
+    "imdb_pct": 0,
+    "lb_pct": 1,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Czech",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Romanian",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Serbian",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Serbo-Croatian",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Thai",
+    "imdb": 0,
+    "lb": 1,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": 0.4
+   },
+   {
+    "name": "Turkish",
+    "imdb": 1,
+    "lb": 0,
+    "imdb_pct": 0,
+    "lb_pct": 0,
+    "gap_pp": -0.4
+   }
+  ],
+  "genre": [
+   {
+    "name": "Drama",
+    "imdb": 185,
+    "lb": 223,
+    "imdb_pct": 74,
+    "lb_pct": 89,
+    "gap_pp": 15.2
+   },
+   {
+    "name": "Adventure",
+    "imdb": 66,
+    "lb": 36,
+    "imdb_pct": 26,
+    "lb_pct": 14,
+    "gap_pp": -12.0
+   },
+   {
+    "name": "Action",
+    "imdb": 43,
+    "lb": 20,
+    "imdb_pct": 17,
+    "lb_pct": 8,
+    "gap_pp": -9.2
+   },
+   {
+    "name": "Crime",
+    "imdb": 54,
+    "lb": 39,
+    "imdb_pct": 22,
+    "lb_pct": 16,
+    "gap_pp": -6.0
+   },
+   {
+    "name": "Family",
+    "imdb": 28,
+    "lb": 16,
+    "imdb_pct": 11,
+    "lb_pct": 6,
+    "gap_pp": -4.8
+   },
+   {
+    "name": "Romance",
+    "imdb": 26,
+    "lb": 38,
+    "imdb_pct": 10,
+    "lb_pct": 15,
+    "gap_pp": 4.8
+   },
+   {
+    "name": "Sci-Fi",
+    "imdb": 32,
+    "lb": 21,
+    "imdb_pct": 13,
+    "lb_pct": 8,
+    "gap_pp": -4.4
+   },
+   {
+    "name": "Biography",
+    "imdb": 27,
+    "lb": 19,
+    "imdb_pct": 11,
+    "lb_pct": 8,
+    "gap_pp": -3.2
+   },
+   {
+    "name": "Thriller",
+    "imdb": 57,
+    "lb": 50,
+    "imdb_pct": 23,
+    "lb_pct": 20,
+    "gap_pp": -2.8
+   },
+   {
+    "name": "Sport",
+    "imdb": 8,
+    "lb": 2,
+    "imdb_pct": 3,
+    "lb_pct": 1,
+    "gap_pp": -2.4
+   },
+   {
+    "name": "Comedy",
+    "imdb": 42,
+    "lb": 38,
+    "imdb_pct": 17,
+    "lb_pct": 15,
+    "gap_pp": -1.6
+   },
+   {
+    "name": "Fantasy",
+    "imdb": 34,
+    "lb": 30,
+    "imdb_pct": 14,
+    "lb_pct": 12,
+    "gap_pp": -1.6
+   },
+   {
+    "name": "History",
+    "imdb": 9,
+    "lb": 13,
+    "imdb_pct": 4,
+    "lb_pct": 5,
+    "gap_pp": 1.6
+   },
+   {
+    "name": "Music",
+    "imdb": 6,
+    "lb": 10,
+    "imdb_pct": 2,
+    "lb_pct": 4,
+    "gap_pp": 1.6
+   },
+   {
+    "name": "Mystery",
+    "imdb": 37,
+    "lb": 33,
+    "imdb_pct": 15,
+    "lb_pct": 13,
+    "gap_pp": -1.6
+   },
+   {
+    "name": "Animation",
+    "imdb": 29,
+    "lb": 27,
+    "imdb_pct": 12,
+    "lb_pct": 11,
+    "gap_pp": -0.8
+   },
+   {
+    "name": "War",
+    "imdb": 32,
+    "lb": 34,
+    "imdb_pct": 13,
+    "lb_pct": 14,
+    "gap_pp": 0.8
+   },
+   {
+    "name": "Musical",
+    "imdb": 5,
+    "lb": 4,
+    "imdb_pct": 2,
+    "lb_pct": 2,
+    "gap_pp": -0.4
+   },
+   {
+    "name": "Western",
+    "imdb": 7,
+    "lb": 6,
+    "imdb_pct": 3,
+    "lb_pct": 2,
+    "gap_pp": -0.4
+   },
+   {
+    "name": "Film-Noir",
+    "imdb": 3,
+    "lb": 3,
+    "imdb_pct": 1,
+    "lb_pct": 1,
+    "gap_pp": 0.0
+   },
+   {
+    "name": "Horror",
+    "imdb": 10,
+    "lb": 10,
+    "imdb_pct": 4,
+    "lb_pct": 4,
+    "gap_pp": 0.0
+   }
+  ],
+  "directors": [
+   {
+    "name": "Akira Kurosawa",
+    "imdb": 6,
+    "lb": 9
+   },
+   {
+    "name": "Christopher Nolan",
+    "imdb": 9,
+    "lb": 5
+   },
+   {
+    "name": "Billy Wilder",
+    "imdb": 5,
+    "lb": 6
+   },
+   {
+    "name": "Stanley Kubrick",
+    "imdb": 7,
+    "lb": 3
+   },
+   {
+    "name": "Martin Scorsese",
+    "imdb": 7,
+    "lb": 2
+   },
+   {
+    "name": "Steven Spielberg",
+    "imdb": 7,
+    "lb": 2
+   },
+   {
+    "name": "Ingmar Bergman",
+    "imdb": 2,
+    "lb": 6
+   },
+   {
+    "name": "Quentin Tarantino",
+    "imdb": 6,
+    "lb": 2
+   },
+   {
+    "name": "Alfred Hitchcock",
+    "imdb": 5,
+    "lb": 2
+   },
+   {
+    "name": "Charlie Chaplin",
+    "imdb": 5,
+    "lb": 2
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "imdb": 4,
+    "lb": 3
+   },
+   {
+    "name": "Sergio Leone",
+    "imdb": 4,
+    "lb": 3
+   },
+   {
+    "name": "Denis Villeneuve",
+    "imdb": 3,
+    "lb": 3
+   },
+   {
+    "name": "Francis Ford Coppola",
+    "imdb": 3,
+    "lb": 3
+   },
+   {
+    "name": "Masaki Kobayashi",
+    "imdb": 1,
+    "lb": 5
+   },
+   {
+    "name": "Peter Jackson",
+    "imdb": 3,
+    "lb": 3
+   },
+   {
+    "name": "Andrei Tarkovsky",
+    "imdb": 0,
+    "lb": 5
+   },
+   {
+    "name": "David Fincher",
+    "imdb": 3,
+    "lb": 2
+   },
+   {
+    "name": "David Lean",
+    "imdb": 2,
+    "lb": 3
+   },
+   {
+    "name": "Sidney Lumet",
+    "imdb": 1,
+    "lb": 4
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "imdb": 0,
+    "lb": 4
+   },
+   {
+    "name": "Bong Joon Ho",
+    "imdb": 2,
+    "lb": 2
+   },
+   {
+    "name": "Brad Bird",
+    "imdb": 3,
+    "lb": 1
+   },
+   {
+    "name": "David Lynch",
+    "imdb": 1,
+    "lb": 3
+   },
+   {
+    "name": "Ethan Coen",
+    "imdb": 3,
+    "lb": 1
+   },
+   {
+    "name": "Frank Darabont",
+    "imdb": 2,
+    "lb": 2
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "imdb": 0,
+    "lb": 4
+   },
+   {
+    "name": "James Cameron",
+    "imdb": 3,
+    "lb": 1
+   },
+   {
+    "name": "Joel Coen",
+    "imdb": 3,
+    "lb": 1
+   },
+   {
+    "name": "Lee Unkrich",
+    "imdb": 4,
+    "lb": 0
+   },
+   {
+    "name": "Miloš Forman",
+    "imdb": 2,
+    "lb": 2
+   },
+   {
+    "name": "Richard Linklater",
+    "imdb": 2,
+    "lb": 2
+   },
+   {
+    "name": "Ridley Scott",
+    "imdb": 3,
+    "lb": 1
+   },
+   {
+    "name": "Roman Polanski",
+    "imdb": 2,
+    "lb": 2
+   },
+   {
+    "name": "Andrew Stanton",
+    "imdb": 2,
+    "lb": 1
+   },
+   {
+    "name": "Buster Keaton",
+    "imdb": 2,
+    "lb": 1
+   },
+   {
+    "name": "Carl Theodor Dreyer",
+    "imdb": 1,
+    "lb": 2
+   },
+   {
+    "name": "Clint Eastwood",
+    "imdb": 3,
+    "lb": 0
+   },
+   {
+    "name": "Federico Fellini",
+    "imdb": 0,
+    "lb": 3
+   },
+   {
+    "name": "Frank Capra",
+    "imdb": 2,
+    "lb": 1
+   },
+   {
+    "name": "Fritz Lang",
+    "imdb": 2,
+    "lb": 1
+   },
+   {
+    "name": "Hideaki Anno",
+    "imdb": 0,
+    "lb": 3
+   },
+   {
+    "name": "Hiroshi Teshigahara",
+    "imdb": 1,
+    "lb": 2
+   },
+   {
+    "name": "Isao Takahata",
+    "imdb": 1,
+    "lb": 2
+   },
+   {
+    "name": "Park Chan-wook",
+    "imdb": 1,
+    "lb": 2
+   },
+   {
+    "name": "Pete Docter",
+    "imdb": 3,
+    "lb": 0
+   },
+   {
+    "name": "Peter Weir",
+    "imdb": 2,
+    "lb": 1
+   },
+   {
+    "name": "Satyajit Ray",
+    "imdb": 0,
+    "lb": 3
+   },
+   {
+    "name": "Thomas Vinterberg",
+    "imdb": 1,
+    "lb": 2
+   },
+   {
+    "name": "Vittorio De Sica",
+    "imdb": 1,
+    "lb": 2
+   },
+   {
+    "name": "William Wyler",
+    "imdb": 2,
+    "lb": 1
+   },
+   {
+    "name": "Wim Wenders",
+    "imdb": 0,
+    "lb": 3
+   },
+   {
+    "name": "Yasujirō Ozu",
+    "imdb": 1,
+    "lb": 2
+   },
+   {
+    "name": "Adam Elliot",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Akiyuki Shinbō",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Anthony Russo",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Asghar Farhadi",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Bob Persichetti",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Béla Tarr",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Chris Sanders",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Christopher Miller",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Damien Chazelle",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Edward Yang",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Elem Klimov",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Emeric Pressburger",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Ettore Scola",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Fernando Meirelles",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Florian Henckel von Donnersmarck",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Florian Zeller",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Gene Kelly",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Gillo Pontecorvo",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Giuseppe Tornatore",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Gus Van Sant",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Guy Ritchie",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Henri-Georges Clouzot",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Irvin Kershner",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "James Mangold",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Joaquim Dos Santos",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Joe Russo",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "John Carpenter",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "John Cassavetes",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "John Huston",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Jonathan Demme",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Joseph L. Mankiewicz",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Juan José Campanella",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Justin K. Thompson",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Kemp Powers",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Kenji Mizoguchi",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Kirk Jones",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Kátia Lund",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Mathieu Kassovitz",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Mel Gibson",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Michael Curtiz",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Michael Mann",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Michael Powell",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Mikheil Kalatozishvili",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Paul Thomas Anderson",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Peter Ramsey",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Phil Lord",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Robert Wise",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Robert Zemeckis",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Roberto Benigni",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Rodney Rothman",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Ron Howard",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Sam Mendes",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Satoshi Kon",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Spike Lee",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Stanley Donen",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Stanley Kramer",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Tatsuya Yoshihara",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Theodoros Angelopoulos",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Tomm Moore",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Travis Knight",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Victor Fleming",
+    "imdb": 2,
+    "lb": 0
+   },
+   {
+    "name": "Walter Salles",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Wes Anderson",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "William Friedkin",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Wolfgang Petersen",
+    "imdb": 1,
+    "lb": 1
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "imdb": 0,
+    "lb": 2
+   },
+   {
+    "name": "Aamir Khan",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Adrian Molina",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Alexander Payne",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Alfonso Cuarón",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Anurag Kashyap",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Bo Hu",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Bob Fosse",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Bob Peterson",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Brian De Palma",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Bryan Singer",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "C. Prem Kumar",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Carlos Martínez López",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Carol Reed",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Chantal Akerman",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Charles Laughton",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Clyde Bruckman",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Costa-Gavras",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Cristian Mungiu",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Curtis Hanson",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Céline Sciamma",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Daisuke Nishio",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Damián Szifron",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Danny Boyle",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Darren Aronofsky",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "David Silverman",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "David Yates",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Dean DeBlois",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Dean Fleischer Camp",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Derek Tsang",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Dino Risi",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Don Hertzfeldt",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Elia Kazan",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Emir Kusturica",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Ernst Lubitsch",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "François Truffaut",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Gavin O'Connor",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "George Cukor",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "George Lucas",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "George Miller",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "George Roy Hill",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Gore Verbinski",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Greg Kwedar",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Guillermo del Toro",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Haruo Sotozaki",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Hikaru Kondô",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Hirotoshi Rissen",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Ishirō Honda",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Jacques Becker",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Jacques Demy",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "James McTeigue",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Jan Pinkava",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Jasmila Zbanic",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Javier Ambrossi",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Javier Calvo",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Jean-Pierre Jeunet",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Jean-Pierre Melville",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Jim Sheridan",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "John Ford",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "John G. Avildsen",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "John Lasseter",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "John McTiernan",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "John Sturges",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Jon Watts",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Jordan Firstman",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Joseph Kosinski",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Jules Dassin",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Juraj Herz",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Jūzō Itami",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Kaige Chen",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Kaouther Ben Hania",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Katsuhiro Ōtomo",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Katsuichi Nakayama",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Kazuhisa Takenouchi",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Kazuya Tsurumaki",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Ken Russell",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Kiyoshi Kurosawa",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Kiyotaka Oshiyama",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Krzysztof Kieślowski",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Lana Wachowski",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Larisa Shepitko",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Lasse Hallström",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Lenny Abrahamson",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Lilly Wachowski",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Luc Besson",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Luchino Visconti",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "M. Night Shyamalan",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Mahiro Maeda",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Majid Majidi",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Makoto Shinkai",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Marcel Carné",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Marco Tullio Giordana",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Martin McDonagh",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Michael Cimino",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Michel Gondry",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Michelangelo Antonioni",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Mike Leigh",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Mike Nichols",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Mohsen Makhmalbaf",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Nadine Labaki",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Naoko Yamada",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Nishikant Kamat",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Nitesh Tiwari",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Nithilan Saminathan",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Norman Taurog",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Oliver Hirschbiegel",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Oliver Stone",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Olivier Nakache",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Orson Welles",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Otto Preminger",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Pat Boonnitipat",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Paul Schrader",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Peter Bogdanovich",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Peter Farrelly",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "R. Nandhakumar",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Rajkumar Hirani",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Richard Marquand",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Rob Minkoff",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Rob Reiner",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Robert Bresson",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Robert Mulligan",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Roberto Gavaldón",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Roger Allers",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Ronnie Del Carmen",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Ross Stewart",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Ryota Aikei",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Sergio Pablos",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Shinobu Yaguchi",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Shōgo Furuya",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Sion Sono",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Steve McQueen",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "T. Suresh",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "T.J. Gnanavel",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Takehiko Inoue",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Tarsem Singh",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Tatsuya Oishi",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Terry George",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Terry Gilliam",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Terry Jones",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Tetsuya Nakashima",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Thomas Kail",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Todd Phillips",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Tokio Igarashi",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Tom McCarthy",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Tony Kaye",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Toshio Matsumoto",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Vetrimaaran",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Vidhu Vinod Chopra",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Xavier Dolan",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Yimou Zhang",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Yukihiro Miyamoto",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Yūichirō Hayashi",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Ágnes Hranitzky",
+    "imdb": 0,
+    "lb": 1
+   },
+   {
+    "name": "Çağan Irmak",
+    "imdb": 1,
+    "lb": 0
+   },
+   {
+    "name": "Éric Toledano",
+    "imdb": 1,
+    "lb": 0
+   }
+  ],
+  "directors_shared_no_common_film": [
+   "Wes Anderson",
+   "William Friedkin"
+  ],
+  "crew": [
+   {
+    "role": "director",
+    "imdb": {
+     "women": 4,
+     "men": 264,
+     "unknown": 1,
+     "pct": 1.5,
+     "unknown_pct": 0
+    },
+    "lb": {
+     "women": 5,
+     "men": 262,
+     "unknown": 1,
+     "pct": 1.9,
+     "unknown_pct": 0
+    },
+    "p": 0.75
+   },
+   {
+    "role": "writer",
+    "imdb": {
+     "women": 49,
+     "men": 510,
+     "unknown": 30,
+     "pct": 8.8,
+     "unknown_pct": 5
+    },
+    "lb": {
+     "women": 40,
+     "men": 482,
+     "unknown": 38,
+     "pct": 7.7,
+     "unknown_pct": 7
+    },
+    "p": 0.58
+   },
+   {
+    "role": "producer",
+    "imdb": {
+     "women": 70,
+     "men": 341,
+     "unknown": 48,
+     "pct": 17.0,
+     "unknown_pct": 10
+    },
+    "lb": {
+     "women": 50,
+     "men": 303,
+     "unknown": 72,
+     "pct": 14.2,
+     "unknown_pct": 17
+    },
+    "p": 0.32
+   },
+   {
+    "role": "editor",
+    "imdb": {
+     "women": 50,
+     "men": 245,
+     "unknown": 29,
+     "pct": 16.9,
+     "unknown_pct": 9
+    },
+    "lb": {
+     "women": 53,
+     "men": 199,
+     "unknown": 59,
+     "pct": 21.0,
+     "unknown_pct": 19
+    },
+    "p": 0.23
+   },
+   {
+    "role": "cinematographer",
+    "imdb": {
+     "women": 4,
+     "men": 235,
+     "unknown": 12,
+     "pct": 1.7,
+     "unknown_pct": 5
+    },
+    "lb": {
+     "women": 7,
+     "men": 238,
+     "unknown": 23,
+     "pct": 2.9,
+     "unknown_pct": 9
+    },
+    "p": 0.54
+   },
+   {
+    "role": "composer",
+    "imdb": {
+     "women": 11,
+     "men": 237,
+     "unknown": 9,
+     "pct": 4.4,
+     "unknown_pct": 4
+    },
+    "lb": {
+     "women": 5,
+     "men": 220,
+     "unknown": 21,
+     "pct": 2.2,
+     "unknown_pct": 9
+    },
+    "p": 0.21
+   },
+   {
+    "role": "production_designer",
+    "imdb": {
+     "women": 20,
+     "men": 148,
+     "unknown": 41,
+     "pct": 11.9,
+     "unknown_pct": 20
+    },
+    "lb": {
+     "women": 26,
+     "men": 123,
+     "unknown": 48,
+     "pct": 17.4,
+     "unknown_pct": 24
+    },
+    "p": 0.2
+   }
+  ],
+  "rank_gap_top": [
+   {
+    "id": "tt0076759",
+    "t": "Star Wars: Episode IV - A New Hope",
+    "ir": 30,
+    "lr": 439
+   },
+   {
+    "id": "tt1675434",
+    "t": "Untouchable",
+    "ir": 48,
+    "lr": 446
+   },
+   {
+    "id": "tt0082971",
+    "t": "Raiders of the Lost Ark",
+    "ir": 61,
+    "lr": 458
+   },
+   {
+    "id": "tt23849204",
+    "t": "12th Fail",
+    "ir": 73,
+    "lr": 456
+   },
+   {
+    "id": "tt0133093",
+    "t": "The Matrix",
+    "ir": 16,
+    "lr": 391
+   },
+   {
+    "id": "tt0120586",
+    "t": "American History X",
+    "ir": 43,
+    "lr": 411
+   },
+   {
+    "id": "tt0109830",
+    "t": "Forrest Gump",
+    "ir": 12,
+    "lr": 377
+   },
+   {
+    "id": "tt0086250",
+    "t": "Scarface",
+    "ir": 105,
+    "lr": 454
+   },
+   {
+    "id": "tt0209144",
+    "t": "Memento",
+    "ir": 59,
+    "lr": 392
+   },
+   {
+    "id": "tt15398776",
+    "t": "Oppenheimer",
+    "ir": 139,
+    "lr": 466
+   },
+   {
+    "id": "tt0071853",
+    "t": "Monty Python and the Holy Grail",
+    "ir": 168,
+    "lr": 474
+   },
+   {
+    "id": "tt0457430",
+    "t": "Pan's Labyrinth",
+    "ir": 156,
+    "lr": 462
+   }
+  ]
+ }
+}

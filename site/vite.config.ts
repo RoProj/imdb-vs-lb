@@ -1,8 +1,10 @@
 import { sveltekit } from '@sveltejs/kit/vite';
-import { defineConfig } from 'vite';
+import { defineConfig, loadEnv } from 'vite';
 
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
   plugins: [sveltekit()],
+  // the site's full address (set by the GitHub Pages workflow), so shared links can point at the preview image
+  define: { __SITE_URL__: JSON.stringify((loadEnv(mode, '.', '').SITE_URL || '').replace(/\/$/, '')) },
   server: {
     port: 5188,
     strictPort: true,
@@ -11,6 +13,6 @@ export default defineConfig({
   },
   // bundle the chart libraries up front, so the first visit to a page never triggers a "dependencies changed" reload
   optimizeDeps: {
-    include: ['d3-quadtree', 'd3-zoom', 'd3-selection', 'd3-transition', 'd3-scale', 'd3-geo', 'topojson-client']
+    include: ['d3-quadtree', 'd3-zoom', 'd3-selection', 'd3-transition']
   }
-});
+}));

@@ -1,5 +1,7 @@
 # Quantifying Taste
 
+**[View the live site →](https://roproj.github.io/imdb-vs-lb/)**
+
 A scrolling data story comparing **IMDb's** Top 250 with the top 250 of **Letterboxd's** Top 500. Both sites let people rate the films they watch, and both keep a ranked list of the best. Only 111 films are on both. The story looks at where the two lists overlap and where they split: by country, by director, by how many films were directed by women, and by the films one list loves and the other leaves out. It ends with a short quiz: which list are you?
 
 Built with SvelteKit and Svelte 5. The charts are drawn on canvas and driven by ordinary page scrolling. They work on phones, tablets and desktops, with keyboard support and a reduced-motion mode.
@@ -12,6 +14,27 @@ Built with SvelteKit and Svelte 5. The charts are drawn on canvas and driven by 
 4. **Women directors.** How few films on either list were directed by women.
 5. **Disagreements.** The films one list ranks high and the other doesn't include.
 6. **Your turn.** Pick your favourites and see which list you lean toward.
+
+## Running it
+
+You need Node 18+ and Python 3.
+
+```bash
+cd site
+npm install
+npm run dev
+```
+
+`npm run build` checks the data first (`scripts/check_export.py`, over 17,000 checks that every number on the site matches the data). Then it copies the data into the site and writes a static site to `site/build/`, ready for any static host.
+
+It's published with GitHub Pages at [roproj.github.io/imdb-vs-lb](https://roproj.github.io/imdb-vs-lb/): `.github/workflows/deploy.yml` builds the site and publishes it whenever `main` changes. To set it up on a new copy, go to Settings → Pages and set Source to "GitHub Actions".
+
+## Folders
+
+- `site/`: the website.
+- `data/`: cleaned data. `data/site/` holds the files the website reads.
+- `scripts/`: the Python pipeline that cleans, joins and checks the data, and exports it for the site.
+- `raw/`: one file of IMDb film metadata, used by the data check. The other raw inputs (scraped pages, logs) aren't included.
 
 ## Data
 

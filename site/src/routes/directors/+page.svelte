@@ -110,7 +110,6 @@
 {:else if N && lay && dirs.length}
   <Beat
     visible={guess ? IDS.length : 1}
-    beat={3}
     layout={lay}
     {steps}
     ids={IDS}

@@ -94,7 +94,6 @@
   <p class="col story-error">Could not load the data: {error}</p>
 {:else if N && lay && unit}
   <Beat
-    beat={2}
     layout={lay}
     {steps}
     ids={IDS}

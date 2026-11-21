@@ -104,7 +104,6 @@
   <p class="col story-error">Could not load the data: {error}</p>
 {:else if N && lay && inception && shawshank && harakiri}
   <Beat lbTop500
-    beat={5}
     layout={lay}
     {steps}
     ids={IDS}

@@ -76,7 +76,6 @@
   <p class="col story-error">Could not load the data: {error}</p>
 {:else if N && lay && films.length}
   <Beat
-    beat={4}
     layout={lay}
     {steps}
     ids={IDS}

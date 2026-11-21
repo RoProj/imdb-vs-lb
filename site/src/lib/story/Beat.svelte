@@ -31,19 +31,12 @@
     next?: Snippet;
     /** how many steps are open; the rest stay hidden until the page opens them (e.g. after the reader answers a question) */
     visible?: number;
-    /** which beat this is, for the story progress bar along the top of the screen */
-    beat?: number;
-    of?: number;
     active?: number;
     /** film cards show Letterboxd's whole Top 500 (the disagreements page); otherwise only its Top 250 counts */
     lbTop500?: boolean;
   }
-  let { layout, steps, ids, numbers, films, summary, card, keyNote, next, visible, beat = 1, of = 6, active = $bindable(0), lbTop500 = false }: Props = $props();
+  let { layout, steps, ids, numbers, films, summary, card, keyNote, next, visible, active = $bindable(0), lbTop500 = false }: Props = $props();
   const shownIds = $derived(ids.slice(0, visible ?? ids.length));
-
-  // how far through the whole story the reader is: finished beats plus this beat's progress
-  const storyDone = $derived(Math.min(1, ((beat - 1) + progressShare()) / of));
-  function progressShare() { return ids.length > 1 ? Math.max(0, Math.min(1, progress / (ids.length - 1))) : 0; }
 
   // The page ends where the last link to the next beat sits in the middle of the screen (wide screens), or where the
   // last caption sits just under the pinned chart (phones), so the closing card is never cut off. The spacer after
@@ -207,11 +200,6 @@
 
 <svelte:window onscroll={onScroll} onresize={() => { measure(); onScroll(); }} />
 
-<!-- story progress: a thin bar along the top of the screen, across all five beats -->
-<div class="story-bar" role="progressbar" aria-label="Progress through the story" aria-valuemin="0" aria-valuemax="100" aria-valuenow={Math.round(storyDone * 100)}>
-  <span style:transform="scaleX({storyDone})"></span>
-</div>
-
 <div class="scrolly" class:is-wide={wide} style="--vh:{vh}px; --stage:{stageH}px; --card-w:{cardW}px; --card-pad:{cardPad}px; --clear-left:{clearLeft}px">
   <div class="stage-wrap" style:transform={lift ? `translateY(${-lift}px)` : null}>
     <p class="sr-only">{summary}</p>
@@ -302,11 +290,6 @@
   .card :global(.mini thead .imdb span) { background: var(--imdb-tag); color: var(--imdb-tag-ink); }
   .card :global(.mini thead .lb span) { background: var(--lb-tag); color: var(--lb-tag-ink); }
 
-  .story-bar { position: fixed; z-index: 30; top: 0; left: 0; right: 0; height: 3px; background: color-mix(in srgb, var(--line) 50%, transparent); pointer-events: none; }
-  .story-bar span {
-    display: block; height: 100%; transform-origin: left center;
-    background: linear-gradient(90deg, var(--imdb), var(--both) 50%, var(--lb));
-  }
   /* the bottom strip is (inset.bottom - 4) px tall; this row is 44 px tall and sits on its centre line */
   .tools { position: absolute; z-index: 3; right: 14px; bottom: 3px; height: 44px; display: flex; align-items: center; gap: 10px; }
   .is-wide .tools { right: 32px; bottom: 2px; }

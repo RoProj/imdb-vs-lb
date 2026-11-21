@@ -124,7 +124,6 @@
   <p class="col story-error">Could not load the data: {error}</p>
 {:else if N && split && merge && inception}
   <Beat
-    beat={1}
     layout={split}
     {steps}
     ids={IDS}
